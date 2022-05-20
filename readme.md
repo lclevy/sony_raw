@@ -50,6 +50,7 @@ Here is a more detailed view of evolution:
 | A7 III      | fev2018      | ARW 2.3.3                                      |
 | A9 II       | aug2020      | ARW 2.3.5                                      |
 | A1          | apr2021      | ARW 4.0. <br>First ILC with Lossless RAW       |
+| A7 IV       | fev2022      | ARW 4.0                                        |
 
 You can extract format information with Exiftool with **-FileFormat** :
 
