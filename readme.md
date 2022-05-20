@@ -1,6 +1,6 @@
 # Description of Sony RAW file formats (SRF, SR2 and ARW)
 
-Version 0.5 (20may2022)
+Version 0.51 (20may2022)
 
 (this is work in progress)
 
@@ -46,6 +46,7 @@ Here is a more detailed view of evolution:
 | A7R II      | jun2015      | ARW 2.3.1, 14 bits<br/>**uncompressed 14bits** |
 | RX10 III    | jul2016      | ARW 2.3.2                                      |
 | A9          | apr2017      | ARW 2.3.3                                      |
+| A7R III     | nov2017      | ARW 2.3.3<br/>can create **ARQ**               |
 | A7 III      | fev2018      | ARW 2.3.3                                      |
 | A9 II       | aug2020      | ARW 2.3.5                                      |
 | A1          | apr2021      | ARW 4.0. <br>First ILC with Lossless RAW       |
@@ -155,7 +156,7 @@ See http://www.rawsamples.ch/raws/sony/r1/RAW_SONY_R1.SR2 (Exiftool : [RAW_SONY_
 
 See http://www.rawsamples.ch/raws/sony/a100/RAW_SONY_A100.ARW (Exiftool: [RAW_SONY_A100.txt](RAW_SONY_A100.txt))
 
-#### ##### version 4.0
+#### version 4.0
 
 Dated July 2021
 
@@ -192,13 +193,33 @@ Dated July 2021
 
 Exiftool : [SONY_A9_DSC04458.txt](SONY_A9_DSC04458.txt)
 
+## ARQ
+
+ARQ likely means Alpha Raw Quad shots, which uses pixel shifting to capture high resolution pictures by combining 4 ARW pictures. This features is available with A7R III and requires Sony software Image Edge. See also [Pixel Shift Multi Shooting | SONY](https://support.d-imaging.sony.co.jp/support/ilc/psms/ilce7rm4/en/index.html). 
+
+Supported by RawDigger 1.2.24 and Lightroom Classic CC 7.3.
+
+```
+>exiftool -FileFormat -RAWFileType -BitsPerSample -PixelShiftInfo "Sony-ILCE-7RM3.tif"
+File Format                     : ARW 2.3.5
+RAW File Type                   : Uncompressed RAW
+Bits Per Sample                 : 14
+Pixel Shift Info                : Group 12094102, Composed 4-shot (0x3c3)
+```
+
+## 
+
 ## References
 
 - [RawDigger: detecting posterization in SONY cRAW/ARW2 files | RawDigger](https://www.rawdigger.com/howtouse/sony-craw-arw2-posterization-detection), Iliah Borg, June 2014
 
 - Sony ARW2 Compression: Artifacts And Credible Repair, Henry Gordon Dietz, Kentucky Univ, 2016, https://library.imaging.org/admin/apis/public/api/sandbox/website/downloadArticle/ei/28/2/art00020
 
-- Sony, [What shooting settings affect RAW image bit sizes (14 bits to 12bits)?](https://www.sony.co.uk/electronics/support/articles/00229990))
+- Sony, [What shooting settings affect RAW image bit sizes (14 bits to 12bits)?](https://www.sony.co.uk/electronics/support/articles/00229990)
+
+- Rawdigger, 23jan2018, [SonyPixelShift2DNG (Beta 0.8): Convert Sony A7R-III Pixel Shift Mode Shots to DNG | FastRawViewer](https://www.fastrawviewer.com/blog/SonyPixelShift2DNG-converter-Beta)
+  
+  
 
 ## Tools support
 
@@ -211,6 +232,10 @@ Exiftool : [SONY_A9_DSC04458.txt](SONY_A9_DSC04458.txt)
 - Phase One
 
 - Camera Raw
+
+- DNGlab : [dnglab/arw.rs at main · dnglab/dnglab · GitHub](https://github.com/dnglab/dnglab/blob/main/rawler/src/decoders/arw.rs)
+  
+  
 
 ## Firmware hacking
 
@@ -225,3 +250,7 @@ Exiftool : [SONY_A9_DSC04458.txt](SONY_A9_DSC04458.txt)
 - https://www.photographyblog.com/pages/reviews/reviews_sony_a900_3.php
 
 - dpreview.com
+
+- https://raw.pixls.us/
+  
+  
