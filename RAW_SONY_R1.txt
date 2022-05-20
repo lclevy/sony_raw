@@ -1,0 +1,1918 @@
+  ExifToolVersion = 11.52
+  FileName = RAW_SONY_R1.SR2
+  Directory = e:/raw_samples/sony
+  FileSize = 21035488
+  FileModifyDate = 1652963682
+  FileAccessDate = 1652963684
+  FileCreateDate = 1652958686.29
+  FilePermissions = 33206
+  FileType = SR2
+  FileTypeExtension = SR2
+  MIMEType = image/x-sony-sr2
+  ExifByteOrder = II
+  + [IFD0 directory with 15 entries]
+  | 0)  SubfileType = 1
+  |     - Tag 0x00fe (4 bytes, int32u[1]):
+  |         0012: 01 00 00 00                                     [....]
+  | 1)  Compression = 6
+  |     - Tag 0x0103 (2 bytes, int16u[1]):
+  |         001e: 06 00                                           [..]
+  | 2)  ImageDescription =                                
+  |     - Tag 0x010e (32 bytes, string[32]):
+  |         00e6: 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 [                ]
+  |         00f6: 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 00 [               .]
+  | 3)  Make = SONY
+  |     - Tag 0x010f (5 bytes, string[5]):
+  |         0106: 53 4f 4e 59 00                                  [SONY.]
+  | 4)  Model = DSC-R1
+  |     - Tag 0x0110 (7 bytes, string[7]):
+  |         010c: 44 53 43 2d 52 31 00                            [DSC-R1.]
+  | 5)  Orientation = 1
+  |     - Tag 0x0112 (2 bytes, int16u[1]):
+  |         004e: 01 00                                           [..]
+  | 6)  XResolution = 72 (72/1)
+  |     - Tag 0x011a (8 bytes, rational64u[1]):
+  |         0114: 48 00 00 00 01 00 00 00                         [H.......]
+  | 7)  YResolution = 72 (72/1)
+  |     - Tag 0x011b (8 bytes, rational64u[1]):
+  |         011c: 48 00 00 00 01 00 00 00                         [H.......]
+  | 8)  ResolutionUnit = 2
+  |     - Tag 0x0128 (2 bytes, int16u[1]):
+  |         0072: 02 00                                           [..]
+  | 9)  ModifyDate = 2007:03:24 11:17:27
+  |     - Tag 0x0132 (20 bytes, string[20]):
+  |         0124: 32 30 30 37 3a 30 33 3a 32 34 20 31 31 3a 31 37 [2007:03:24 11:17]
+  |         0134: 3a 32 37 00                                     [:27.]
+  | FileType [override] = ARW
+  | FileTypeExtension [override] = ARW
+  | MIMEType [override] = image/x-sony-arw
+  | 10) SubIFD (SubDirectory) -->
+  |     - Tag 0x014a (4 bytes, int32u[1]):
+  |         008a: d0 e2 03 00                                     [....]
+  | + [SubIFD directory with 19 entries]
+  | | 0)  SubfileType = 0
+  | |     - Tag 0x00fe (4 bytes, int32u[1]):
+  | |        3e2da: 00 00 00 00                                     [....]
+  | | 1)  ImageWidth = 3984
+  | |     - Tag 0x0100 (4 bytes, int32u[1]):
+  | |        3e2e6: 90 0f 00 00                                     [....]
+  | | 2)  ImageHeight = 2608
+  | |     - Tag 0x0101 (4 bytes, int32u[1]):
+  | |        3e2f2: 30 0a 00 00                                     [0...]
+  | | 3)  BitsPerSample = 14
+  | |     - Tag 0x0102 (2 bytes, int16u[1]):
+  | |        3e2fe: 0e 00                                           [..]
+  | | 4)  Compression = 1
+  | |     - Tag 0x0103 (2 bytes, int16u[1]):
+  | |        3e30a: 01 00                                           [..]
+  | | 5)  PhotometricInterpretation = 32803
+  | |     - Tag 0x0106 (2 bytes, int16u[1]):
+  | |        3e316: 23 80                                           [#.]
+  | | 6)  StripOffsets = 254944
+  | |     - Tag 0x0111 (4 bytes, int32u[1]):
+  | |        3e322: e0 e3 03 00                                     [....]
+  | | 7)  Orientation = 1
+  | |     - Tag 0x0112 (2 bytes, int16u[1]):
+  | |        3e32e: 01 00                                           [..]
+  | | 8)  SamplesPerPixel = 1
+  | |     - Tag 0x0115 (2 bytes, int16u[1]):
+  | |        3e33a: 01 00                                           [..]
+  | | 9)  RowsPerStrip = 2608
+  | |     - Tag 0x0116 (4 bytes, int32u[1]):
+  | |        3e346: 30 0a 00 00                                     [0...]
+  | | 10) StripByteCounts = 20780544
+  | |     - Tag 0x0117 (4 bytes, int32u[1]):
+  | |        3e352: 00 16 3d 01                                     [..=.]
+  | | 11) XResolution = 72 (72/1)
+  | |     - Tag 0x011a (8 bytes, rational64u[1]):
+  | |        3e3ba: 48 00 00 00 01 00 00 00                         [H.......]
+  | | 12) YResolution = 72 (72/1)
+  | |     - Tag 0x011b (8 bytes, rational64u[1]):
+  | |        3e3c2: 48 00 00 00 01 00 00 00                         [H.......]
+  | | 13) PlanarConfiguration = 1
+  | |     - Tag 0x011c (2 bytes, int16u[1]):
+  | |        3e376: 01 00                                           [..]
+  | | 14) ResolutionUnit = 2
+  | |     - Tag 0x0128 (2 bytes, int16u[1]):
+  | |        3e382: 02 00                                           [..]
+  | | 15) SonyRawFileType = 0
+  | |     - Tag 0x7000 (2 bytes, int16u[1]):
+  | |        3e38e: 00 00                                           [..]
+  | | 16) Exif_0x7001 = 0
+  | |     - Tag 0x7001 (2 bytes, int16u[1]):
+  | |        3e39a: 00 00                                           [..]
+  | | 17) CFARepeatPatternDim = 2 2
+  | |     - Tag 0x828d (4 bytes, int16u[2]):
+  | |        3e3a6: 02 00 02 00                                     [....]
+  | | 18) CFAPattern2 = 1 0 2 1
+  | |     - Tag 0x828e (4 bytes, int8u[4]):
+  | |        3e3b2: 01 00 02 01                                     [....]
+  | 11) PreviewImageStart = 1358
+  |     - Tag 0x0201 (4 bytes, int32u[1]):
+  |         0096: 4e 05 00 00                                     [N...]
+  | 12) PreviewImageLength = 134520
+  |     - Tag 0x0202 (4 bytes, int32u[1]):
+  |         00a2: 78 0d 02 00                                     [x...]
+  | 13) ExifOffset (SubDirectory) -->
+  |     - Tag 0x8769 (4 bytes, int32u[1]):
+  |         00ae: 94 01 00 00                                     [....]
+  | + [ExifIFD directory with 30 entries]
+  | | 0)  ExposureTime = 0.0025 (10/4000)
+  | |     - Tag 0x829a (8 bytes, rational64u[1]):
+  | |         030e: 0a 00 00 00 a0 0f 00 00                         [........]
+  | | 1)  FNumber = 8 (80/10)
+  | |     - Tag 0x829d (8 bytes, rational64u[1]):
+  | |         0316: 50 00 00 00 0a 00 00 00                         [P.......]
+  | | 2)  ExposureProgram = 2
+  | |     - Tag 0x8822 (2 bytes, int16u[1]):
+  | |         01b6: 02 00                                           [..]
+  | | 3)  ISO = 160
+  | |     - Tag 0x8827 (2 bytes, int16u[1]):
+  | |         01c2: a0 00                                           [..]
+  | | 4)  ExifVersion = 0221
+  | |     - Tag 0x9000 (4 bytes, undef[4]):
+  | |         01ce: 30 32 32 31                                     [0221]
+  | | 5)  DateTimeOriginal = 2007:03:24 11:17:27
+  | |     - Tag 0x9003 (20 bytes, string[20]):
+  | |         031e: 32 30 30 37 3a 30 33 3a 32 34 20 31 31 3a 31 37 [2007:03:24 11:17]
+  | |         032e: 3a 32 37 00                                     [:27.]
+  | | 6)  ComponentsConfiguration = 1 2 3 0
+  | |     - Tag 0x9101 (4 bytes, undef[4] read as int8u[4]):
+  | |         01e6: 01 02 03 00                                     [....]
+  | | 7)  CompressedBitsPerPixel = 4 (4/1)
+  | |     - Tag 0x9102 (8 bytes, rational64u[1]):
+  | |         0332: 04 00 00 00 01 00 00 00                         [........]
+  | | Warning = Tag ID 0x9004 CreateDate out of sequence in ExifIFD
+  | | 8)  CreateDate = 2007:03:24 11:17:27
+  | |     - Tag 0x9004 (20 bytes, string[20]):
+  | |         033a: 32 30 30 37 3a 30 33 3a 32 34 20 31 31 3a 31 37 [2007:03:24 11:17]
+  | |         034a: 3a 32 37 00                                     [:27.]
+  | | 9)  ExposureCompensation = -0.3 (-3/10)
+  | |     - Tag 0x9204 (8 bytes, rational64s[1]):
+  | |         034e: fd ff ff ff 0a 00 00 00                         [........]
+  | | 10) MaxApertureValue = 2.9375 (47/16)
+  | |     - Tag 0x9205 (8 bytes, rational64u[1]):
+  | |         0356: 2f 00 00 00 10 00 00 00                         [/.......]
+  | | 11) MeteringMode = 5
+  | |     - Tag 0x9207 (2 bytes, int16u[1]):
+  | |         0222: 05 00                                           [..]
+  | | 12) LightSource = 0
+  | |     - Tag 0x9208 (2 bytes, int16u[1]):
+  | |         022e: 00 00                                           [..]
+  | | 13) Flash = 16
+  | |     - Tag 0x9209 (2 bytes, int16u[1]):
+  | |         023a: 10 00                                           [..]
+  | | 14) FocalLength = 67.5 (675/10)
+  | |     - Tag 0x920a (8 bytes, rational64u[1]):
+  | |         035e: a3 02 00 00 0a 00 00 00                         [........]
+  | | 15) MakerNoteSony5 (SubDirectory) -->
+  | |     - Tag 0x927c (258 bytes, undef[258]):
+  | |         0366: 13 00 00 20 07 00 01 00 00 00 00 00 00 00 00 b0 [... ............]
+  | |         0376: 01 00 04 00 00 00 01 00 00 00 01 b0 03 00 01 00 [................]
+  | |         0386: 00 00 02 00 00 00 20 b0 02 00 09 00 00 00 50 04 [...... .......P.]
+  | |         0396: 00 00 40 b0 03 00 01 00 00 00 00 00 00 00 41 b0 [..@...........A.]
+  | |         03a6: 03 00 01 00 00 00 00 00 00 00 42 b0 03 00 01 00 [..........B.....]
+  | |         [snip 178 bytes]
+  | | + [MakerNotes directory with 19 entries]
+  | | | 0)  Sony_0x2000 = 0
+  | | |     - Tag 0x2000 (1 bytes, undef[1]):
+  | | |         0370: 00                                              [.]
+  | | | 1)  FileFormat = 1 0 0 0
+  | | |     - Tag 0xb000 (4 bytes, int8u[4]):
+  | | |         037c: 01 00 00 00                                     [....]
+  | | | FileType [override] = SR2
+  | | | FileTypeExtension [override] = SR2
+  | | | MIMEType [override] = image/x-sony-sr2
+  | | | 2)  SonyModelID = 2
+  | | |     - Tag 0xb001 (2 bytes, int16u[1]):
+  | | |         0388: 02 00                                           [..]
+  | | | 3)  CreativeStyle = Standard
+  | | |     - Tag 0xb020 (9 bytes, string[9]):
+  | | |         0450: 53 74 61 6e 64 61 72 64 00                      [Standard.]
+  | | | 4)  Macro = 0
+  | | |     - Tag 0xb040 (2 bytes, int16u[1]):
+  | | |         03a0: 00 00                                           [..]
+  | | | 5)  ExposureMode = 0
+  | | |     - Tag 0xb041 (2 bytes, int16u[1]):
+  | | |         03ac: 00 00                                           [..]
+  | | | 6)  FocusMode = 1
+  | | |     - Tag 0xb042 (2 bytes, int16u[1]):
+  | | |         03b8: 01 00                                           [..]
+  | | | 7)  AFAreaMode = 1
+  | | |     - Tag 0xb043 (2 bytes, int16u[1]):
+  | | |         03c4: 01 00                                           [..]
+  | | | 8)  AFIlluminator = 1
+  | | |     - Tag 0xb044 (2 bytes, int16u[1]):
+  | | |         03d0: 01 00                                           [..]
+  | | | 9)  Sony_0xb045 = 0
+  | | |     - Tag 0xb045 (2 bytes, int16u[1]):
+  | | |         03dc: 00 00                                           [..]
+  | | | 10) Sony_0xb046 = 0
+  | | |     - Tag 0xb046 (2 bytes, int16u[1]):
+  | | |         03e8: 00 00                                           [..]
+  | | | 11) JPEGQuality = 0
+  | | |     - Tag 0xb047 (2 bytes, int16u[1]):
+  | | |         03f4: 00 00                                           [..]
+  | | | 12) FlashLevel = -1
+  | | |     - Tag 0xb048 (2 bytes, int16s[1]):
+  | | |         0400: ff ff                                           [..]
+  | | | 13) ReleaseMode = 0
+  | | |     - Tag 0xb049 (2 bytes, int16u[1]):
+  | | |         040c: 00 00                                           [..]
+  | | | 14) SequenceNumber = 0
+  | | |     - Tag 0xb04a (2 bytes, int16u[1]):
+  | | |         0418: 00 00                                           [..]
+  | | | 15) Anti-Blur = 0
+  | | |     - Tag 0xb04b (2 bytes, int16u[1]):
+  | | |         0424: 00 00                                           [..]
+  | | | 16) Sony_0xb04c = 1 (1/1)
+  | | |     - Tag 0xb04c (8 bytes, rational64u[1]):
+  | | |         0460: 01 00 00 00 01 00 00 00                         [........]
+  | | | 17) Sony_0xb04d = 1
+  | | |     - Tag 0xb04d (2 bytes, int16u[1]):
+  | | |         043c: 01 00                                           [..]
+  | | | 18) Sony_0xb04e = 1
+  | | |     - Tag 0xb04e (2 bytes, int16u[1]):
+  | | |         0448: 01 00                                           [..]
+  | | 16) FlashpixVersion = 0100
+  | |     - Tag 0xa000 (4 bytes, undef[4]):
+  | |         025e: 30 31 30 30                                     [0100]
+  | | 17) ColorSpace = 1
+  | |     - Tag 0xa001 (2 bytes, int16u[1]):
+  | |         026a: 01 00                                           [..]
+  | | 18) ExifImageWidth = 640
+  | |     - Tag 0xa002 (4 bytes, int32u[1]):
+  | |         0276: 80 02 00 00                                     [....]
+  | | 19) ExifImageHeight = 424
+  | |     - Tag 0xa003 (4 bytes, int32u[1]):
+  | |         0282: a8 01 00 00                                     [....]
+  | | 20) InteropOffset (SubDirectory) -->
+  | |     - Tag 0xa005 (4 bytes, int32u[1]):
+  | |         028e: 68 04 00 00                                     [h...]
+  | | + [InteropIFD directory with 2 entries]
+  | | | 0)  InteropIndex = R98
+  | | |     - Tag 0x0001 (4 bytes, string[4]):
+  | | |         0472: 52 39 38 00                                     [R98.]
+  | | | 1)  InteropVersion = 0100
+  | | |     - Tag 0x0002 (4 bytes, undef[4]):
+  | | |         047e: 30 31 30 30                                     [0100]
+  | | 21) FileSource = 3
+  | |     - Tag 0xa300 (1 bytes, undef[1]):
+  | |         029a: 03                                              [.]
+  | | 22) SceneType = 1
+  | |     - Tag 0xa301 (1 bytes, undef[1]):
+  | |         02a6: 01                                              [.]
+  | | 23) CustomRendered = 0
+  | |     - Tag 0xa401 (2 bytes, int16u[1]):
+  | |         02b2: 00 00                                           [..]
+  | | 24) ExposureMode = 1
+  | |     - Tag 0xa402 (2 bytes, int16u[1]):
+  | |         02be: 01 00                                           [..]
+  | | 25) WhiteBalance = 0
+  | |     - Tag 0xa403 (2 bytes, int16u[1]):
+  | |         02ca: 00 00                                           [..]
+  | | 26) SceneCaptureType = 0
+  | |     - Tag 0xa406 (2 bytes, int16u[1]):
+  | |         02d6: 00 00                                           [..]
+  | | 27) Contrast = 0
+  | |     - Tag 0xa408 (2 bytes, int16u[1]):
+  | |         02e2: 00 00                                           [..]
+  | | 28) Saturation = 0
+  | |     - Tag 0xa409 (2 bytes, int16u[1]):
+  | |         02ee: 00 00                                           [..]
+  | | 29) Sharpness = 0
+  | |     - Tag 0xa40a (2 bytes, int16u[1]):
+  | |         02fa: 00 00                                           [..]
+  | 14) SR2Private (SubDirectory) -->
+  |     - Tag 0xc634 (4 bytes, int8u[4] read as int32u[1]):
+  |         00ba: 4e 85 03 00                                     [N...]
+  | + [SR2 directory with 6 entries]
+  | | 0)  SR2SubIFDOffset = 230812
+  | |     - Tag 0x7200 (4 bytes, int32u[1]):
+  | |        38558: 9c 85 03 00                                     [....]
+  | | 1)  SR2SubIFDLength = 11932
+  | |     - Tag 0x7201 (4 bytes, int32u[1]):
+  | |        38564: 9c 2e 00 00                                     [....]
+  | | 2)  Sony_SR2Private_0x7220 = 1
+  | |     - Tag 0x7220 (2 bytes, int16u[1]):
+  | |        38570: 01 00                                           [..]
+  | | 3)  SR2SubIFDKey = 886953816
+  | |     - Tag 0x7221 (4 bytes, undef[4] read as int32u[1]):
+  | |        3857c: 58 d7 dd 34                                     [X..4]
+  | | 4)  IDC_IFD (SubDirectory) -->
+  | |     - Tag 0x7240 (4 bytes, int32u[1]):
+  | |        38588: d0 b2 03 00                                     [....]
+  | | + [SonyIDC directory]
+  | | 5)  Sony_SR2Private_0x7241 = 0
+  | |     - Tag 0x7241 (4 bytes, int32u[1]):
+  | |        38594: 00 00 00 00                                     [....]
+  | + [Decrypted SR2SubIFD directory, 11932 bytes]
+  | |    3859c: 65 00 00 73 03 00 04 00 00 00 5e 8a 03 00 01 73 [e..s......^....s]
+  | |    385ac: 03 00 01 00 00 00 9a 00 00 00 02 73 03 00 04 00 [...........s....]
+  | |    385bc: 00 00 66 8a 03 00 03 73 03 00 04 00 00 00 6e 8a [..f....s......n.]
+  | |    385cc: 03 00 04 73 03 00 03 00 00 00 76 8a 03 00 05 73 [...s......v....s]
+  | |    385dc: 03 00 03 00 00 00 7c 8a 03 00 06 73 03 00 04 00 [......|....s....]
+  | |     [snip 11852 bytes]
+  | | + [SR2SubIFD directory with 101 entries]
+  | | | 0)  BlackLevel = 511 515 512 513
+  | | |     - Tag 0x7300 (8 bytes, int16u[4]):
+  | | |        38a5e: ff 01 03 02 00 02 01 02                         [........]
+  | | | 1)  Sony_SR2SubIFD_0x7301 = 154
+  | | |     - Tag 0x7301 (2 bytes, int16u[1]):
+  | | |        385b2: 9a 00                                           [..]
+  | | | 2)  WB_GRBGLevelsAuto = 256 485 396 256
+  | | |     - Tag 0x7302 (8 bytes, int16u[4]):
+  | | |        38a66: 00 01 e5 01 8c 01 00 01                         [........]
+  | | | 3)  WB_GRBGLevels = 256 485 396 256
+  | | |     - Tag 0x7303 (8 bytes, int16u[4]):
+  | | |        38a6e: 00 01 e5 01 8c 01 00 01                         [........]
+  | | | 4)  Sony_SR2SubIFD_0x7304 = 256 256 256
+  | | |     - Tag 0x7304 (6 bytes, int16u[3]):
+  | | |        38a76: 00 01 00 01 00 01                               [......]
+  | | | 5)  Sony_SR2SubIFD_0x7305 = 256 256 256
+  | | |     - Tag 0x7305 (6 bytes, int16u[3]):
+  | | |        38a7c: 00 01 00 01 00 01                               [......]
+  | | | 6)  Sony_SR2SubIFD_0x7306 = 0 16384 0 0
+  | | |     - Tag 0x7306 (8 bytes, int16u[4]):
+  | | |        38a82: 00 00 00 40 00 00 00 00                         [...@....]
+  | | | 7)  Sony_SR2SubIFD_0x7307 = 0 16384 0 0
+  | | |     - Tag 0x7307 (8 bytes, int16u[4]):
+  | | |        38a8a: 00 00 00 40 00 00 00 00                         [...@....]
+  | | | 8)  Sony_SR2SubIFD_0x7308 = 227 219 230 205 82 69 79 82
+  | | |     - Tag 0x7308 (16 bytes, int16u[8]):
+  | | |        38a92: e3 00 db 00 e6 00 cd 00 52 00 45 00 4f 00 52 00 [........R.E.O.R.]
+  | | | 9)  Sony_SR2SubIFD_0x7320 = 16 32 48 64 80 96 112 128 144 160 176 192 208 224 2[snip]
+  | | |     - Tag 0x7320 (160 bytes, int16u[80]):
+  | | |        38aa2: 10 00 20 00 30 00 40 00 50 00 60 00 70 00 80 00 [.. .0.@.P.`.p...]
+  | | |        38ab2: 90 00 a0 00 b0 00 c0 00 d0 00 e0 00 f0 00 00 01 [................]
+  | | |        38ac2: 10 01 20 01 30 01 40 01 50 01 60 01 70 01 80 01 [.. .0.@.P.`.p...]
+  | | |        38ad2: 90 01 a0 01 b0 01 c0 01 d0 01 e0 01 f0 01 00 02 [................]
+  | | |        38ae2: 10 02 20 02 30 02 40 02 50 02 60 02 70 02 80 02 [.. .0.@.P.`.p...]
+  | | |         [snip 80 bytes]
+  | | | 10) Sony_SR2SubIFD_0x7321 = 32
+  | | |     - Tag 0x7321 (2 bytes, int16u[1]):
+  | | |        3861e: 20 00                                           [ .]
+  | | | 11) Sony_SR2SubIFD_0x7322 = 0
+  | | |     - Tag 0x7322 (2 bytes, int16u[1]):
+  | | |        3862a: 00 00                                           [..]
+  | | | 12) Sony_SR2SubIFD_0x7323 = 64
+  | | |     - Tag 0x7323 (2 bytes, int16u[1]):
+  | | |        38636: 40 00                                           [@.]
+  | | | 13) Sony_SR2SubIFD_0x7324 = 0
+  | | |     - Tag 0x7324 (2 bytes, int16s[1]):
+  | | |        38642: 00 00                                           [..]
+  | | | 14) Sony_SR2SubIFD_0x7325 = 0
+  | | |     - Tag 0x7325 (2 bytes, int16s[1]):
+  | | |        3864e: 00 00                                           [..]
+  | | | 15) Sony_SR2SubIFD_0x7340 = 15
+  | | |     - Tag 0x7340 (2 bytes, int16u[1]):
+  | | |        3865a: 0f 00                                           [..]
+  | | | 16) Sony_SR2SubIFD_0x7341 = 15
+  | | |     - Tag 0x7341 (2 bytes, int16u[1]):
+  | | |        38666: 0f 00                                           [..]
+  | | | 17) Sony_SR2SubIFD_0x7360 = 1
+  | | |     - Tag 0x7360 (2 bytes, int16u[1]):
+  | | |        38672: 01 00                                           [..]
+  | | | 18) Sony_SR2SubIFD_0x7361 = 0
+  | | |     - Tag 0x7361 (2 bytes, int16u[1]):
+  | | |        3867e: 00 00                                           [..]
+  | | | 19) Sony_SR2SubIFD_0x7362 = 0
+  | | |     - Tag 0x7362 (2 bytes, int16u[1]):
+  | | |        3868a: 00 00                                           [..]
+  | | | 20) Sony_SR2SubIFD_0x7363 = 0
+  | | |     - Tag 0x7363 (2 bytes, int16u[1]):
+  | | |        38696: 00 00                                           [..]
+  | | | 21) Sony_SR2SubIFD_0x7364 = 64
+  | | |     - Tag 0x7364 (2 bytes, int16u[1]):
+  | | |        386a2: 40 00                                           [@.]
+  | | | 22) Sony_SR2SubIFD_0x7365 = 1
+  | | |     - Tag 0x7365 (2 bytes, int16u[1]):
+  | | |        386ae: 01 00                                           [..]
+  | | | 23) Sony_SR2SubIFD_0x7366 = 1
+  | | |     - Tag 0x7366 (2 bytes, int16u[1]):
+  | | |        386ba: 01 00                                           [..]
+  | | | 24) Sony_SR2SubIFD_0x7367 = 1
+  | | |     - Tag 0x7367 (2 bytes, int16u[1]):
+  | | |        386c6: 01 00                                           [..]
+  | | | 25) Sony_SR2SubIFD_0x7368 = 128
+  | | |     - Tag 0x7368 (2 bytes, int16u[1]):
+  | | |        386d2: 80 00                                           [..]
+  | | | 26) Sony_SR2SubIFD_0x7369 = 128
+  | | |     - Tag 0x7369 (2 bytes, int16u[1]):
+  | | |        386de: 80 00                                           [..]
+  | | | 27) Sony_SR2SubIFD_0x736a = 0
+  | | |     - Tag 0x736a (2 bytes, int16u[1]):
+  | | |        386ea: 00 00                                           [..]
+  | | | 28) Sony_SR2SubIFD_0x736b = 1
+  | | |     - Tag 0x736b (2 bytes, int16u[1]):
+  | | |        386f6: 01 00                                           [..]
+  | | | 29) Sony_SR2SubIFD_0x736c = 0
+  | | |     - Tag 0x736c (2 bytes, int16u[1]):
+  | | |        38702: 00 00                                           [..]
+  | | | 30) Sony_SR2SubIFD_0x736d = 0
+  | | |     - Tag 0x736d (2 bytes, int16u[1]):
+  | | |        3870e: 00 00                                           [..]
+  | | | 31) Sony_SR2SubIFD_0x736e = 0
+  | | |     - Tag 0x736e (2 bytes, int16u[1]):
+  | | |        3871a: 00 00                                           [..]
+  | | | 32) Sony_SR2SubIFD_0x736f = 1
+  | | |     - Tag 0x736f (2 bytes, int16u[1]):
+  | | |        38726: 01 00                                           [..]
+  | | | 33) Sony_SR2SubIFD_0x7370 = 1
+  | | |     - Tag 0x7370 (2 bytes, int16u[1]):
+  | | |        38732: 01 00                                           [..]
+  | | | 34) Sony_SR2SubIFD_0x7371 = 1
+  | | |     - Tag 0x7371 (2 bytes, int16u[1]):
+  | | |        3873e: 01 00                                           [..]
+  | | | 35) Sony_SR2SubIFD_0x7372 = 1
+  | | |     - Tag 0x7372 (2 bytes, int16u[1]):
+  | | |        3874a: 01 00                                           [..]
+  | | | 36) Sony_SR2SubIFD_0x7390 = 0
+  | | |     - Tag 0x7390 (2 bytes, int16u[1]):
+  | | |        38756: 00 00                                           [..]
+  | | | 37) Sony_SR2SubIFD_0x7391 = 0
+  | | |     - Tag 0x7391 (2 bytes, int16u[1]):
+  | | |        38762: 00 00                                           [..]
+  | | | 38) Sony_SR2SubIFD_0x7392 = 0
+  | | |     - Tag 0x7392 (2 bytes, int16u[1]):
+  | | |        3876e: 00 00                                           [..]
+  | | | 39) Sony_SR2SubIFD_0x7393 = 5
+  | | |     - Tag 0x7393 (2 bytes, int16u[1]):
+  | | |        3877a: 05 00                                           [..]
+  | | | 40) Sony_SR2SubIFD_0x7394 = 0
+  | | |     - Tag 0x7394 (2 bytes, int16u[1]):
+  | | |        38786: 00 00                                           [..]
+  | | | 41) Sony_SR2SubIFD_0x7395 = 1
+  | | |     - Tag 0x7395 (2 bytes, int16u[1]):
+  | | |        38792: 01 00                                           [..]
+  | | | 42) Sony_SR2SubIFD_0x7396 = 6
+  | | |     - Tag 0x7396 (2 bytes, int16u[1]):
+  | | |        3879e: 06 00                                           [..]
+  | | | 43) Sony_SR2SubIFD_0x7397 = 5
+  | | |     - Tag 0x7397 (2 bytes, int16u[1]):
+  | | |        387aa: 05 00                                           [..]
+  | | | 44) Sony_SR2SubIFD_0x73b0 = 2
+  | | |     - Tag 0x73b0 (2 bytes, int16u[1]):
+  | | |        387b6: 02 00                                           [..]
+  | | | 45) Sony_SR2SubIFD_0x73b1 = 2
+  | | |     - Tag 0x73b1 (2 bytes, int16u[1]):
+  | | |        387c2: 02 00                                           [..]
+  | | | 46) Sony_SR2SubIFD_0x73b2 = 4
+  | | |     - Tag 0x73b2 (2 bytes, int16u[1]):
+  | | |        387ce: 04 00                                           [..]
+  | | | 47) Sony_SR2SubIFD_0x73b3 = 0
+  | | |     - Tag 0x73b3 (2 bytes, int16u[1]):
+  | | |        387da: 00 00                                           [..]
+  | | | 48) Sony_SR2SubIFD_0x73b4 = 2
+  | | |     - Tag 0x73b4 (2 bytes, int16u[1]):
+  | | |        387e6: 02 00                                           [..]
+  | | | 49) Sony_SR2SubIFD_0x73b5 = 0
+  | | |     - Tag 0x73b5 (2 bytes, int16u[1]):
+  | | |        387f2: 00 00                                           [..]
+  | | | 50) Sony_SR2SubIFD_0x73b6 = 0
+  | | |     - Tag 0x73b6 (2 bytes, int16u[1]):
+  | | |        387fe: 00 00                                           [..]
+  | | | 51) Sony_SR2SubIFD_0x73d0 = 0
+  | | |     - Tag 0x73d0 (2 bytes, int16u[1]):
+  | | |        3880a: 00 00                                           [..]
+  | | | 52) Sony_SR2SubIFD_0x73d1 = 0
+  | | |     - Tag 0x73d1 (2 bytes, int16u[1]):
+  | | |        38816: 00 00                                           [..]
+  | | | 53) Sony_SR2SubIFD_0x73d2 = 2
+  | | |     - Tag 0x73d2 (2 bytes, int16u[1]):
+  | | |        38822: 02 00                                           [..]
+  | | | 54) Sony_SR2SubIFD_0x73d3 = 2
+  | | |     - Tag 0x73d3 (2 bytes, int16u[1]):
+  | | |        3882e: 02 00                                           [..]
+  | | | 55) Sony_SR2SubIFD_0x73d4 = 0
+  | | |     - Tag 0x73d4 (2 bytes, int16u[1]):
+  | | |        3883a: 00 00                                           [..]
+  | | | 56) Sony_SR2SubIFD_0x73f0 = 2
+  | | |     - Tag 0x73f0 (2 bytes, int16u[1]):
+  | | |        38846: 02 00                                           [..]
+  | | | 57) Sony_SR2SubIFD_0x73f1 = 0
+  | | |     - Tag 0x73f1 (2 bytes, int16u[1]):
+  | | |        38852: 00 00                                           [..]
+  | | | 58) Sony_SR2SubIFD_0x73f2 = 0
+  | | |     - Tag 0x73f2 (2 bytes, int16u[1]):
+  | | |        3885e: 00 00                                           [..]
+  | | | 59) Sony_SR2SubIFD_0x73f3 = 124
+  | | |     - Tag 0x73f3 (2 bytes, int16u[1]):
+  | | |        3886a: 7c 00                                           [|.]
+  | | | 60) Sony_SR2SubIFD_0x7410 = 0
+  | | |     - Tag 0x7410 (2 bytes, int16u[1]):
+  | | |        38876: 00 00                                           [..]
+  | | | 61) Sony_SR2SubIFD_0x7411 = 0
+  | | |     - Tag 0x7411 (2 bytes, int16u[1]):
+  | | |        38882: 00 00                                           [..]
+  | | | 62) Sony_SR2SubIFD_0x7412 = 0
+  | | |     - Tag 0x7412 (2 bytes, int16u[1]):
+  | | |        3888e: 00 00                                           [..]
+  | | | 63) Sony_SR2SubIFD_0x7413 = 0
+  | | |     - Tag 0x7413 (2 bytes, int16u[1]):
+  | | |        3889a: 00 00                                           [..]
+  | | | 64) Sony_SR2SubIFD_0x7430 = 19 38 7
+  | | |     - Tag 0x7430 (6 bytes, int16u[3]):
+  | | |        38b42: 13 00 26 00 07 00                               [..&...]
+  | | | 65) Sony_SR2SubIFD_0x7431 = 0
+  | | |     - Tag 0x7431 (2 bytes, int16u[1]):
+  | | |        388b2: 00 00                                           [..]
+  | | | 66) Sony_SR2SubIFD_0x7432 = 0
+  | | |     - Tag 0x7432 (2 bytes, int16u[1]):
+  | | |        388be: 00 00                                           [..]
+  | | | 67) Sony_SR2SubIFD_0x7433 = 2
+  | | |     - Tag 0x7433 (2 bytes, int16u[1]):
+  | | |        388ca: 02 00                                           [..]
+  | | | 68) Sony_SR2SubIFD_0x7434 = 15
+  | | |     - Tag 0x7434 (2 bytes, int16u[1]):
+  | | |        388d6: 0f 00                                           [..]
+  | | | 69) Sony_SR2SubIFD_0x7435 = 0
+  | | |     - Tag 0x7435 (2 bytes, int16u[1]):
+  | | |        388e2: 00 00                                           [..]
+  | | | 70) Sony_SR2SubIFD_0x7436 = 0
+  | | |     - Tag 0x7436 (2 bytes, int16u[1]):
+  | | |        388ee: 00 00                                           [..]
+  | | | 71) Sony_SR2SubIFD_0x7437 = 0
+  | | |     - Tag 0x7437 (2 bytes, int16u[1]):
+  | | |        388fa: 00 00                                           [..]
+  | | | 72) Sony_SR2SubIFD_0x7438 = 0
+  | | |     - Tag 0x7438 (2 bytes, int16u[1]):
+  | | |        38906: 00 00                                           [..]
+  | | | 73) Sony_SR2SubIFD_0x7439 = 0
+  | | |     - Tag 0x7439 (2 bytes, int16u[1]):
+  | | |        38912: 00 00                                           [..]
+  | | | 74) Sony_SR2SubIFD_0x743a = 128
+  | | |     - Tag 0x743a (2 bytes, int16u[1]):
+  | | |        3891e: 80 00                                           [..]
+  | | | 75) Sony_SR2SubIFD_0x743b = 0
+  | | |     - Tag 0x743b (2 bytes, int16u[1]):
+  | | |        3892a: 00 00                                           [..]
+  | | | 76) Sony_SR2SubIFD_0x743c = 0
+  | | |     - Tag 0x743c (2 bytes, int16u[1]):
+  | | |        38936: 00 00                                           [..]
+  | | | 77) Sony_SR2SubIFD_0x743d = 0
+  | | |     - Tag 0x743d (2 bytes, int16u[1]):
+  | | |        38942: 00 00                                           [..]
+  | | | 78) Sony_SR2SubIFD_0x743e = 0
+  | | |     - Tag 0x743e (2 bytes, int16u[1]):
+  | | |        3894e: 00 00                                           [..]
+  | | | 79) Sony_SR2SubIFD_0x743f = 3
+  | | |     - Tag 0x743f (2 bytes, int16u[1]):
+  | | |        3895a: 03 00                                           [..]
+  | | | 80) Sony_SR2SubIFD_0x7460 = 1
+  | | |     - Tag 0x7460 (2 bytes, int16u[1]):
+  | | |        38966: 01 00                                           [..]
+  | | | 81) Sony_SR2SubIFD_0x7461 = 0
+  | | |     - Tag 0x7461 (2 bytes, int16u[1]):
+  | | |        38972: 00 00                                           [..]
+  | | | 82) Sony_SR2SubIFD_0x7462 = 0
+  | | |     - Tag 0x7462 (2 bytes, int16u[1]):
+  | | |        3897e: 00 00                                           [..]
+  | | | 83) Sony_SR2SubIFD_0x7463 = 0
+  | | |     - Tag 0x7463 (2 bytes, int16u[1]):
+  | | |        3898a: 00 00                                           [..]
+  | | | 84) Sony_SR2SubIFD_0x7464 = 0
+  | | |     - Tag 0x7464 (2 bytes, int16u[1]):
+  | | |        38996: 00 00                                           [..]
+  | | | 85) Sony_SR2SubIFD_0x7465 = 0
+  | | |     - Tag 0x7465 (2 bytes, int16u[1]):
+  | | |        389a2: 00 00                                           [..]
+  | | | 86) Sony_SR2SubIFD_0x7466 = 0
+  | | |     - Tag 0x7466 (2 bytes, int16u[1]):
+  | | |        389ae: 00 00                                           [..]
+  | | | 87) WB_RGBLevelsDaylight = 503 256 382
+  | | |     - Tag 0x7480 (6 bytes, int16u[3]):
+  | | |        38b48: f7 01 00 01 7e 01                               [....~.]
+  | | | 88) WB_RGBLevelsCloudy = 570 256 324
+  | | |     - Tag 0x7481 (6 bytes, int16u[3]):
+  | | |        38b4e: 3a 02 00 01 44 01                               [:...D.]
+  | | | 89) WB_RGBLevelsTungsten = 324 256 643
+  | | |     - Tag 0x7482 (6 bytes, int16u[3]):
+  | | |        38b54: 44 01 00 01 83 02                               [D.....]
+  | | | 90) WB_RGBLevelsFlash = 576 256 331
+  | | |     - Tag 0x7483 (6 bytes, int16u[3]):
+  | | |        38b5a: 40 02 00 01 4b 01                               [@...K.]
+  | | | 91) WB_RGBLevels4500K = 408 256 493
+  | | |     - Tag 0x7484 (6 bytes, int16u[3]):
+  | | |        38b60: 98 01 00 01 ed 01                               [......]
+  | | | 92) WB_RGBLevelsFluorescent = 476 256 568
+  | | |     - Tag 0x7486 (6 bytes, int16u[3]):
+  | | |        38b66: dc 01 00 01 38 02                               [....8.]
+  | | | 93) MaxApertureAtMaxFocal = 4.8 (48/10)
+  | | |     - Tag 0x74a0 (8 bytes, rational64u[1]):
+  | | |        38b6c: 30 00 00 00 0a 00 00 00                         [0.......]
+  | | | 94) MaxApertureAtMinFocal = 2.8 (28/10)
+  | | |     - Tag 0x74a1 (8 bytes, rational64u[1]):
+  | | |        38b74: 1c 00 00 00 0a 00 00 00                         [........]
+  | | | 95) MaxFocalLength = 71.5 (715/10)
+  | | |     - Tag 0x74a2 (8 bytes, rational64u[1]):
+  | | |        38b7c: cb 02 00 00 0a 00 00 00                         [........]
+  | | | 96) MinFocalLength = 14.3 (143/10)
+  | | |     - Tag 0x74a3 (8 bytes, rational64u[1]):
+  | | |        38b84: 8f 00 00 00 0a 00 00 00                         [........]
+  | | | 97) SR2DataIFD (SubDirectory) -->
+  | | |     - Tag 0x74c0 (12 bytes, int32u[3]):
+  | | |        38b8c: 4c 94 03 00 59 9e 03 00 62 a8 03 00             [L...Y...b...]
+  | | | + [SR2DataIFD directory with 132 entries]
+  | | | | 0)  Sony_SR2DataIFD_0x7600 = 1537 32204 51 0 32683 1314 32563 0 7 32532 1253 0
+  | | | |     - Tag 0x7600 (24 bytes, int16u[12]):
+  | | | |        39a82: 01 06 cc 7d 33 00 00 00 ab 7f 22 05 33 7f 00 00 [...}3.....".3...]
+  | | | |        39a92: 07 00 14 7f e5 04 00 00                         [........]
+  | | | | 1)  Sony_SR2DataIFD_0x7601 = 0
+  | | | |     - Tag 0x7601 (2 bytes, int16u[1]):
+  | | | |        39462: 00 00                                           [..]
+  | | | | 2)  Sony_SR2DataIFD_0x7602 = 0
+  | | | |     - Tag 0x7602 (2 bytes, int16u[1]):
+  | | | |        3946e: 00 00                                           [..]
+  | | | | 3)  Sony_SR2DataIFD_0x7603 = 0
+  | | | |     - Tag 0x7603 (2 bytes, int16u[1]):
+  | | | |        3947a: 00 00                                           [..]
+  | | | | 4)  Sony_SR2DataIFD_0x7604 = 0
+  | | | |     - Tag 0x7604 (2 bytes, int16u[1]):
+  | | | |        39486: 00 00                                           [..]
+  | | | | 5)  Sony_SR2DataIFD_0x7605 = 0
+  | | | |     - Tag 0x7605 (2 bytes, int16u[1]):
+  | | | |        39492: 00 00                                           [..]
+  | | | | 6)  Sony_SR2DataIFD_0x7606 = 0
+  | | | |     - Tag 0x7606 (2 bytes, int16u[1]):
+  | | | |        3949e: 00 00                                           [..]
+  | | | | 7)  Sony_SR2DataIFD_0x7607 = 0
+  | | | |     - Tag 0x7607 (2 bytes, int16u[1]):
+  | | | |        394aa: 00 00                                           [..]
+  | | | | 8)  Sony_SR2DataIFD_0x7608 = 2
+  | | | |     - Tag 0x7608 (2 bytes, int16u[1]):
+  | | | |        394b6: 02 00                                           [..]
+  | | | | 9)  Sony_SR2DataIFD_0x7609 = 231 224 235 3 84 81 87 87
+  | | | |     - Tag 0x7609 (16 bytes, int16u[8]):
+  | | | |        39a9a: e7 00 e0 00 eb 00 03 00 54 00 51 00 57 00 57 00 [........T.Q.W.W.]
+  | | | | 10) Sony_SR2DataIFD_0x760a = 211 6 238 221 1 241 0 248
+  | | | |     - Tag 0x760a (16 bytes, int16u[8]):
+  | | | |        39aaa: d3 00 06 00 ee 00 dd 00 01 00 f1 00 00 00 f8 00 [................]
+  | | | | 11) Sony_SR2DataIFD_0x760b = 252 251 251 197 254 243 247 251
+  | | | |     - Tag 0x760b (16 bytes, int16u[8]):
+  | | | |        39aba: fc 00 fb 00 fb 00 c5 00 fe 00 f3 00 f7 00 fb 00 [................]
+  | | | | 12) Sony_SR2DataIFD_0x760c = 238 242 250 196 243 2 239 4
+  | | | |     - Tag 0x760c (16 bytes, int16u[8]):
+  | | | |        39aca: ee 00 f2 00 fa 00 c4 00 f3 00 02 00 ef 00 04 00 [................]
+  | | | | 13) Sony_SR2DataIFD_0x760d = 241 251 253 203 12 248 255 1
+  | | | |     - Tag 0x760d (16 bytes, int16u[8]):
+  | | | |        39ada: f1 00 fb 00 fd 00 cb 00 0c 00 f8 00 ff 00 01 00 [................]
+  | | | | 14) Sony_SR2DataIFD_0x7630 = 8 16 24 32 40 48 56 64 72 80 88 96 104 112 120 1[snip]
+  | | | |     - Tag 0x7630 (192 bytes, int16u[96]):
+  | | | |        39aea: 08 00 10 00 18 00 20 00 28 00 30 00 38 00 40 00 [...... .(.0.8.@.]
+  | | | |        39afa: 48 00 50 00 58 00 60 00 68 00 70 00 78 00 80 00 [H.P.X.`.h.p.x...]
+  | | | |        39b0a: 88 00 90 00 98 00 a0 00 a8 00 b0 00 b8 00 c0 00 [................]
+  | | | |        39b1a: c8 00 d0 00 d8 00 e0 00 e8 00 f0 00 f8 00 00 01 [................]
+  | | | |        39b2a: 10 01 20 01 30 01 40 01 50 01 60 01 70 01 80 01 [.. .0.@.P.`.p...]
+  | | | |         [snip 112 bytes]
+  | | | | 15) Sony_SR2DataIFD_0x7631 = 9 19 28 37 46 56 65 74 84 93 102 112 121 130 139[snip]
+  | | | |     - Tag 0x7631 (192 bytes, int16u[96]):
+  | | | |        39baa: 09 00 13 00 1c 00 25 00 2e 00 38 00 41 00 4a 00 [......%...8.A.J.]
+  | | | |        39bba: 54 00 5d 00 66 00 70 00 79 00 82 00 8b 00 95 00 [T.].f.p.y.......]
+  | | | |        39bca: 9e 00 a7 00 b1 00 ba 00 c3 00 cd 00 d7 00 e1 00 [................]
+  | | | |        39bda: eb 00 f5 00 fe 00 07 01 10 01 18 01 21 01 29 01 [............!.).]
+  | | | |        39bea: 38 01 47 01 54 01 62 01 6e 01 7a 01 86 01 91 01 [8.G.T.b.n.z.....]
+  | | | |         [snip 112 bytes]
+  | | | | 16) Sony_SR2DataIFD_0x7632 = 9 19 28 37 46 56 65 74 84 93 102 112 121 130 139[snip]
+  | | | |     - Tag 0x7632 (192 bytes, int16u[96]):
+  | | | |        39c6a: 09 00 13 00 1c 00 25 00 2e 00 38 00 41 00 4a 00 [......%...8.A.J.]
+  | | | |        39c7a: 54 00 5d 00 66 00 70 00 79 00 82 00 8b 00 95 00 [T.].f.p.y.......]
+  | | | |        39c8a: 9e 00 a7 00 b1 00 ba 00 c3 00 cd 00 d7 00 e1 00 [................]
+  | | | |        39c9a: eb 00 f5 00 fe 00 07 01 10 01 18 01 21 01 29 01 [............!.).]
+  | | | |        39caa: 38 01 47 01 54 01 62 01 6e 01 7a 01 86 01 91 01 [8.G.T.b.n.z.....]
+  | | | |         [snip 112 bytes]
+  | | | | 17) Sony_SR2DataIFD_0x7633 = 16 32 48 64 80 96 112 128 144 160 176 192 208 22[snip]
+  | | | |     - Tag 0x7633 (160 bytes, int16u[80]):
+  | | | |        39d2a: 10 00 20 00 30 00 40 00 50 00 60 00 70 00 80 00 [.. .0.@.P.`.p...]
+  | | | |        39d3a: 90 00 a0 00 b0 00 c0 00 d0 00 e0 00 f0 00 00 01 [................]
+  | | | |        39d4a: 10 01 20 01 30 01 40 01 50 01 60 01 70 01 80 01 [.. .0.@.P.`.p...]
+  | | | |        39d5a: 90 01 a0 01 b0 01 c0 01 d0 01 e0 01 f0 01 00 02 [................]
+  | | | |        39d6a: 10 02 20 02 30 02 40 02 50 02 60 02 70 02 80 02 [.. .0.@.P.`.p...]
+  | | | |         [snip 80 bytes]
+  | | | | 18) Sony_SR2DataIFD_0x7650 = 1
+  | | | |     - Tag 0x7650 (2 bytes, int16u[1]):
+  | | | |        3952e: 01 00                                           [..]
+  | | | | 19) Sony_SR2DataIFD_0x7651 = 6
+  | | | |     - Tag 0x7651 (2 bytes, int16u[1]):
+  | | | |        3953a: 06 00                                           [..]
+  | | | | 20) Sony_SR2DataIFD_0x7652 = 255
+  | | | |     - Tag 0x7652 (2 bytes, int16u[1]):
+  | | | |        39546: ff 00                                           [..]
+  | | | | 21) Sony_SR2DataIFD_0x7653 = 4
+  | | | |     - Tag 0x7653 (2 bytes, int16u[1]):
+  | | | |        39552: 04 00                                           [..]
+  | | | | 22) Sony_SR2DataIFD_0x7654 = 16
+  | | | |     - Tag 0x7654 (2 bytes, int16u[1]):
+  | | | |        3955e: 10 00                                           [..]
+  | | | | 23) Sony_SR2DataIFD_0x7655 = 160
+  | | | |     - Tag 0x7655 (2 bytes, int16u[1]):
+  | | | |        3956a: a0 00                                           [..]
+  | | | | 24) Sony_SR2DataIFD_0x7656 = 255
+  | | | |     - Tag 0x7656 (2 bytes, int16u[1]):
+  | | | |        39576: ff 00                                           [..]
+  | | | | 25) Sony_SR2DataIFD_0x7657 = 0 1 2
+  | | | |     - Tag 0x7657 (6 bytes, int16u[3]):
+  | | | |        39dca: 00 00 01 00 02 00                               [......]
+  | | | | 26) Sony_SR2DataIFD_0x7658 = 0
+  | | | |     - Tag 0x7658 (2 bytes, int16u[1]):
+  | | | |        3958e: 00 00                                           [..]
+  | | | | 27) Sony_SR2DataIFD_0x7659 = 0
+  | | | |     - Tag 0x7659 (2 bytes, int16u[1]):
+  | | | |        3959a: 00 00                                           [..]
+  | | | | 28) Sony_SR2DataIFD_0x765a = 0
+  | | | |     - Tag 0x765a (2 bytes, int16u[1]):
+  | | | |        395a6: 00 00                                           [..]
+  | | | | 29) Sony_SR2DataIFD_0x765b = 0
+  | | | |     - Tag 0x765b (2 bytes, int16u[1]):
+  | | | |        395b2: 00 00                                           [..]
+  | | | | 30) Sony_SR2DataIFD_0x765c = 0
+  | | | |     - Tag 0x765c (2 bytes, int16u[1]):
+  | | | |        395be: 00 00                                           [..]
+  | | | | 31) Sony_SR2DataIFD_0x765d = 0
+  | | | |     - Tag 0x765d (2 bytes, int16u[1]):
+  | | | |        395ca: 00 00                                           [..]
+  | | | | 32) Sony_SR2DataIFD_0x765e = 0
+  | | | |     - Tag 0x765e (2 bytes, int16u[1]):
+  | | | |        395d6: 00 00                                           [..]
+  | | | | 33) Sony_SR2DataIFD_0x765f = 0
+  | | | |     - Tag 0x765f (2 bytes, int16u[1]):
+  | | | |        395e2: 00 00                                           [..]
+  | | | | 34) Sony_SR2DataIFD_0x7660 = 0
+  | | | |     - Tag 0x7660 (2 bytes, int16u[1]):
+  | | | |        395ee: 00 00                                           [..]
+  | | | | 35) Sony_SR2DataIFD_0x7661 = 0 0 0 0
+  | | | |     - Tag 0x7661 (8 bytes, int16u[4]):
+  | | | |        39dd0: 00 00 00 00 00 00 00 00                         [........]
+  | | | | 36) Sony_SR2DataIFD_0x7662 = 0
+  | | | |     - Tag 0x7662 (2 bytes, int16u[1]):
+  | | | |        39606: 00 00                                           [..]
+  | | | | 37) Sony_SR2DataIFD_0x7663 = 0
+  | | | |     - Tag 0x7663 (2 bytes, int16u[1]):
+  | | | |        39612: 00 00                                           [..]
+  | | | | 38) Sony_SR2DataIFD_0x7664 = 0
+  | | | |     - Tag 0x7664 (2 bytes, int16u[1]):
+  | | | |        3961e: 00 00                                           [..]
+  | | | | 39) Sony_SR2DataIFD_0x7665 = 0
+  | | | |     - Tag 0x7665 (2 bytes, int16u[1]):
+  | | | |        3962a: 00 00                                           [..]
+  | | | | 40) Sony_SR2DataIFD_0x7680 = 0
+  | | | |     - Tag 0x7680 (2 bytes, int16u[1]):
+  | | | |        39636: 00 00                                           [..]
+  | | | | 41) Sony_SR2DataIFD_0x7681 = 1
+  | | | |     - Tag 0x7681 (2 bytes, int16u[1]):
+  | | | |        39642: 01 00                                           [..]
+  | | | | 42) Sony_SR2DataIFD_0x7682 = 0
+  | | | |     - Tag 0x7682 (2 bytes, int16u[1]):
+  | | | |        3964e: 00 00                                           [..]
+  | | | | 43) Sony_SR2DataIFD_0x7683 = 1
+  | | | |     - Tag 0x7683 (2 bytes, int16u[1]):
+  | | | |        3965a: 01 00                                           [..]
+  | | | | 44) Sony_SR2DataIFD_0x7684 = 0
+  | | | |     - Tag 0x7684 (2 bytes, int16u[1]):
+  | | | |        39666: 00 00                                           [..]
+  | | | | 45) Sony_SR2DataIFD_0x7685 = 12
+  | | | |     - Tag 0x7685 (2 bytes, int16u[1]):
+  | | | |        39672: 0c 00                                           [..]
+  | | | | 46) Sony_SR2DataIFD_0x7686 = 8
+  | | | |     - Tag 0x7686 (2 bytes, int16u[1]):
+  | | | |        3967e: 08 00                                           [..]
+  | | | | 47) Sony_SR2DataIFD_0x7687 = 12
+  | | | |     - Tag 0x7687 (2 bytes, int16u[1]):
+  | | | |        3968a: 0c 00                                           [..]
+  | | | | 48) Sony_SR2DataIFD_0x7688 = 12
+  | | | |     - Tag 0x7688 (2 bytes, int16u[1]):
+  | | | |        39696: 0c 00                                           [..]
+  | | | | 49) Sony_SR2DataIFD_0x7689 = 12
+  | | | |     - Tag 0x7689 (2 bytes, int16u[1]):
+  | | | |        396a2: 0c 00                                           [..]
+  | | | | 50) Sony_SR2DataIFD_0x768a = 12
+  | | | |     - Tag 0x768a (2 bytes, int16u[1]):
+  | | | |        396ae: 0c 00                                           [..]
+  | | | | 51) Sony_SR2DataIFD_0x768b = 0
+  | | | |     - Tag 0x768b (2 bytes, int16u[1]):
+  | | | |        396ba: 00 00                                           [..]
+  | | | | 52) Sony_SR2DataIFD_0x768c = 1
+  | | | |     - Tag 0x768c (2 bytes, int16u[1]):
+  | | | |        396c6: 01 00                                           [..]
+  | | | | 53) Sony_SR2DataIFD_0x768d = 1
+  | | | |     - Tag 0x768d (2 bytes, int16u[1]):
+  | | | |        396d2: 01 00                                           [..]
+  | | | | 54) Sony_SR2DataIFD_0x768e = 0 0 0 0 0 0 0 0
+  | | | |     - Tag 0x768e (16 bytes, int16u[8]):
+  | | | |        39dd8: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | | | | 55) Sony_SR2DataIFD_0x76c0 = 16
+  | | | |     - Tag 0x76c0 (2 bytes, int16u[1]):
+  | | | |        396ea: 10 00                                           [..]
+  | | | | 56) Sony_SR2DataIFD_0x76c1 = 32
+  | | | |     - Tag 0x76c1 (2 bytes, int16u[1]):
+  | | | |        396f6: 20 00                                           [ .]
+  | | | | 57) Sony_SR2DataIFD_0x76c2 = 64
+  | | | |     - Tag 0x76c2 (2 bytes, int16u[1]):
+  | | | |        39702: 40 00                                           [@.]
+  | | | | 58) Sony_SR2DataIFD_0x76c3 = 252
+  | | | |     - Tag 0x76c3 (2 bytes, int16u[1]):
+  | | | |        3970e: fc 00                                           [..]
+  | | | | 59) Sony_SR2DataIFD_0x76c4 = 251
+  | | | |     - Tag 0x76c4 (2 bytes, int16u[1]):
+  | | | |        3971a: fb 00                                           [..]
+  | | | | 60) Sony_SR2DataIFD_0x76c5 = 64 0 0 0
+  | | | |     - Tag 0x76c5 (8 bytes, int16u[4]):
+  | | | |        39de8: 40 00 00 00 00 00 00 00                         [@.......]
+  | | | | 61) Sony_SR2DataIFD_0x76c6 = 255 85 80 107
+  | | | |     - Tag 0x76c6 (8 bytes, int16u[4]):
+  | | | |        39df0: ff 00 55 00 50 00 6b 00                         [..U.P.k.]
+  | | | | 62) Sony_SR2DataIFD_0x76c7 = 0 236 30 221
+  | | | |     - Tag 0x76c7 (8 bytes, int16u[4]):
+  | | | |        39df8: 00 00 ec 00 1e 00 dd 00                         [........]
+  | | | | 63) Sony_SR2DataIFD_0x76c8 = 0 24 231 238
+  | | | |     - Tag 0x76c8 (8 bytes, int16u[4]):
+  | | | |        39e00: 00 00 18 00 e7 00 ee 00                         [........]
+  | | | | 64) Sony_SR2DataIFD_0x76c9 = 1 1 1 0
+  | | | |     - Tag 0x76c9 (8 bytes, int16u[4]):
+  | | | |        39e08: 01 00 01 00 01 00 00 00                         [........]
+  | | | | 65) Sony_SR2DataIFD_0x76ca = 0
+  | | | |     - Tag 0x76ca (2 bytes, int16u[1]):
+  | | | |        39762: 00 00                                           [..]
+  | | | | 66) Sony_SR2DataIFD_0x76d0 = 1
+  | | | |     - Tag 0x76d0 (2 bytes, int16u[1]):
+  | | | |        3976e: 01 00                                           [..]
+  | | | | 67) Sony_SR2DataIFD_0x76d1 = 4
+  | | | |     - Tag 0x76d1 (2 bytes, int16u[1]):
+  | | | |        3977a: 04 00                                           [..]
+  | | | | 68) Sony_SR2DataIFD_0x76d2 = 0
+  | | | |     - Tag 0x76d2 (2 bytes, int16u[1]):
+  | | | |        39786: 00 00                                           [..]
+  | | | | 69) Sony_SR2DataIFD_0x76d3 = 8
+  | | | |     - Tag 0x76d3 (2 bytes, int16u[1]):
+  | | | |        39792: 08 00                                           [..]
+  | | | | 70) Sony_SR2DataIFD_0x76d4 = 0
+  | | | |     - Tag 0x76d4 (2 bytes, int16u[1]):
+  | | | |        3979e: 00 00                                           [..]
+  | | | | 71) Sony_SR2DataIFD_0x76d5 = 32
+  | | | |     - Tag 0x76d5 (2 bytes, int16u[1]):
+  | | | |        397aa: 20 00                                           [ .]
+  | | | | 72) Sony_SR2DataIFD_0x76d6 = 0
+  | | | |     - Tag 0x76d6 (2 bytes, int16u[1]):
+  | | | |        397b6: 00 00                                           [..]
+  | | | | 73) Sony_SR2DataIFD_0x76d7 = 64
+  | | | |     - Tag 0x76d7 (2 bytes, int16u[1]):
+  | | | |        397c2: 40 00                                           [@.]
+  | | | | 74) Sony_SR2DataIFD_0x76d8 = 0
+  | | | |     - Tag 0x76d8 (2 bytes, int16u[1]):
+  | | | |        397ce: 00 00                                           [..]
+  | | | | 75) Sony_SR2DataIFD_0x76d9 = 64
+  | | | |     - Tag 0x76d9 (2 bytes, int16u[1]):
+  | | | |        397da: 40 00                                           [@.]
+  | | | | 76) Sony_SR2DataIFD_0x76da = 0
+  | | | |     - Tag 0x76da (2 bytes, int16u[1]):
+  | | | |        397e6: 00 00                                           [..]
+  | | | | 77) Sony_SR2DataIFD_0x76db = 0
+  | | | |     - Tag 0x76db (2 bytes, int16u[1]):
+  | | | |        397f2: 00 00                                           [..]
+  | | | | 78) Sony_SR2DataIFD_0x76dc = 1
+  | | | |     - Tag 0x76dc (2 bytes, int16u[1]):
+  | | | |        397fe: 01 00                                           [..]
+  | | | | 79) Sony_SR2DataIFD_0x76dd = 1
+  | | | |     - Tag 0x76dd (2 bytes, int16u[1]):
+  | | | |        3980a: 01 00                                           [..]
+  | | | | 80) Sony_SR2DataIFD_0x76de = 16
+  | | | |     - Tag 0x76de (2 bytes, int16u[1]):
+  | | | |        39816: 10 00                                           [..]
+  | | | | 81) Sony_SR2DataIFD_0x76df = 1
+  | | | |     - Tag 0x76df (2 bytes, int16u[1]):
+  | | | |        39822: 01 00                                           [..]
+  | | | | 82) Sony_SR2DataIFD_0x76e0 = 1
+  | | | |     - Tag 0x76e0 (2 bytes, int16u[1]):
+  | | | |        3982e: 01 00                                           [..]
+  | | | | 83) Sony_SR2DataIFD_0x7700 = 0
+  | | | |     - Tag 0x7700 (2 bytes, int16u[1]):
+  | | | |        3983a: 00 00                                           [..]
+  | | | | 84) Sony_SR2DataIFD_0x7701 = 0
+  | | | |     - Tag 0x7701 (2 bytes, int16u[1]):
+  | | | |        39846: 00 00                                           [..]
+  | | | | 85) Sony_SR2DataIFD_0x7702 = 0
+  | | | |     - Tag 0x7702 (2 bytes, int16u[1]):
+  | | | |        39852: 00 00                                           [..]
+  | | | | 86) Sony_SR2DataIFD_0x7703 = 0
+  | | | |     - Tag 0x7703 (2 bytes, int16u[1]):
+  | | | |        3985e: 00 00                                           [..]
+  | | | | 87) Sony_SR2DataIFD_0x7704 = 0
+  | | | |     - Tag 0x7704 (2 bytes, int16u[1]):
+  | | | |        3986a: 00 00                                           [..]
+  | | | | 88) Sony_SR2DataIFD_0x7705 = 0
+  | | | |     - Tag 0x7705 (2 bytes, int16u[1]):
+  | | | |        39876: 00 00                                           [..]
+  | | | | 89) Sony_SR2DataIFD_0x7706 = 0 0 0 0 0 0 0 0
+  | | | |     - Tag 0x7706 (16 bytes, int16u[8]):
+  | | | |        39e10: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | | | | 90) Sony_SR2DataIFD_0x7707 = 0 0 0 0 0 0 0 0
+  | | | |     - Tag 0x7707 (16 bytes, int16u[8]):
+  | | | |        39e20: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | | | | 91) Sony_SR2DataIFD_0x7708 = 0 0 0 0 0 0 0 0
+  | | | |     - Tag 0x7708 (16 bytes, int16u[8]):
+  | | | |        39e30: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | | | | 92) Sony_SR2DataIFD_0x7709 = 0 0 0 0 0 0 0 0
+  | | | |     - Tag 0x7709 (16 bytes, int16u[8]):
+  | | | |        39e40: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | | | | 93) Sony_SR2DataIFD_0x770a = 0
+  | | | |     - Tag 0x770a (2 bytes, int16u[1]):
+  | | | |        398b2: 00 00                                           [..]
+  | | | | 94) Sony_SR2DataIFD_0x770b = 0
+  | | | |     - Tag 0x770b (2 bytes, int16u[1]):
+  | | | |        398be: 00 00                                           [..]
+  | | | | 95) Sony_SR2DataIFD_0x7720 = 0
+  | | | |     - Tag 0x7720 (2 bytes, int16u[1]):
+  | | | |        398ca: 00 00                                           [..]
+  | | | | 96) Sony_SR2DataIFD_0x7721 = 0
+  | | | |     - Tag 0x7721 (2 bytes, int16u[1]):
+  | | | |        398d6: 00 00                                           [..]
+  | | | | 97) Sony_SR2DataIFD_0x7722 = 0
+  | | | |     - Tag 0x7722 (2 bytes, int16u[1]):
+  | | | |        398e2: 00 00                                           [..]
+  | | | | 98) Sony_SR2DataIFD_0x7723 = 0
+  | | | |     - Tag 0x7723 (2 bytes, int16u[1]):
+  | | | |        398ee: 00 00                                           [..]
+  | | | | 99) Sony_SR2DataIFD_0x7724 = 0
+  | | | |     - Tag 0x7724 (2 bytes, int16u[1]):
+  | | | |        398fa: 00 00                                           [..]
+  | | | | 100) Sony_SR2DataIFD_0x7725 = 0
+  | | | |     - Tag 0x7725 (2 bytes, int16u[1]):
+  | | | |        39906: 00 00                                           [..]
+  | | | | 101) Sony_SR2DataIFD_0x7726 = 0
+  | | | |     - Tag 0x7726 (2 bytes, int16u[1]):
+  | | | |        39912: 00 00                                           [..]
+  | | | | 102) Sony_SR2DataIFD_0x7727 = 0
+  | | | |     - Tag 0x7727 (2 bytes, int16u[1]):
+  | | | |        3991e: 00 00                                           [..]
+  | | | | 103) Sony_SR2DataIFD_0x7728 = 0
+  | | | |     - Tag 0x7728 (2 bytes, int16u[1]):
+  | | | |        3992a: 00 00                                           [..]
+  | | | | 104) Sony_SR2DataIFD_0x7729 = 0
+  | | | |     - Tag 0x7729 (2 bytes, int16u[1]):
+  | | | |        39936: 00 00                                           [..]
+  | | | | 105) Sony_SR2DataIFD_0x772a = 0
+  | | | |     - Tag 0x772a (2 bytes, int16u[1]):
+  | | | |        39942: 00 00                                           [..]
+  | | | | 106) Sony_SR2DataIFD_0x772b = 0
+  | | | |     - Tag 0x772b (2 bytes, int16u[1]):
+  | | | |        3994e: 00 00                                           [..]
+  | | | | 107) Sony_SR2DataIFD_0x772c = 0
+  | | | |     - Tag 0x772c (2 bytes, int16u[1]):
+  | | | |        3995a: 00 00                                           [..]
+  | | | | 108) Sony_SR2DataIFD_0x7740 = 4
+  | | | |     - Tag 0x7740 (2 bytes, int16u[1]):
+  | | | |        39966: 04 00                                           [..]
+  | | | | 109) Sony_SR2DataIFD_0x7741 = 4
+  | | | |     - Tag 0x7741 (2 bytes, int16u[1]):
+  | | | |        39972: 04 00                                           [..]
+  | | | | 110) Sony_SR2DataIFD_0x7742 = 64
+  | | | |     - Tag 0x7742 (2 bytes, int16u[1]):
+  | | | |        3997e: 40 00                                           [@.]
+  | | | | 111) Sony_SR2DataIFD_0x7743 = 0
+  | | | |     - Tag 0x7743 (2 bytes, int16u[1]):
+  | | | |        3998a: 00 00                                           [..]
+  | | | | 112) Sony_SR2DataIFD_0x7744 = 63
+  | | | |     - Tag 0x7744 (2 bytes, int16u[1]):
+  | | | |        39996: 3f 00                                           [?.]
+  | | | | 113) Sony_SR2DataIFD_0x7745 = 0
+  | | | |     - Tag 0x7745 (2 bytes, int16u[1]):
+  | | | |        399a2: 00 00                                           [..]
+  | | | | 114) Sony_SR2DataIFD_0x7746 = 0
+  | | | |     - Tag 0x7746 (2 bytes, int16u[1]):
+  | | | |        399ae: 00 00                                           [..]
+  | | | | 115) Sony_SR2DataIFD_0x7747 = 0
+  | | | |     - Tag 0x7747 (2 bytes, int16u[1]):
+  | | | |        399ba: 00 00                                           [..]
+  | | | | 116) Sony_SR2DataIFD_0x7748 = 1
+  | | | |     - Tag 0x7748 (2 bytes, int16u[1]):
+  | | | |        399c6: 01 00                                           [..]
+  | | | | 117) Sony_SR2DataIFD_0x7749 = 1
+  | | | |     - Tag 0x7749 (2 bytes, int16u[1]):
+  | | | |        399d2: 01 00                                           [..]
+  | | | | 118) Sony_SR2DataIFD_0x774a = 0
+  | | | |     - Tag 0x774a (2 bytes, int16u[1]):
+  | | | |        399de: 00 00                                           [..]
+  | | | | 119) Sony_SR2DataIFD_0x774b = 36
+  | | | |     - Tag 0x774b (2 bytes, int16u[1]):
+  | | | |        399ea: 24 00                                           [$.]
+  | | | | 120) Sony_SR2DataIFD_0x774c = 0
+  | | | |     - Tag 0x774c (2 bytes, int16u[1]):
+  | | | |        399f6: 00 00                                           [..]
+  | | | | 121) Sony_SR2DataIFD_0x774d = 0
+  | | | |     - Tag 0x774d (2 bytes, int16u[1]):
+  | | | |        39a02: 00 00                                           [..]
+  | | | | 122) Sony_SR2DataIFD_0x774e = 0
+  | | | |     - Tag 0x774e (2 bytes, int16u[1]):
+  | | | |        39a0e: 00 00                                           [..]
+  | | | | 123) Sony_SR2DataIFD_0x774f = 1
+  | | | |     - Tag 0x774f (2 bytes, int16u[1]):
+  | | | |        39a1a: 01 00                                           [..]
+  | | | | 124) Sony_SR2DataIFD_0x7750 = 0
+  | | | |     - Tag 0x7750 (2 bytes, int16u[1]):
+  | | | |        39a26: 00 00                                           [..]
+  | | | | 125) Sony_SR2DataIFD_0x7751 = 1
+  | | | |     - Tag 0x7751 (2 bytes, int16u[1]):
+  | | | |        39a32: 01 00                                           [..]
+  | | | | 126) Sony_SR2DataIFD_0x7752 = 0
+  | | | |     - Tag 0x7752 (2 bytes, int16u[1]):
+  | | | |        39a3e: 00 00                                           [..]
+  | | | | 127) Sony_SR2DataIFD_0x7753 = 1
+  | | | |     - Tag 0x7753 (2 bytes, int16u[1]):
+  | | | |        39a4a: 01 00                                           [..]
+  | | | | 128) Sony_SR2DataIFD_0x7754 = 1
+  | | | |     - Tag 0x7754 (2 bytes, int16u[1]):
+  | | | |        39a56: 01 00                                           [..]
+  | | | | 129) Sony_SR2DataIFD_0x7755 = 15
+  | | | |     - Tag 0x7755 (2 bytes, int16u[1]):
+  | | | |        39a62: 0f 00                                           [..]
+  | | | | 130) ColorMode = Standard
+  | | | |     - Tag 0x7770 (9 bytes, string[9]):
+  | | | |        39e50: 53 74 61 6e 64 61 72 64 00                      [Standard.]
+  | | | | 131) Sony_SR2DataIFD_0x7771 = 0
+  | | | |     - Tag 0x7771 (2 bytes, int16u[1]):
+  | | | |        39a7a: 00 00                                           [..]
+  | | | + [SR2DataIFD1 directory with 132 entries]
+  | | | | 0)  Sony_SR2DataIFD_0x7600 = 1077 32696 18 0 32675 1352 32533 0 18 32507 1267 0
+  | | | |     - Tag 0x7600 (24 bytes, int16u[12]):
+  | | | |        3a48f: 35 04 b8 7f 12 00 00 00 a3 7f 48 05 15 7f 00 00 [5.........H.....]
+  | | | |        3a49f: 12 00 fb 7e f3 04 00 00                         [...~....]
+  | | | | 1)  Sony_SR2DataIFD_0x7601 = 0
+  | | | |     - Tag 0x7601 (2 bytes, int16u[1]):
+  | | | |        39e6f: 00 00                                           [..]
+  | | | | 2)  Sony_SR2DataIFD_0x7602 = 0
+  | | | |     - Tag 0x7602 (2 bytes, int16u[1]):
+  | | | |        39e7b: 00 00                                           [..]
+  | | | | 3)  Sony_SR2DataIFD_0x7603 = 0
+  | | | |     - Tag 0x7603 (2 bytes, int16u[1]):
+  | | | |        39e87: 00 00                                           [..]
+  | | | | 4)  Sony_SR2DataIFD_0x7604 = 0
+  | | | |     - Tag 0x7604 (2 bytes, int16u[1]):
+  | | | |        39e93: 00 00                                           [..]
+  | | | | 5)  Sony_SR2DataIFD_0x7605 = 0
+  | | | |     - Tag 0x7605 (2 bytes, int16u[1]):
+  | | | |        39e9f: 00 00                                           [..]
+  | | | | 6)  Sony_SR2DataIFD_0x7606 = 0
+  | | | |     - Tag 0x7606 (2 bytes, int16u[1]):
+  | | | |        39eab: 00 00                                           [..]
+  | | | | 7)  Sony_SR2DataIFD_0x7607 = 0
+  | | | |     - Tag 0x7607 (2 bytes, int16u[1]):
+  | | | |        39eb7: 00 00                                           [..]
+  | | | | 8)  Sony_SR2DataIFD_0x7608 = 2
+  | | | |     - Tag 0x7608 (2 bytes, int16u[1]):
+  | | | |        39ec3: 02 00                                           [..]
+  | | | | 9)  Sony_SR2DataIFD_0x7609 = 230 230 235 254 90 100 95 122
+  | | | |     - Tag 0x7609 (16 bytes, int16u[8]):
+  | | | |        3a4a7: e6 00 e6 00 eb 00 fe 00 5a 00 64 00 5f 00 7a 00 [........Z.d._.z.]
+  | | | | 10) Sony_SR2DataIFD_0x760a = 235 4 232 243 237 216 247 207
+  | | | |     - Tag 0x760a (16 bytes, int16u[8]):
+  | | | |        3a4b7: eb 00 04 00 e8 00 f3 00 ed 00 d8 00 f7 00 cf 00 [................]
+  | | | | 11) Sony_SR2DataIFD_0x760b = 249 248 249 236 242 220 234 206
+  | | | |     - Tag 0x760b (16 bytes, int16u[8]):
+  | | | |        3a4c7: f9 00 f8 00 f9 00 ec 00 f2 00 dc 00 ea 00 ce 00 [................]
+  | | | | 12) Sony_SR2DataIFD_0x760c = 246 243 249 235 225 234 223 230
+  | | | |     - Tag 0x760c (16 bytes, int16u[8]):
+  | | | |        3a4d7: f6 00 f3 00 f9 00 eb 00 e1 00 ea 00 df 00 e6 00 [................]
+  | | | | 13) Sony_SR2DataIFD_0x760d = 251 249 253 221 251 225 243 219
+  | | | |     - Tag 0x760d (16 bytes, int16u[8]):
+  | | | |        3a4e7: fb 00 f9 00 fd 00 dd 00 fb 00 e1 00 f3 00 db 00 [................]
+  | | | | 14) Sony_SR2DataIFD_0x7630 = 8 16 24 32 40 48 56 64 72 80 88 96 104 112 120 1[snip]
+  | | | |     - Tag 0x7630 (192 bytes, int16u[96]):
+  | | | |        3a4f7: 08 00 10 00 18 00 20 00 28 00 30 00 38 00 40 00 [...... .(.0.8.@.]
+  | | | |        3a507: 48 00 50 00 58 00 60 00 68 00 70 00 78 00 80 00 [H.P.X.`.h.p.x...]
+  | | | |        3a517: 88 00 90 00 98 00 a0 00 a8 00 b0 00 b8 00 c0 00 [................]
+  | | | |        3a527: c8 00 d0 00 d8 00 e0 00 e8 00 f0 00 f8 00 00 01 [................]
+  | | | |        3a537: 10 01 20 01 30 01 40 01 50 01 60 01 70 01 80 01 [.. .0.@.P.`.p...]
+  | | | |         [snip 112 bytes]
+  | | | | 15) Sony_SR2DataIFD_0x7631 = 13 26 39 53 66 79 92 108 122 136 149 161 172 183[snip]
+  | | | |     - Tag 0x7631 (192 bytes, int16u[96]):
+  | | | |        3a5b7: 0d 00 1a 00 27 00 35 00 42 00 4f 00 5c 00 6c 00 [....'.5.B.O.\.l.]
+  | | | |        3a5c7: 7a 00 88 00 95 00 a1 00 ac 00 b7 00 c1 00 cb 00 [z...............]
+  | | | |        3a5d7: d4 00 de 00 e6 00 ef 00 f7 00 ff 00 07 01 0f 01 [................]
+  | | | |        3a5e7: 16 01 1d 01 24 01 2b 01 32 01 38 01 3f 01 45 01 [....$.+.2.8.?.E.]
+  | | | |        3a5f7: 51 01 5d 01 68 01 73 01 7e 01 88 01 92 01 9c 01 [Q.].h.s.~.......]
+  | | | |         [snip 112 bytes]
+  | | | | 16) Sony_SR2DataIFD_0x7632 = 13 26 39 53 66 79 92 108 122 136 149 161 172 183[snip]
+  | | | |     - Tag 0x7632 (192 bytes, int16u[96]):
+  | | | |        3a677: 0d 00 1a 00 27 00 35 00 42 00 4f 00 5c 00 6c 00 [....'.5.B.O.\.l.]
+  | | | |        3a687: 7a 00 88 00 95 00 a1 00 ac 00 b7 00 c1 00 cb 00 [z...............]
+  | | | |        3a697: d4 00 de 00 e6 00 ef 00 f7 00 ff 00 07 01 0f 01 [................]
+  | | | |        3a6a7: 16 01 1d 01 24 01 2b 01 32 01 38 01 3f 01 45 01 [....$.+.2.8.?.E.]
+  | | | |        3a6b7: 51 01 5d 01 68 01 73 01 7e 01 88 01 92 01 9c 01 [Q.].h.s.~.......]
+  | | | |         [snip 112 bytes]
+  | | | | 17) Sony_SR2DataIFD_0x7633 = 16 32 48 64 80 96 112 128 144 160 176 192 208 22[snip]
+  | | | |     - Tag 0x7633 (160 bytes, int16u[80]):
+  | | | |        3a737: 10 00 20 00 30 00 40 00 50 00 60 00 70 00 80 00 [.. .0.@.P.`.p...]
+  | | | |        3a747: 90 00 a0 00 b0 00 c0 00 d0 00 e0 00 f0 00 00 01 [................]
+  | | | |        3a757: 10 01 20 01 30 01 40 01 50 01 60 01 70 01 80 01 [.. .0.@.P.`.p...]
+  | | | |        3a767: 90 01 a0 01 b0 01 c0 01 d0 01 e0 01 f0 01 00 02 [................]
+  | | | |        3a777: 10 02 20 02 30 02 40 02 50 02 60 02 70 02 80 02 [.. .0.@.P.`.p...]
+  | | | |         [snip 80 bytes]
+  | | | | 18) Sony_SR2DataIFD_0x7650 = 1
+  | | | |     - Tag 0x7650 (2 bytes, int16u[1]):
+  | | | |        39f3b: 01 00                                           [..]
+  | | | | 19) Sony_SR2DataIFD_0x7651 = 6
+  | | | |     - Tag 0x7651 (2 bytes, int16u[1]):
+  | | | |        39f47: 06 00                                           [..]
+  | | | | 20) Sony_SR2DataIFD_0x7652 = 255
+  | | | |     - Tag 0x7652 (2 bytes, int16u[1]):
+  | | | |        39f53: ff 00                                           [..]
+  | | | | 21) Sony_SR2DataIFD_0x7653 = 4
+  | | | |     - Tag 0x7653 (2 bytes, int16u[1]):
+  | | | |        39f5f: 04 00                                           [..]
+  | | | | 22) Sony_SR2DataIFD_0x7654 = 16
+  | | | |     - Tag 0x7654 (2 bytes, int16u[1]):
+  | | | |        39f6b: 10 00                                           [..]
+  | | | | 23) Sony_SR2DataIFD_0x7655 = 160
+  | | | |     - Tag 0x7655 (2 bytes, int16u[1]):
+  | | | |        39f77: a0 00                                           [..]
+  | | | | 24) Sony_SR2DataIFD_0x7656 = 255
+  | | | |     - Tag 0x7656 (2 bytes, int16u[1]):
+  | | | |        39f83: ff 00                                           [..]
+  | | | | 25) Sony_SR2DataIFD_0x7657 = 0 1 2
+  | | | |     - Tag 0x7657 (6 bytes, int16u[3]):
+  | | | |        3a7d7: 00 00 01 00 02 00                               [......]
+  | | | | 26) Sony_SR2DataIFD_0x7658 = 0
+  | | | |     - Tag 0x7658 (2 bytes, int16u[1]):
+  | | | |        39f9b: 00 00                                           [..]
+  | | | | 27) Sony_SR2DataIFD_0x7659 = 0
+  | | | |     - Tag 0x7659 (2 bytes, int16u[1]):
+  | | | |        39fa7: 00 00                                           [..]
+  | | | | 28) Sony_SR2DataIFD_0x765a = 0
+  | | | |     - Tag 0x765a (2 bytes, int16u[1]):
+  | | | |        39fb3: 00 00                                           [..]
+  | | | | 29) Sony_SR2DataIFD_0x765b = 0
+  | | | |     - Tag 0x765b (2 bytes, int16u[1]):
+  | | | |        39fbf: 00 00                                           [..]
+  | | | | 30) Sony_SR2DataIFD_0x765c = 0
+  | | | |     - Tag 0x765c (2 bytes, int16u[1]):
+  | | | |        39fcb: 00 00                                           [..]
+  | | | | 31) Sony_SR2DataIFD_0x765d = 0
+  | | | |     - Tag 0x765d (2 bytes, int16u[1]):
+  | | | |        39fd7: 00 00                                           [..]
+  | | | | 32) Sony_SR2DataIFD_0x765e = 0
+  | | | |     - Tag 0x765e (2 bytes, int16u[1]):
+  | | | |        39fe3: 00 00                                           [..]
+  | | | | 33) Sony_SR2DataIFD_0x765f = 0
+  | | | |     - Tag 0x765f (2 bytes, int16u[1]):
+  | | | |        39fef: 00 00                                           [..]
+  | | | | 34) Sony_SR2DataIFD_0x7660 = 0
+  | | | |     - Tag 0x7660 (2 bytes, int16u[1]):
+  | | | |        39ffb: 00 00                                           [..]
+  | | | | 35) Sony_SR2DataIFD_0x7661 = 0 0 0 0
+  | | | |     - Tag 0x7661 (8 bytes, int16u[4]):
+  | | | |        3a7dd: 00 00 00 00 00 00 00 00                         [........]
+  | | | | 36) Sony_SR2DataIFD_0x7662 = 0
+  | | | |     - Tag 0x7662 (2 bytes, int16u[1]):
+  | | | |        3a013: 00 00                                           [..]
+  | | | | 37) Sony_SR2DataIFD_0x7663 = 0
+  | | | |     - Tag 0x7663 (2 bytes, int16u[1]):
+  | | | |        3a01f: 00 00                                           [..]
+  | | | | 38) Sony_SR2DataIFD_0x7664 = 0
+  | | | |     - Tag 0x7664 (2 bytes, int16u[1]):
+  | | | |        3a02b: 00 00                                           [..]
+  | | | | 39) Sony_SR2DataIFD_0x7665 = 0
+  | | | |     - Tag 0x7665 (2 bytes, int16u[1]):
+  | | | |        3a037: 00 00                                           [..]
+  | | | | 40) Sony_SR2DataIFD_0x7680 = 0
+  | | | |     - Tag 0x7680 (2 bytes, int16u[1]):
+  | | | |        3a043: 00 00                                           [..]
+  | | | | 41) Sony_SR2DataIFD_0x7681 = 1
+  | | | |     - Tag 0x7681 (2 bytes, int16u[1]):
+  | | | |        3a04f: 01 00                                           [..]
+  | | | | 42) Sony_SR2DataIFD_0x7682 = 0
+  | | | |     - Tag 0x7682 (2 bytes, int16u[1]):
+  | | | |        3a05b: 00 00                                           [..]
+  | | | | 43) Sony_SR2DataIFD_0x7683 = 1
+  | | | |     - Tag 0x7683 (2 bytes, int16u[1]):
+  | | | |        3a067: 01 00                                           [..]
+  | | | | 44) Sony_SR2DataIFD_0x7684 = 0
+  | | | |     - Tag 0x7684 (2 bytes, int16u[1]):
+  | | | |        3a073: 00 00                                           [..]
+  | | | | 45) Sony_SR2DataIFD_0x7685 = 12
+  | | | |     - Tag 0x7685 (2 bytes, int16u[1]):
+  | | | |        3a07f: 0c 00                                           [..]
+  | | | | 46) Sony_SR2DataIFD_0x7686 = 8
+  | | | |     - Tag 0x7686 (2 bytes, int16u[1]):
+  | | | |        3a08b: 08 00                                           [..]
+  | | | | 47) Sony_SR2DataIFD_0x7687 = 12
+  | | | |     - Tag 0x7687 (2 bytes, int16u[1]):
+  | | | |        3a097: 0c 00                                           [..]
+  | | | | 48) Sony_SR2DataIFD_0x7688 = 12
+  | | | |     - Tag 0x7688 (2 bytes, int16u[1]):
+  | | | |        3a0a3: 0c 00                                           [..]
+  | | | | 49) Sony_SR2DataIFD_0x7689 = 12
+  | | | |     - Tag 0x7689 (2 bytes, int16u[1]):
+  | | | |        3a0af: 0c 00                                           [..]
+  | | | | 50) Sony_SR2DataIFD_0x768a = 12
+  | | | |     - Tag 0x768a (2 bytes, int16u[1]):
+  | | | |        3a0bb: 0c 00                                           [..]
+  | | | | 51) Sony_SR2DataIFD_0x768b = 0
+  | | | |     - Tag 0x768b (2 bytes, int16u[1]):
+  | | | |        3a0c7: 00 00                                           [..]
+  | | | | 52) Sony_SR2DataIFD_0x768c = 1
+  | | | |     - Tag 0x768c (2 bytes, int16u[1]):
+  | | | |        3a0d3: 01 00                                           [..]
+  | | | | 53) Sony_SR2DataIFD_0x768d = 0
+  | | | |     - Tag 0x768d (2 bytes, int16u[1]):
+  | | | |        3a0df: 00 00                                           [..]
+  | | | | 54) Sony_SR2DataIFD_0x768e = 0 0 0 0 0 0 0 0
+  | | | |     - Tag 0x768e (16 bytes, int16u[8]):
+  | | | |        3a7e5: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | | | | 55) Sony_SR2DataIFD_0x76c0 = 16
+  | | | |     - Tag 0x76c0 (2 bytes, int16u[1]):
+  | | | |        3a0f7: 10 00                                           [..]
+  | | | | 56) Sony_SR2DataIFD_0x76c1 = 32
+  | | | |     - Tag 0x76c1 (2 bytes, int16u[1]):
+  | | | |        3a103: 20 00                                           [ .]
+  | | | | 57) Sony_SR2DataIFD_0x76c2 = 64
+  | | | |     - Tag 0x76c2 (2 bytes, int16u[1]):
+  | | | |        3a10f: 40 00                                           [@.]
+  | | | | 58) Sony_SR2DataIFD_0x76c3 = 252
+  | | | |     - Tag 0x76c3 (2 bytes, int16u[1]):
+  | | | |        3a11b: fc 00                                           [..]
+  | | | | 59) Sony_SR2DataIFD_0x76c4 = 251
+  | | | |     - Tag 0x76c4 (2 bytes, int16u[1]):
+  | | | |        3a127: fb 00                                           [..]
+  | | | | 60) Sony_SR2DataIFD_0x76c5 = 64 0 0 0
+  | | | |     - Tag 0x76c5 (8 bytes, int16u[4]):
+  | | | |        3a7f5: 40 00 00 00 00 00 00 00                         [@.......]
+  | | | | 61) Sony_SR2DataIFD_0x76c6 = 255 85 80 107
+  | | | |     - Tag 0x76c6 (8 bytes, int16u[4]):
+  | | | |        3a7fd: ff 00 55 00 50 00 6b 00                         [..U.P.k.]
+  | | | | 62) Sony_SR2DataIFD_0x76c7 = 0 236 30 221
+  | | | |     - Tag 0x76c7 (8 bytes, int16u[4]):
+  | | | |        3a805: 00 00 ec 00 1e 00 dd 00                         [........]
+  | | | | 63) Sony_SR2DataIFD_0x76c8 = 0 24 231 238
+  | | | |     - Tag 0x76c8 (8 bytes, int16u[4]):
+  | | | |        3a80d: 00 00 18 00 e7 00 ee 00                         [........]
+  | | | | 64) Sony_SR2DataIFD_0x76c9 = 1 1 1 0
+  | | | |     - Tag 0x76c9 (8 bytes, int16u[4]):
+  | | | |        3a815: 01 00 01 00 01 00 00 00                         [........]
+  | | | | 65) Sony_SR2DataIFD_0x76ca = 0
+  | | | |     - Tag 0x76ca (2 bytes, int16u[1]):
+  | | | |        3a16f: 00 00                                           [..]
+  | | | | 66) Sony_SR2DataIFD_0x76d0 = 1
+  | | | |     - Tag 0x76d0 (2 bytes, int16u[1]):
+  | | | |        3a17b: 01 00                                           [..]
+  | | | | 67) Sony_SR2DataIFD_0x76d1 = 4
+  | | | |     - Tag 0x76d1 (2 bytes, int16u[1]):
+  | | | |        3a187: 04 00                                           [..]
+  | | | | 68) Sony_SR2DataIFD_0x76d2 = 0
+  | | | |     - Tag 0x76d2 (2 bytes, int16u[1]):
+  | | | |        3a193: 00 00                                           [..]
+  | | | | 69) Sony_SR2DataIFD_0x76d3 = 8
+  | | | |     - Tag 0x76d3 (2 bytes, int16u[1]):
+  | | | |        3a19f: 08 00                                           [..]
+  | | | | 70) Sony_SR2DataIFD_0x76d4 = 0
+  | | | |     - Tag 0x76d4 (2 bytes, int16u[1]):
+  | | | |        3a1ab: 00 00                                           [..]
+  | | | | 71) Sony_SR2DataIFD_0x76d5 = 32
+  | | | |     - Tag 0x76d5 (2 bytes, int16u[1]):
+  | | | |        3a1b7: 20 00                                           [ .]
+  | | | | 72) Sony_SR2DataIFD_0x76d6 = 0
+  | | | |     - Tag 0x76d6 (2 bytes, int16u[1]):
+  | | | |        3a1c3: 00 00                                           [..]
+  | | | | 73) Sony_SR2DataIFD_0x76d7 = 64
+  | | | |     - Tag 0x76d7 (2 bytes, int16u[1]):
+  | | | |        3a1cf: 40 00                                           [@.]
+  | | | | 74) Sony_SR2DataIFD_0x76d8 = 0
+  | | | |     - Tag 0x76d8 (2 bytes, int16u[1]):
+  | | | |        3a1db: 00 00                                           [..]
+  | | | | 75) Sony_SR2DataIFD_0x76d9 = 64
+  | | | |     - Tag 0x76d9 (2 bytes, int16u[1]):
+  | | | |        3a1e7: 40 00                                           [@.]
+  | | | | 76) Sony_SR2DataIFD_0x76da = 0
+  | | | |     - Tag 0x76da (2 bytes, int16u[1]):
+  | | | |        3a1f3: 00 00                                           [..]
+  | | | | 77) Sony_SR2DataIFD_0x76db = 0
+  | | | |     - Tag 0x76db (2 bytes, int16u[1]):
+  | | | |        3a1ff: 00 00                                           [..]
+  | | | | 78) Sony_SR2DataIFD_0x76dc = 1
+  | | | |     - Tag 0x76dc (2 bytes, int16u[1]):
+  | | | |        3a20b: 01 00                                           [..]
+  | | | | 79) Sony_SR2DataIFD_0x76dd = 1
+  | | | |     - Tag 0x76dd (2 bytes, int16u[1]):
+  | | | |        3a217: 01 00                                           [..]
+  | | | | 80) Sony_SR2DataIFD_0x76de = 16
+  | | | |     - Tag 0x76de (2 bytes, int16u[1]):
+  | | | |        3a223: 10 00                                           [..]
+  | | | | 81) Sony_SR2DataIFD_0x76df = 1
+  | | | |     - Tag 0x76df (2 bytes, int16u[1]):
+  | | | |        3a22f: 01 00                                           [..]
+  | | | | 82) Sony_SR2DataIFD_0x76e0 = 1
+  | | | |     - Tag 0x76e0 (2 bytes, int16u[1]):
+  | | | |        3a23b: 01 00                                           [..]
+  | | | | 83) Sony_SR2DataIFD_0x7700 = 0
+  | | | |     - Tag 0x7700 (2 bytes, int16u[1]):
+  | | | |        3a247: 00 00                                           [..]
+  | | | | 84) Sony_SR2DataIFD_0x7701 = 0
+  | | | |     - Tag 0x7701 (2 bytes, int16u[1]):
+  | | | |        3a253: 00 00                                           [..]
+  | | | | 85) Sony_SR2DataIFD_0x7702 = 0
+  | | | |     - Tag 0x7702 (2 bytes, int16u[1]):
+  | | | |        3a25f: 00 00                                           [..]
+  | | | | 86) Sony_SR2DataIFD_0x7703 = 0
+  | | | |     - Tag 0x7703 (2 bytes, int16u[1]):
+  | | | |        3a26b: 00 00                                           [..]
+  | | | | 87) Sony_SR2DataIFD_0x7704 = 0
+  | | | |     - Tag 0x7704 (2 bytes, int16u[1]):
+  | | | |        3a277: 00 00                                           [..]
+  | | | | 88) Sony_SR2DataIFD_0x7705 = 0
+  | | | |     - Tag 0x7705 (2 bytes, int16u[1]):
+  | | | |        3a283: 00 00                                           [..]
+  | | | | 89) Sony_SR2DataIFD_0x7706 = 0 0 0 0 0 0 0 0
+  | | | |     - Tag 0x7706 (16 bytes, int16u[8]):
+  | | | |        3a81d: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | | | | 90) Sony_SR2DataIFD_0x7707 = 0 0 0 0 0 0 0 0
+  | | | |     - Tag 0x7707 (16 bytes, int16u[8]):
+  | | | |        3a82d: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | | | | 91) Sony_SR2DataIFD_0x7708 = 0 0 0 0 0 0 0 0
+  | | | |     - Tag 0x7708 (16 bytes, int16u[8]):
+  | | | |        3a83d: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | | | | 92) Sony_SR2DataIFD_0x7709 = 0 0 0 0 0 0 0 0
+  | | | |     - Tag 0x7709 (16 bytes, int16u[8]):
+  | | | |        3a84d: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | | | | 93) Sony_SR2DataIFD_0x770a = 0
+  | | | |     - Tag 0x770a (2 bytes, int16u[1]):
+  | | | |        3a2bf: 00 00                                           [..]
+  | | | | 94) Sony_SR2DataIFD_0x770b = 0
+  | | | |     - Tag 0x770b (2 bytes, int16u[1]):
+  | | | |        3a2cb: 00 00                                           [..]
+  | | | | 95) Sony_SR2DataIFD_0x7720 = 0
+  | | | |     - Tag 0x7720 (2 bytes, int16u[1]):
+  | | | |        3a2d7: 00 00                                           [..]
+  | | | | 96) Sony_SR2DataIFD_0x7721 = 0
+  | | | |     - Tag 0x7721 (2 bytes, int16u[1]):
+  | | | |        3a2e3: 00 00                                           [..]
+  | | | | 97) Sony_SR2DataIFD_0x7722 = 0
+  | | | |     - Tag 0x7722 (2 bytes, int16u[1]):
+  | | | |        3a2ef: 00 00                                           [..]
+  | | | | 98) Sony_SR2DataIFD_0x7723 = 0
+  | | | |     - Tag 0x7723 (2 bytes, int16u[1]):
+  | | | |        3a2fb: 00 00                                           [..]
+  | | | | 99) Sony_SR2DataIFD_0x7724 = 0
+  | | | |     - Tag 0x7724 (2 bytes, int16u[1]):
+  | | | |        3a307: 00 00                                           [..]
+  | | | | 100) Sony_SR2DataIFD_0x7725 = 0
+  | | | |     - Tag 0x7725 (2 bytes, int16u[1]):
+  | | | |        3a313: 00 00                                           [..]
+  | | | | 101) Sony_SR2DataIFD_0x7726 = 0
+  | | | |     - Tag 0x7726 (2 bytes, int16u[1]):
+  | | | |        3a31f: 00 00                                           [..]
+  | | | | 102) Sony_SR2DataIFD_0x7727 = 0
+  | | | |     - Tag 0x7727 (2 bytes, int16u[1]):
+  | | | |        3a32b: 00 00                                           [..]
+  | | | | 103) Sony_SR2DataIFD_0x7728 = 0
+  | | | |     - Tag 0x7728 (2 bytes, int16u[1]):
+  | | | |        3a337: 00 00                                           [..]
+  | | | | 104) Sony_SR2DataIFD_0x7729 = 0
+  | | | |     - Tag 0x7729 (2 bytes, int16u[1]):
+  | | | |        3a343: 00 00                                           [..]
+  | | | | 105) Sony_SR2DataIFD_0x772a = 0
+  | | | |     - Tag 0x772a (2 bytes, int16u[1]):
+  | | | |        3a34f: 00 00                                           [..]
+  | | | | 106) Sony_SR2DataIFD_0x772b = 0
+  | | | |     - Tag 0x772b (2 bytes, int16u[1]):
+  | | | |        3a35b: 00 00                                           [..]
+  | | | | 107) Sony_SR2DataIFD_0x772c = 0
+  | | | |     - Tag 0x772c (2 bytes, int16u[1]):
+  | | | |        3a367: 00 00                                           [..]
+  | | | | 108) Sony_SR2DataIFD_0x7740 = 4
+  | | | |     - Tag 0x7740 (2 bytes, int16u[1]):
+  | | | |        3a373: 04 00                                           [..]
+  | | | | 109) Sony_SR2DataIFD_0x7741 = 4
+  | | | |     - Tag 0x7741 (2 bytes, int16u[1]):
+  | | | |        3a37f: 04 00                                           [..]
+  | | | | 110) Sony_SR2DataIFD_0x7742 = 64
+  | | | |     - Tag 0x7742 (2 bytes, int16u[1]):
+  | | | |        3a38b: 40 00                                           [@.]
+  | | | | 111) Sony_SR2DataIFD_0x7743 = 0
+  | | | |     - Tag 0x7743 (2 bytes, int16u[1]):
+  | | | |        3a397: 00 00                                           [..]
+  | | | | 112) Sony_SR2DataIFD_0x7744 = 63
+  | | | |     - Tag 0x7744 (2 bytes, int16u[1]):
+  | | | |        3a3a3: 3f 00                                           [?.]
+  | | | | 113) Sony_SR2DataIFD_0x7745 = 0
+  | | | |     - Tag 0x7745 (2 bytes, int16u[1]):
+  | | | |        3a3af: 00 00                                           [..]
+  | | | | 114) Sony_SR2DataIFD_0x7746 = 0
+  | | | |     - Tag 0x7746 (2 bytes, int16u[1]):
+  | | | |        3a3bb: 00 00                                           [..]
+  | | | | 115) Sony_SR2DataIFD_0x7747 = 0
+  | | | |     - Tag 0x7747 (2 bytes, int16u[1]):
+  | | | |        3a3c7: 00 00                                           [..]
+  | | | | 116) Sony_SR2DataIFD_0x7748 = 1
+  | | | |     - Tag 0x7748 (2 bytes, int16u[1]):
+  | | | |        3a3d3: 01 00                                           [..]
+  | | | | 117) Sony_SR2DataIFD_0x7749 = 1
+  | | | |     - Tag 0x7749 (2 bytes, int16u[1]):
+  | | | |        3a3df: 01 00                                           [..]
+  | | | | 118) Sony_SR2DataIFD_0x774a = 0
+  | | | |     - Tag 0x774a (2 bytes, int16u[1]):
+  | | | |        3a3eb: 00 00                                           [..]
+  | | | | 119) Sony_SR2DataIFD_0x774b = 36
+  | | | |     - Tag 0x774b (2 bytes, int16u[1]):
+  | | | |        3a3f7: 24 00                                           [$.]
+  | | | | 120) Sony_SR2DataIFD_0x774c = 0
+  | | | |     - Tag 0x774c (2 bytes, int16u[1]):
+  | | | |        3a403: 00 00                                           [..]
+  | | | | 121) Sony_SR2DataIFD_0x774d = 0
+  | | | |     - Tag 0x774d (2 bytes, int16u[1]):
+  | | | |        3a40f: 00 00                                           [..]
+  | | | | 122) Sony_SR2DataIFD_0x774e = 0
+  | | | |     - Tag 0x774e (2 bytes, int16u[1]):
+  | | | |        3a41b: 00 00                                           [..]
+  | | | | 123) Sony_SR2DataIFD_0x774f = 1
+  | | | |     - Tag 0x774f (2 bytes, int16u[1]):
+  | | | |        3a427: 01 00                                           [..]
+  | | | | 124) Sony_SR2DataIFD_0x7750 = 0
+  | | | |     - Tag 0x7750 (2 bytes, int16u[1]):
+  | | | |        3a433: 00 00                                           [..]
+  | | | | 125) Sony_SR2DataIFD_0x7751 = 1
+  | | | |     - Tag 0x7751 (2 bytes, int16u[1]):
+  | | | |        3a43f: 01 00                                           [..]
+  | | | | 126) Sony_SR2DataIFD_0x7752 = 0
+  | | | |     - Tag 0x7752 (2 bytes, int16u[1]):
+  | | | |        3a44b: 00 00                                           [..]
+  | | | | 127) Sony_SR2DataIFD_0x7753 = 0
+  | | | |     - Tag 0x7753 (2 bytes, int16u[1]):
+  | | | |        3a457: 00 00                                           [..]
+  | | | | 128) Sony_SR2DataIFD_0x7754 = 1
+  | | | |     - Tag 0x7754 (2 bytes, int16u[1]):
+  | | | |        3a463: 01 00                                           [..]
+  | | | | 129) Sony_SR2DataIFD_0x7755 = 0
+  | | | |     - Tag 0x7755 (2 bytes, int16u[1]):
+  | | | |        3a46f: 00 00                                           [..]
+  | | | | 130) ColorMode = Real
+  | | | |     - Tag 0x7770 (5 bytes, string[5]):
+  | | | |        3a85d: 52 65 61 6c 00                                  [Real.]
+  | | | | 131) Sony_SR2DataIFD_0x7771 = 1
+  | | | |     - Tag 0x7771 (2 bytes, int16u[1]):
+  | | | |        3a487: 01 00                                           [..]
+  | | | + [SR2DataIFD2 directory with 132 entries]
+  | | | | 0)  Sony_SR2DataIFD_0x7600 = 1683 31939 170 0 32603 1460 32497 0 103 32371 1318 0
+  | | | |     - Tag 0x7600 (24 bytes, int16u[12]):
+  | | | |        3ae98: 93 06 c3 7c aa 00 00 00 5b 7f b4 05 f1 7e 00 00 [...|....[....~..]
+  | | | |        3aea8: 67 00 73 7e 26 05 00 00                         [g.s~&...]
+  | | | | 1)  Sony_SR2DataIFD_0x7601 = 0
+  | | | |     - Tag 0x7601 (2 bytes, int16u[1]):
+  | | | |        3a878: 00 00                                           [..]
+  | | | | 2)  Sony_SR2DataIFD_0x7602 = 0
+  | | | |     - Tag 0x7602 (2 bytes, int16u[1]):
+  | | | |        3a884: 00 00                                           [..]
+  | | | | 3)  Sony_SR2DataIFD_0x7603 = 0
+  | | | |     - Tag 0x7603 (2 bytes, int16u[1]):
+  | | | |        3a890: 00 00                                           [..]
+  | | | | 4)  Sony_SR2DataIFD_0x7604 = 0
+  | | | |     - Tag 0x7604 (2 bytes, int16u[1]):
+  | | | |        3a89c: 00 00                                           [..]
+  | | | | 5)  Sony_SR2DataIFD_0x7605 = 0
+  | | | |     - Tag 0x7605 (2 bytes, int16u[1]):
+  | | | |        3a8a8: 00 00                                           [..]
+  | | | | 6)  Sony_SR2DataIFD_0x7606 = 0
+  | | | |     - Tag 0x7606 (2 bytes, int16u[1]):
+  | | | |        3a8b4: 00 00                                           [..]
+  | | | | 7)  Sony_SR2DataIFD_0x7607 = 0
+  | | | |     - Tag 0x7607 (2 bytes, int16u[1]):
+  | | | |        3a8c0: 00 00                                           [..]
+  | | | | 8)  Sony_SR2DataIFD_0x7608 = 2
+  | | | |     - Tag 0x7608 (2 bytes, int16u[1]):
+  | | | |        3a8cc: 02 00                                           [..]
+  | | | | 9)  Sony_SR2DataIFD_0x7609 = 226 208 230 26 98 72 72 90
+  | | | |     - Tag 0x7609 (16 bytes, int16u[8]):
+  | | | |        3aeb0: e2 00 d0 00 e6 00 1a 00 62 00 48 00 48 00 5a 00 [........b.H.H.Z.]
+  | | | | 10) Sony_SR2DataIFD_0x760a = 221 254 250 192 219 3 250 228
+  | | | |     - Tag 0x760a (16 bytes, int16u[8]):
+  | | | |        3aec0: dd 00 fe 00 fa 00 c0 00 db 00 03 00 fa 00 e4 00 [................]
+  | | | | 11) Sony_SR2DataIFD_0x760b = 1 244 252 186 236 247 251 236
+  | | | |     - Tag 0x760b (16 bytes, int16u[8]):
+  | | | |        3aed0: 01 00 f4 00 fc 00 ba 00 ec 00 f7 00 fb 00 ec 00 [................]
+  | | | | 12) Sony_SR2DataIFD_0x760c = 226 253 251 191 218 2 250 228
+  | | | |     - Tag 0x760c (16 bytes, int16u[8]):
+  | | | |        3aee0: e2 00 fd 00 fb 00 bf 00 da 00 02 00 fa 00 e4 00 [................]
+  | | | | 13) Sony_SR2DataIFD_0x760d = 241 253 0 188 235 248 5 232
+  | | | |     - Tag 0x760d (16 bytes, int16u[8]):
+  | | | |        3aef0: f1 00 fd 00 00 00 bc 00 eb 00 f8 00 05 00 e8 00 [................]
+  | | | | 14) Sony_SR2DataIFD_0x7630 = 8 16 24 32 40 48 56 64 72 80 88 96 104 112 120 1[snip]
+  | | | |     - Tag 0x7630 (192 bytes, int16u[96]):
+  | | | |        3af00: 08 00 10 00 18 00 20 00 28 00 30 00 38 00 40 00 [...... .(.0.8.@.]
+  | | | |        3af10: 48 00 50 00 58 00 60 00 68 00 70 00 78 00 80 00 [H.P.X.`.h.p.x...]
+  | | | |        3af20: 88 00 90 00 98 00 a0 00 a8 00 b0 00 b8 00 c0 00 [................]
+  | | | |        3af30: c8 00 d0 00 d8 00 e0 00 e8 00 f0 00 f8 00 00 01 [................]
+  | | | |        3af40: 10 01 20 01 30 01 40 01 50 01 60 01 70 01 80 01 [.. .0.@.P.`.p...]
+  | | | |         [snip 112 bytes]
+  | | | | 15) Sony_SR2DataIFD_0x7631 = 2 4 7 11 18 26 35 44 53 62 72 81 90 100 109 118 [snip]
+  | | | |     - Tag 0x7631 (192 bytes, int16u[96]):
+  | | | |        3afc0: 02 00 04 00 07 00 0b 00 12 00 1a 00 23 00 2c 00 [............#.,.]
+  | | | |        3afd0: 35 00 3e 00 48 00 51 00 5a 00 64 00 6d 00 76 00 [5.>.H.Q.Z.d.m.v.]
+  | | | |        3afe0: 7f 00 89 00 92 00 9a 00 a3 00 ac 00 b5 00 bd 00 [................]
+  | | | |        3aff0: c6 00 ce 00 d6 00 de 00 e6 00 ee 00 f6 00 fe 00 [................]
+  | | | |        3b000: 0d 01 1c 01 2b 01 39 01 47 01 55 01 62 01 6f 01 [....+.9.G.U.b.o.]
+  | | | |         [snip 112 bytes]
+  | | | | 16) Sony_SR2DataIFD_0x7632 = 2 4 7 11 18 26 35 44 53 62 72 81 90 100 109 118 [snip]
+  | | | |     - Tag 0x7632 (192 bytes, int16u[96]):
+  | | | |        3b080: 02 00 04 00 07 00 0b 00 12 00 1a 00 23 00 2c 00 [............#.,.]
+  | | | |        3b090: 35 00 3e 00 48 00 51 00 5a 00 64 00 6d 00 76 00 [5.>.H.Q.Z.d.m.v.]
+  | | | |        3b0a0: 7f 00 89 00 92 00 9a 00 a3 00 ac 00 b5 00 bd 00 [................]
+  | | | |        3b0b0: c6 00 ce 00 d6 00 de 00 e6 00 ee 00 f6 00 fe 00 [................]
+  | | | |        3b0c0: 0d 01 1c 01 2b 01 39 01 47 01 55 01 62 01 6f 01 [....+.9.G.U.b.o.]
+  | | | |         [snip 112 bytes]
+  | | | | 17) Sony_SR2DataIFD_0x7633 = 16 32 48 64 80 96 112 128 144 160 176 192 208 22[snip]
+  | | | |     - Tag 0x7633 (160 bytes, int16u[80]):
+  | | | |        3b140: 10 00 20 00 30 00 40 00 50 00 60 00 70 00 80 00 [.. .0.@.P.`.p...]
+  | | | |        3b150: 90 00 a0 00 b0 00 c0 00 d0 00 e0 00 f0 00 00 01 [................]
+  | | | |        3b160: 10 01 20 01 30 01 40 01 50 01 60 01 70 01 80 01 [.. .0.@.P.`.p...]
+  | | | |        3b170: 90 01 a0 01 b0 01 c0 01 d0 01 e0 01 f0 01 00 02 [................]
+  | | | |        3b180: 10 02 20 02 30 02 40 02 50 02 60 02 70 02 80 02 [.. .0.@.P.`.p...]
+  | | | |         [snip 80 bytes]
+  | | | | 18) Sony_SR2DataIFD_0x7650 = 1
+  | | | |     - Tag 0x7650 (2 bytes, int16u[1]):
+  | | | |        3a944: 01 00                                           [..]
+  | | | | 19) Sony_SR2DataIFD_0x7651 = 6
+  | | | |     - Tag 0x7651 (2 bytes, int16u[1]):
+  | | | |        3a950: 06 00                                           [..]
+  | | | | 20) Sony_SR2DataIFD_0x7652 = 255
+  | | | |     - Tag 0x7652 (2 bytes, int16u[1]):
+  | | | |        3a95c: ff 00                                           [..]
+  | | | | 21) Sony_SR2DataIFD_0x7653 = 4
+  | | | |     - Tag 0x7653 (2 bytes, int16u[1]):
+  | | | |        3a968: 04 00                                           [..]
+  | | | | 22) Sony_SR2DataIFD_0x7654 = 16
+  | | | |     - Tag 0x7654 (2 bytes, int16u[1]):
+  | | | |        3a974: 10 00                                           [..]
+  | | | | 23) Sony_SR2DataIFD_0x7655 = 160
+  | | | |     - Tag 0x7655 (2 bytes, int16u[1]):
+  | | | |        3a980: a0 00                                           [..]
+  | | | | 24) Sony_SR2DataIFD_0x7656 = 255
+  | | | |     - Tag 0x7656 (2 bytes, int16u[1]):
+  | | | |        3a98c: ff 00                                           [..]
+  | | | | 25) Sony_SR2DataIFD_0x7657 = 0 1 2
+  | | | |     - Tag 0x7657 (6 bytes, int16u[3]):
+  | | | |        3b1e0: 00 00 01 00 02 00                               [......]
+  | | | | 26) Sony_SR2DataIFD_0x7658 = 0
+  | | | |     - Tag 0x7658 (2 bytes, int16u[1]):
+  | | | |        3a9a4: 00 00                                           [..]
+  | | | | 27) Sony_SR2DataIFD_0x7659 = 0
+  | | | |     - Tag 0x7659 (2 bytes, int16u[1]):
+  | | | |        3a9b0: 00 00                                           [..]
+  | | | | 28) Sony_SR2DataIFD_0x765a = 0
+  | | | |     - Tag 0x765a (2 bytes, int16u[1]):
+  | | | |        3a9bc: 00 00                                           [..]
+  | | | | 29) Sony_SR2DataIFD_0x765b = 0
+  | | | |     - Tag 0x765b (2 bytes, int16u[1]):
+  | | | |        3a9c8: 00 00                                           [..]
+  | | | | 30) Sony_SR2DataIFD_0x765c = 0
+  | | | |     - Tag 0x765c (2 bytes, int16u[1]):
+  | | | |        3a9d4: 00 00                                           [..]
+  | | | | 31) Sony_SR2DataIFD_0x765d = 0
+  | | | |     - Tag 0x765d (2 bytes, int16u[1]):
+  | | | |        3a9e0: 00 00                                           [..]
+  | | | | 32) Sony_SR2DataIFD_0x765e = 0
+  | | | |     - Tag 0x765e (2 bytes, int16u[1]):
+  | | | |        3a9ec: 00 00                                           [..]
+  | | | | 33) Sony_SR2DataIFD_0x765f = 0
+  | | | |     - Tag 0x765f (2 bytes, int16u[1]):
+  | | | |        3a9f8: 00 00                                           [..]
+  | | | | 34) Sony_SR2DataIFD_0x7660 = 0
+  | | | |     - Tag 0x7660 (2 bytes, int16u[1]):
+  | | | |        3aa04: 00 00                                           [..]
+  | | | | 35) Sony_SR2DataIFD_0x7661 = 0 0 0 0
+  | | | |     - Tag 0x7661 (8 bytes, int16u[4]):
+  | | | |        3b1e6: 00 00 00 00 00 00 00 00                         [........]
+  | | | | 36) Sony_SR2DataIFD_0x7662 = 0
+  | | | |     - Tag 0x7662 (2 bytes, int16u[1]):
+  | | | |        3aa1c: 00 00                                           [..]
+  | | | | 37) Sony_SR2DataIFD_0x7663 = 0
+  | | | |     - Tag 0x7663 (2 bytes, int16u[1]):
+  | | | |        3aa28: 00 00                                           [..]
+  | | | | 38) Sony_SR2DataIFD_0x7664 = 0
+  | | | |     - Tag 0x7664 (2 bytes, int16u[1]):
+  | | | |        3aa34: 00 00                                           [..]
+  | | | | 39) Sony_SR2DataIFD_0x7665 = 0
+  | | | |     - Tag 0x7665 (2 bytes, int16u[1]):
+  | | | |        3aa40: 00 00                                           [..]
+  | | | | 40) Sony_SR2DataIFD_0x7680 = 0
+  | | | |     - Tag 0x7680 (2 bytes, int16u[1]):
+  | | | |        3aa4c: 00 00                                           [..]
+  | | | | 41) Sony_SR2DataIFD_0x7681 = 1
+  | | | |     - Tag 0x7681 (2 bytes, int16u[1]):
+  | | | |        3aa58: 01 00                                           [..]
+  | | | | 42) Sony_SR2DataIFD_0x7682 = 0
+  | | | |     - Tag 0x7682 (2 bytes, int16u[1]):
+  | | | |        3aa64: 00 00                                           [..]
+  | | | | 43) Sony_SR2DataIFD_0x7683 = 1
+  | | | |     - Tag 0x7683 (2 bytes, int16u[1]):
+  | | | |        3aa70: 01 00                                           [..]
+  | | | | 44) Sony_SR2DataIFD_0x7684 = 0
+  | | | |     - Tag 0x7684 (2 bytes, int16u[1]):
+  | | | |        3aa7c: 00 00                                           [..]
+  | | | | 45) Sony_SR2DataIFD_0x7685 = 12
+  | | | |     - Tag 0x7685 (2 bytes, int16u[1]):
+  | | | |        3aa88: 0c 00                                           [..]
+  | | | | 46) Sony_SR2DataIFD_0x7686 = 8
+  | | | |     - Tag 0x7686 (2 bytes, int16u[1]):
+  | | | |        3aa94: 08 00                                           [..]
+  | | | | 47) Sony_SR2DataIFD_0x7687 = 12
+  | | | |     - Tag 0x7687 (2 bytes, int16u[1]):
+  | | | |        3aaa0: 0c 00                                           [..]
+  | | | | 48) Sony_SR2DataIFD_0x7688 = 12
+  | | | |     - Tag 0x7688 (2 bytes, int16u[1]):
+  | | | |        3aaac: 0c 00                                           [..]
+  | | | | 49) Sony_SR2DataIFD_0x7689 = 12
+  | | | |     - Tag 0x7689 (2 bytes, int16u[1]):
+  | | | |        3aab8: 0c 00                                           [..]
+  | | | | 50) Sony_SR2DataIFD_0x768a = 12
+  | | | |     - Tag 0x768a (2 bytes, int16u[1]):
+  | | | |        3aac4: 0c 00                                           [..]
+  | | | | 51) Sony_SR2DataIFD_0x768b = 0
+  | | | |     - Tag 0x768b (2 bytes, int16u[1]):
+  | | | |        3aad0: 00 00                                           [..]
+  | | | | 52) Sony_SR2DataIFD_0x768c = 1
+  | | | |     - Tag 0x768c (2 bytes, int16u[1]):
+  | | | |        3aadc: 01 00                                           [..]
+  | | | | 53) Sony_SR2DataIFD_0x768d = 1
+  | | | |     - Tag 0x768d (2 bytes, int16u[1]):
+  | | | |        3aae8: 01 00                                           [..]
+  | | | | 54) Sony_SR2DataIFD_0x768e = 0 0 0 0 0 0 0 0
+  | | | |     - Tag 0x768e (16 bytes, int16u[8]):
+  | | | |        3b1ee: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | | | | 55) Sony_SR2DataIFD_0x76c0 = 16
+  | | | |     - Tag 0x76c0 (2 bytes, int16u[1]):
+  | | | |        3ab00: 10 00                                           [..]
+  | | | | 56) Sony_SR2DataIFD_0x76c1 = 32
+  | | | |     - Tag 0x76c1 (2 bytes, int16u[1]):
+  | | | |        3ab0c: 20 00                                           [ .]
+  | | | | 57) Sony_SR2DataIFD_0x76c2 = 64
+  | | | |     - Tag 0x76c2 (2 bytes, int16u[1]):
+  | | | |        3ab18: 40 00                                           [@.]
+  | | | | 58) Sony_SR2DataIFD_0x76c3 = 252
+  | | | |     - Tag 0x76c3 (2 bytes, int16u[1]):
+  | | | |        3ab24: fc 00                                           [..]
+  | | | | 59) Sony_SR2DataIFD_0x76c4 = 251
+  | | | |     - Tag 0x76c4 (2 bytes, int16u[1]):
+  | | | |        3ab30: fb 00                                           [..]
+  | | | | 60) Sony_SR2DataIFD_0x76c5 = 64 0 0 0
+  | | | |     - Tag 0x76c5 (8 bytes, int16u[4]):
+  | | | |        3b1fe: 40 00 00 00 00 00 00 00                         [@.......]
+  | | | | 61) Sony_SR2DataIFD_0x76c6 = 255 85 80 107
+  | | | |     - Tag 0x76c6 (8 bytes, int16u[4]):
+  | | | |        3b206: ff 00 55 00 50 00 6b 00                         [..U.P.k.]
+  | | | | 62) Sony_SR2DataIFD_0x76c7 = 0 236 30 221
+  | | | |     - Tag 0x76c7 (8 bytes, int16u[4]):
+  | | | |        3b20e: 00 00 ec 00 1e 00 dd 00                         [........]
+  | | | | 63) Sony_SR2DataIFD_0x76c8 = 0 24 231 238
+  | | | |     - Tag 0x76c8 (8 bytes, int16u[4]):
+  | | | |        3b216: 00 00 18 00 e7 00 ee 00                         [........]
+  | | | | 64) Sony_SR2DataIFD_0x76c9 = 1 1 1 0
+  | | | |     - Tag 0x76c9 (8 bytes, int16u[4]):
+  | | | |        3b21e: 01 00 01 00 01 00 00 00                         [........]
+  | | | | 65) Sony_SR2DataIFD_0x76ca = 0
+  | | | |     - Tag 0x76ca (2 bytes, int16u[1]):
+  | | | |        3ab78: 00 00                                           [..]
+  | | | | 66) Sony_SR2DataIFD_0x76d0 = 1
+  | | | |     - Tag 0x76d0 (2 bytes, int16u[1]):
+  | | | |        3ab84: 01 00                                           [..]
+  | | | | 67) Sony_SR2DataIFD_0x76d1 = 4
+  | | | |     - Tag 0x76d1 (2 bytes, int16u[1]):
+  | | | |        3ab90: 04 00                                           [..]
+  | | | | 68) Sony_SR2DataIFD_0x76d2 = 0
+  | | | |     - Tag 0x76d2 (2 bytes, int16u[1]):
+  | | | |        3ab9c: 00 00                                           [..]
+  | | | | 69) Sony_SR2DataIFD_0x76d3 = 8
+  | | | |     - Tag 0x76d3 (2 bytes, int16u[1]):
+  | | | |        3aba8: 08 00                                           [..]
+  | | | | 70) Sony_SR2DataIFD_0x76d4 = 0
+  | | | |     - Tag 0x76d4 (2 bytes, int16u[1]):
+  | | | |        3abb4: 00 00                                           [..]
+  | | | | 71) Sony_SR2DataIFD_0x76d5 = 32
+  | | | |     - Tag 0x76d5 (2 bytes, int16u[1]):
+  | | | |        3abc0: 20 00                                           [ .]
+  | | | | 72) Sony_SR2DataIFD_0x76d6 = 0
+  | | | |     - Tag 0x76d6 (2 bytes, int16u[1]):
+  | | | |        3abcc: 00 00                                           [..]
+  | | | | 73) Sony_SR2DataIFD_0x76d7 = 64
+  | | | |     - Tag 0x76d7 (2 bytes, int16u[1]):
+  | | | |        3abd8: 40 00                                           [@.]
+  | | | | 74) Sony_SR2DataIFD_0x76d8 = 0
+  | | | |     - Tag 0x76d8 (2 bytes, int16u[1]):
+  | | | |        3abe4: 00 00                                           [..]
+  | | | | 75) Sony_SR2DataIFD_0x76d9 = 64
+  | | | |     - Tag 0x76d9 (2 bytes, int16u[1]):
+  | | | |        3abf0: 40 00                                           [@.]
+  | | | | 76) Sony_SR2DataIFD_0x76da = 0
+  | | | |     - Tag 0x76da (2 bytes, int16u[1]):
+  | | | |        3abfc: 00 00                                           [..]
+  | | | | 77) Sony_SR2DataIFD_0x76db = 0
+  | | | |     - Tag 0x76db (2 bytes, int16u[1]):
+  | | | |        3ac08: 00 00                                           [..]
+  | | | | 78) Sony_SR2DataIFD_0x76dc = 1
+  | | | |     - Tag 0x76dc (2 bytes, int16u[1]):
+  | | | |        3ac14: 01 00                                           [..]
+  | | | | 79) Sony_SR2DataIFD_0x76dd = 1
+  | | | |     - Tag 0x76dd (2 bytes, int16u[1]):
+  | | | |        3ac20: 01 00                                           [..]
+  | | | | 80) Sony_SR2DataIFD_0x76de = 16
+  | | | |     - Tag 0x76de (2 bytes, int16u[1]):
+  | | | |        3ac2c: 10 00                                           [..]
+  | | | | 81) Sony_SR2DataIFD_0x76df = 1
+  | | | |     - Tag 0x76df (2 bytes, int16u[1]):
+  | | | |        3ac38: 01 00                                           [..]
+  | | | | 82) Sony_SR2DataIFD_0x76e0 = 1
+  | | | |     - Tag 0x76e0 (2 bytes, int16u[1]):
+  | | | |        3ac44: 01 00                                           [..]
+  | | | | 83) Sony_SR2DataIFD_0x7700 = 0
+  | | | |     - Tag 0x7700 (2 bytes, int16u[1]):
+  | | | |        3ac50: 00 00                                           [..]
+  | | | | 84) Sony_SR2DataIFD_0x7701 = 0
+  | | | |     - Tag 0x7701 (2 bytes, int16u[1]):
+  | | | |        3ac5c: 00 00                                           [..]
+  | | | | 85) Sony_SR2DataIFD_0x7702 = 0
+  | | | |     - Tag 0x7702 (2 bytes, int16u[1]):
+  | | | |        3ac68: 00 00                                           [..]
+  | | | | 86) Sony_SR2DataIFD_0x7703 = 0
+  | | | |     - Tag 0x7703 (2 bytes, int16u[1]):
+  | | | |        3ac74: 00 00                                           [..]
+  | | | | 87) Sony_SR2DataIFD_0x7704 = 0
+  | | | |     - Tag 0x7704 (2 bytes, int16u[1]):
+  | | | |        3ac80: 00 00                                           [..]
+  | | | | 88) Sony_SR2DataIFD_0x7705 = 0
+  | | | |     - Tag 0x7705 (2 bytes, int16u[1]):
+  | | | |        3ac8c: 00 00                                           [..]
+  | | | | 89) Sony_SR2DataIFD_0x7706 = 0 0 0 0 0 0 0 0
+  | | | |     - Tag 0x7706 (16 bytes, int16u[8]):
+  | | | |        3b226: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | | | | 90) Sony_SR2DataIFD_0x7707 = 0 0 0 0 0 0 0 0
+  | | | |     - Tag 0x7707 (16 bytes, int16u[8]):
+  | | | |        3b236: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | | | | 91) Sony_SR2DataIFD_0x7708 = 0 0 0 0 0 0 0 0
+  | | | |     - Tag 0x7708 (16 bytes, int16u[8]):
+  | | | |        3b246: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | | | | 92) Sony_SR2DataIFD_0x7709 = 0 0 0 0 0 0 0 0
+  | | | |     - Tag 0x7709 (16 bytes, int16u[8]):
+  | | | |        3b256: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | | | | 93) Sony_SR2DataIFD_0x770a = 0
+  | | | |     - Tag 0x770a (2 bytes, int16u[1]):
+  | | | |        3acc8: 00 00                                           [..]
+  | | | | 94) Sony_SR2DataIFD_0x770b = 0
+  | | | |     - Tag 0x770b (2 bytes, int16u[1]):
+  | | | |        3acd4: 00 00                                           [..]
+  | | | | 95) Sony_SR2DataIFD_0x7720 = 0
+  | | | |     - Tag 0x7720 (2 bytes, int16u[1]):
+  | | | |        3ace0: 00 00                                           [..]
+  | | | | 96) Sony_SR2DataIFD_0x7721 = 0
+  | | | |     - Tag 0x7721 (2 bytes, int16u[1]):
+  | | | |        3acec: 00 00                                           [..]
+  | | | | 97) Sony_SR2DataIFD_0x7722 = 0
+  | | | |     - Tag 0x7722 (2 bytes, int16u[1]):
+  | | | |        3acf8: 00 00                                           [..]
+  | | | | 98) Sony_SR2DataIFD_0x7723 = 0
+  | | | |     - Tag 0x7723 (2 bytes, int16u[1]):
+  | | | |        3ad04: 00 00                                           [..]
+  | | | | 99) Sony_SR2DataIFD_0x7724 = 0
+  | | | |     - Tag 0x7724 (2 bytes, int16u[1]):
+  | | | |        3ad10: 00 00                                           [..]
+  | | | | 100) Sony_SR2DataIFD_0x7725 = 0
+  | | | |     - Tag 0x7725 (2 bytes, int16u[1]):
+  | | | |        3ad1c: 00 00                                           [..]
+  | | | | 101) Sony_SR2DataIFD_0x7726 = 0
+  | | | |     - Tag 0x7726 (2 bytes, int16u[1]):
+  | | | |        3ad28: 00 00                                           [..]
+  | | | | 102) Sony_SR2DataIFD_0x7727 = 0
+  | | | |     - Tag 0x7727 (2 bytes, int16u[1]):
+  | | | |        3ad34: 00 00                                           [..]
+  | | | | 103) Sony_SR2DataIFD_0x7728 = 0
+  | | | |     - Tag 0x7728 (2 bytes, int16u[1]):
+  | | | |        3ad40: 00 00                                           [..]
+  | | | | 104) Sony_SR2DataIFD_0x7729 = 0
+  | | | |     - Tag 0x7729 (2 bytes, int16u[1]):
+  | | | |        3ad4c: 00 00                                           [..]
+  | | | | 105) Sony_SR2DataIFD_0x772a = 0
+  | | | |     - Tag 0x772a (2 bytes, int16u[1]):
+  | | | |        3ad58: 00 00                                           [..]
+  | | | | 106) Sony_SR2DataIFD_0x772b = 0
+  | | | |     - Tag 0x772b (2 bytes, int16u[1]):
+  | | | |        3ad64: 00 00                                           [..]
+  | | | | 107) Sony_SR2DataIFD_0x772c = 0
+  | | | |     - Tag 0x772c (2 bytes, int16u[1]):
+  | | | |        3ad70: 00 00                                           [..]
+  | | | | 108) Sony_SR2DataIFD_0x7740 = 4
+  | | | |     - Tag 0x7740 (2 bytes, int16u[1]):
+  | | | |        3ad7c: 04 00                                           [..]
+  | | | | 109) Sony_SR2DataIFD_0x7741 = 4
+  | | | |     - Tag 0x7741 (2 bytes, int16u[1]):
+  | | | |        3ad88: 04 00                                           [..]
+  | | | | 110) Sony_SR2DataIFD_0x7742 = 64
+  | | | |     - Tag 0x7742 (2 bytes, int16u[1]):
+  | | | |        3ad94: 40 00                                           [@.]
+  | | | | 111) Sony_SR2DataIFD_0x7743 = 0
+  | | | |     - Tag 0x7743 (2 bytes, int16u[1]):
+  | | | |        3ada0: 00 00                                           [..]
+  | | | | 112) Sony_SR2DataIFD_0x7744 = 63
+  | | | |     - Tag 0x7744 (2 bytes, int16u[1]):
+  | | | |        3adac: 3f 00                                           [?.]
+  | | | | 113) Sony_SR2DataIFD_0x7745 = 0
+  | | | |     - Tag 0x7745 (2 bytes, int16u[1]):
+  | | | |        3adb8: 00 00                                           [..]
+  | | | | 114) Sony_SR2DataIFD_0x7746 = 0
+  | | | |     - Tag 0x7746 (2 bytes, int16u[1]):
+  | | | |        3adc4: 00 00                                           [..]
+  | | | | 115) Sony_SR2DataIFD_0x7747 = 0
+  | | | |     - Tag 0x7747 (2 bytes, int16u[1]):
+  | | | |        3add0: 00 00                                           [..]
+  | | | | 116) Sony_SR2DataIFD_0x7748 = 1
+  | | | |     - Tag 0x7748 (2 bytes, int16u[1]):
+  | | | |        3addc: 01 00                                           [..]
+  | | | | 117) Sony_SR2DataIFD_0x7749 = 1
+  | | | |     - Tag 0x7749 (2 bytes, int16u[1]):
+  | | | |        3ade8: 01 00                                           [..]
+  | | | | 118) Sony_SR2DataIFD_0x774a = 0
+  | | | |     - Tag 0x774a (2 bytes, int16u[1]):
+  | | | |        3adf4: 00 00                                           [..]
+  | | | | 119) Sony_SR2DataIFD_0x774b = 36
+  | | | |     - Tag 0x774b (2 bytes, int16u[1]):
+  | | | |        3ae00: 24 00                                           [$.]
+  | | | | 120) Sony_SR2DataIFD_0x774c = 0
+  | | | |     - Tag 0x774c (2 bytes, int16u[1]):
+  | | | |        3ae0c: 00 00                                           [..]
+  | | | | 121) Sony_SR2DataIFD_0x774d = 0
+  | | | |     - Tag 0x774d (2 bytes, int16u[1]):
+  | | | |        3ae18: 00 00                                           [..]
+  | | | | 122) Sony_SR2DataIFD_0x774e = 0
+  | | | |     - Tag 0x774e (2 bytes, int16u[1]):
+  | | | |        3ae24: 00 00                                           [..]
+  | | | | 123) Sony_SR2DataIFD_0x774f = 1
+  | | | |     - Tag 0x774f (2 bytes, int16u[1]):
+  | | | |        3ae30: 01 00                                           [..]
+  | | | | 124) Sony_SR2DataIFD_0x7750 = 0
+  | | | |     - Tag 0x7750 (2 bytes, int16u[1]):
+  | | | |        3ae3c: 00 00                                           [..]
+  | | | | 125) Sony_SR2DataIFD_0x7751 = 1
+  | | | |     - Tag 0x7751 (2 bytes, int16u[1]):
+  | | | |        3ae48: 01 00                                           [..]
+  | | | | 126) Sony_SR2DataIFD_0x7752 = 0
+  | | | |     - Tag 0x7752 (2 bytes, int16u[1]):
+  | | | |        3ae54: 00 00                                           [..]
+  | | | | 127) Sony_SR2DataIFD_0x7753 = 1
+  | | | |     - Tag 0x7753 (2 bytes, int16u[1]):
+  | | | |        3ae60: 01 00                                           [..]
+  | | | | 128) Sony_SR2DataIFD_0x7754 = 1
+  | | | |     - Tag 0x7754 (2 bytes, int16u[1]):
+  | | | |        3ae6c: 01 00                                           [..]
+  | | | | 129) Sony_SR2DataIFD_0x7755 = 15
+  | | | |     - Tag 0x7755 (2 bytes, int16u[1]):
+  | | | |        3ae78: 0f 00                                           [..]
+  | | | | 130) ColorMode = Vivid
+  | | | |     - Tag 0x7770 (6 bytes, string[6]):
+  | | | |        3b266: 56 69 76 69 64 00                               [Vivid.]
+  | | | | 131) Sony_SR2DataIFD_0x7771 = 0
+  | | | |     - Tag 0x7771 (2 bytes, int16u[1]):
+  | | | |        3ae90: 00 00                                           [..]
+  | | | 98) Sony_SR2SubIFD_0x74c1 = 1 1 1 0 0 6826 3252 0 2573 699 2558 0 1253 3 0 0 25[snip]
+  | | |     - Tag 0x74c1 (2220 bytes, int16u[1110]):
+  | | |        38b98: 01 00 01 00 01 00 00 00 00 00 aa 1a b4 0c 00 00 [................]
+  | | |        38ba8: 0d 0a bb 02 fe 09 00 00 e5 04 03 00 00 00 00 00 [................]
+  | | |        38bb8: 19 00 1b 00 58 05 22 02 19 00 01 00 48 05 22 02 [....X.".....H.".]
+  | | |        38bc8: c2 07 09 00 c9 07 12 01 a9 02 09 00 c9 07 08 00 [................]
+  | | |        38bd8: 9f 02 a0 02 24 00 75 00 00 00 00 00 00 01 00 00 [....$.u.........]
+  | | |         [snip 2140 bytes]
+  | | | 99) Sony_SR2SubIFD_0x74c2 = 0
+  | | |     - Tag 0x74c2 (2 bytes, int16u[1]):
+  | | |        38a4a: 00 00                                           [..]
+  | | | 100) Sony_SR2SubIFD_0x74c3 = 16 8 3904 2600
+  | | |     - Tag 0x74c3 (8 bytes, int16u[4]):
+  | | |        39444: 10 00 08 00 40 0f 28 0a                         [....@.(.]
+  + [IFD1 directory with 11 entries]
+  | 0)  SubfileType = 1
+  |     - Tag 0x00fe (4 bytes, int32u[1]):
+  |         0498: 01 00 00 00                                     [....]
+  | 1)  Compression = 6
+  |     - Tag 0x0103 (2 bytes, int16u[1]):
+  |         04a4: 06 00                                           [..]
+  | 2)  Make = SONY
+  |     - Tag 0x010f (5 bytes, string[5]):
+  |         0518: 53 4f 4e 59 00                                  [SONY.]
+  | 3)  Model = DSC-R1
+  |     - Tag 0x0110 (7 bytes, string[7]):
+  |         051e: 44 53 43 2d 52 31 00                            [DSC-R1.]
+  | 4)  Orientation = 1
+  |     - Tag 0x0112 (2 bytes, int16u[1]):
+  |         04c8: 01 00                                           [..]
+  | 5)  XResolution = 72 (72/1)
+  |     - Tag 0x011a (8 bytes, rational64u[1]):
+  |         0526: 48 00 00 00 01 00 00 00                         [H.......]
+  | 6)  YResolution = 72 (72/1)
+  |     - Tag 0x011b (8 bytes, rational64u[1]):
+  |         052e: 48 00 00 00 01 00 00 00                         [H.......]
+  | 7)  ResolutionUnit = 2
+  |     - Tag 0x0128 (2 bytes, int16u[1]):
+  |         04ec: 02 00                                           [..]
+  | 8)  ModifyDate = 2007:03:24 11:17:27
+  |     - Tag 0x0132 (20 bytes, string[20]):
+  |         0536: 32 30 30 37 3a 30 33 3a 32 34 20 31 31 3a 31 37 [2007:03:24 11:17]
+  |         0546: 3a 32 37 00                                     [:27.]
+  | 9)  ThumbnailOffset = 165198
+  |     - Tag 0x0201 (4 bytes, int32u[1]):
+  |         0504: 4e 85 02 00                                     [N...]
+  | 10) ThumbnailLength = 18311
+  |     - Tag 0x0202 (4 bytes, int32u[1]):
+  |         0510: 87 47 00 00                                     [.G..]

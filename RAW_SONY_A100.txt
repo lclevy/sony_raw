@@ -1,0 +1,1054 @@
+  ExifToolVersion = 11.52
+  FileName = RAW_SONY_A100.ARW
+  Directory = e:/raw_samples/sony
+  FileSize = 9125404
+  FileModifyDate = 1652964164
+  FileAccessDate = 1652964168
+  FileCreateDate = 1652959125.5
+  FilePermissions = 33206
+  FileType = ARW
+  FileTypeExtension = ARW
+  MIMEType = image/x-sony-arw
+  ExifByteOrder = II
+  + [IFD0 directory with 19 entries]
+  | 0)  SubfileType = 1
+  |     - Tag 0x00fe (4 bytes, int32u[1]):
+  |         0012: 01 00 00 00                                     [....]
+  | 1)  ImageWidth = 3872
+  |     - Tag 0x0100 (4 bytes, int32u[1]):
+  |         001e: 20 0f 00 00                                     [ ...]
+  | 2)  ImageHeight = 2592
+  |     - Tag 0x0101 (4 bytes, int32u[1]):
+  |         002a: 20 0a 00 00                                     [ ...]
+  | 3)  Compression = 6
+  |     - Tag 0x0103 (2 bytes, int16u[1]):
+  |         0036: 06 00                                           [..]
+  | 4)  ImageDescription = SONY DSC                       
+  |     - Tag 0x010e (32 bytes, string[32]):
+  |         00f2: 53 4f 4e 59 20 44 53 43 20 20 20 20 20 20 20 20 [SONY DSC        ]
+  |         0102: 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 00 [               .]
+  | 5)  Make = SONY           
+  |     - Tag 0x010f (16 bytes, string[16]):
+  |         0112: 53 4f 4e 59 20 20 20 20 20 20 20 20 20 20 20 00 [SONY           .]
+  | 6)  Model = DSLR-A100
+  |     - Tag 0x0110 (10 bytes, string[10]):
+  |         0122: 44 53 4c 52 2d 41 31 30 30 00                   [DSLR-A100.]
+  | 7)  Orientation = 1
+  |     - Tag 0x0112 (2 bytes, int16u[1]):
+  |         0066: 01 00                                           [..]
+  | 8)  XResolution = 72 (72/1)
+  |     - Tag 0x011a (8 bytes, rational64u[1]):
+  |         012c: 48 00 00 00 01 00 00 00                         [H.......]
+  | 9)  YResolution = 72 (72/1)
+  |     - Tag 0x011b (8 bytes, rational64u[1]):
+  |         0134: 48 00 00 00 01 00 00 00                         [H.......]
+  | 10) ResolutionUnit = 2
+  |     - Tag 0x0128 (2 bytes, int16u[1]):
+  |         008a: 02 00                                           [..]
+  | 11) Software = DSLR-A100 v1.02
+  |     - Tag 0x0131 (16 bytes, string[16]):
+  |         013c: 44 53 4c 52 2d 41 31 30 30 20 76 31 2e 30 32 00 [DSLR-A100 v1.02.]
+  | 12) ModifyDate = 2007:04:08 17:41:18
+  |     - Tag 0x0132 (20 bytes, string[20]):
+  |         014c: 32 30 30 37 3a 30 34 3a 30 38 20 31 37 3a 34 31 [2007:04:08 17:41]
+  |         015c: 3a 31 38 00                                     [:18.]
+  | 13) A100DataOffset = 65536
+  |     - Tag 0x014a (4 bytes, int32u[1]):
+  |         00ae: 00 00 01 00                                     [....]
+  | 14) PreviewImageStart = 25539
+  |     - Tag 0x0201 (4 bytes, int32u[1]):
+  |         00ba: c3 63 00 00                                     [.c..]
+  | 15) PreviewImageLength = 30055
+  |     - Tag 0x0202 (4 bytes, int32u[1]):
+  |         00c6: 67 75 00 00                                     [gu..]
+  | 16) ExifOffset (SubDirectory) -->
+  |     - Tag 0x8769 (4 bytes, int32u[1]):
+  |         00d2: dc 01 00 00                                     [....]
+  | + [ExifIFD directory with 36 entries]
+  | | 0)  ExposureTime = 0.01 (1/100)
+  | |     - Tag 0x829a (8 bytes, rational64u[1]):
+  | |         03ba: 01 00 00 00 64 00 00 00                         [....d...]
+  | | 1)  FNumber = 11 (110/10)
+  | |     - Tag 0x829d (8 bytes, rational64u[1]):
+  | |         03c2: 6e 00 00 00 0a 00 00 00                         [n.......]
+  | | 2)  ExposureProgram = 3
+  | |     - Tag 0x8822 (2 bytes, int16u[1]):
+  | |         01fe: 03 00                                           [..]
+  | | 3)  ISO = 100
+  | |     - Tag 0x8827 (2 bytes, int16u[1]):
+  | |         020a: 64 00                                           [d.]
+  | | 4)  ExifVersion = 0221
+  | |     - Tag 0x9000 (4 bytes, undef[4]):
+  | |         0216: 30 32 32 31                                     [0221]
+  | | 5)  DateTimeOriginal = 2007:04:08 17:41:18
+  | |     - Tag 0x9003 (20 bytes, string[20]):
+  | |         0392: 32 30 30 37 3a 30 34 3a 30 38 20 31 37 3a 34 31 [2007:04:08 17:41]
+  | |         03a2: 3a 31 38 00                                     [:18.]
+  | | 6)  CreateDate = 2007:04:08 17:41:18
+  | |     - Tag 0x9004 (20 bytes, string[20]):
+  | |         03a6: 32 30 30 37 3a 30 34 3a 30 38 20 31 37 3a 34 31 [2007:04:08 17:41]
+  | |         03b6: 3a 31 38 00                                     [:18.]
+  | | 7)  ComponentsConfiguration = 1 2 3 0
+  | |     - Tag 0x9101 (4 bytes, undef[4] read as int8u[4]):
+  | |         023a: 01 02 03 00                                     [....]
+  | | 8)  CompressedBitsPerPixel = 8 (8/1)
+  | |     - Tag 0x9102 (8 bytes, rational64u[1]):
+  | |         03ca: 08 00 00 00 01 00 00 00                         [........]
+  | | 9)  BrightnessValue = 8.62 (862/100)
+  | |     - Tag 0x9203 (8 bytes, rational64s[1]):
+  | |         03f2: 5e 03 00 00 64 00 00 00                         [^...d...]
+  | | 10) ExposureCompensation = 0 (0/10)
+  | |     - Tag 0x9204 (8 bytes, rational64s[1]):
+  | |         03d2: 00 00 00 00 0a 00 00 00                         [........]
+  | | 11) MaxApertureValue = 4.97 (497/100)
+  | |     - Tag 0x9205 (8 bytes, rational64u[1]):
+  | |         03da: f1 01 00 00 64 00 00 00                         [....d...]
+  | | 12) MeteringMode = 5
+  | |     - Tag 0x9207 (2 bytes, int16u[1]):
+  | |         0276: 05 00                                           [..]
+  | | 13) LightSource = 10
+  | |     - Tag 0x9208 (2 bytes, int16u[1]):
+  | |         0282: 0a 00                                           [..]
+  | | 14) Flash = 16
+  | |     - Tag 0x9209 (2 bytes, int16u[1]):
+  | |         028e: 10 00                                           [..]
+  | | 15) FocalLength = 60 (600/10)
+  | |     - Tag 0x920a (8 bytes, rational64u[1]):
+  | |         03e2: 58 02 00 00 0a 00 00 00                         [X.......]
+  | | 16) SubjectArea = 1936 1296 329 393
+  | |     - Tag 0x9214 (8 bytes, int16u[4]):
+  | |         03fa: 90 07 10 05 49 01 89 01                         [....I...]
+  | | 17) MakerNoteSony (SubDirectory) -->
+  | |     - Tag 0x927c (24208 bytes, undef[24208]):
+  | |         0442: 53 4f 4e 59 20 44 53 43 20 00 00 00 1c 00 00 20 [SONY DSC ...... ]
+  | |         0452: 07 00 01 00 00 00 00 00 00 00 00 b0 01 00 04 00 [................]
+  | |         0462: 00 00 02 00 00 00 01 b0 03 00 01 00 00 00 00 01 [................]
+  | |         0472: 00 00 20 b0 02 00 09 00 00 00 a4 05 00 00 40 b0 [.. ...........@.]
+  | |         0482: 03 00 01 00 00 00 ff ff 00 00 41 b0 03 00 01 00 [..........A.....]
+  | |         [snip 24128 bytes]
+  | | + [MakerNotes directory with 28 entries]
+  | | | 0)  Sony_0x2000 = 0
+  | | |     - Tag 0x2000 (1 bytes, undef[1]):
+  | | |         0458: 00                                              [.]
+  | | | 1)  FileFormat = 2 0 0 0
+  | | |     - Tag 0xb000 (4 bytes, int8u[4]):
+  | | |         0464: 02 00 00 00                                     [....]
+  | | | 2)  SonyModelID = 256
+  | | |     - Tag 0xb001 (2 bytes, int16u[1]):
+  | | |         0470: 00 01                                           [..]
+  | | | 3)  CreativeStyle = None
+  | | |     - Tag 0xb020 (9 bytes, string[9]):
+  | | |         05a4: 4e 6f 6e 65 00 00 00 00 00                      [None.....]
+  | | | 4)  Macro = 65535
+  | | |     - Tag 0xb040 (2 bytes, int16u[1]):
+  | | |         0488: ff ff                                           [..]
+  | | | 5)  ExposureMode = 65535
+  | | |     - Tag 0xb041 (2 bytes, int16u[1]):
+  | | |         0494: ff ff                                           [..]
+  | | | 6)  FocusMode = 65535
+  | | |     - Tag 0xb042 (2 bytes, int16u[1]):
+  | | |         04a0: ff ff                                           [..]
+  | | | 7)  AFAreaMode = 65535
+  | | |     - Tag 0xb043 (2 bytes, int16u[1]):
+  | | |         04ac: ff ff                                           [..]
+  | | | 8)  AFIlluminator = 65535
+  | | |     - Tag 0xb044 (2 bytes, int16u[1]):
+  | | |         04b8: ff ff                                           [..]
+  | | | 9)  Sony_0xb045 = 65535
+  | | |     - Tag 0xb045 (2 bytes, int16u[1]):
+  | | |         04c4: ff ff                                           [..]
+  | | | 10) Sony_0xb046 = 65535
+  | | |     - Tag 0xb046 (2 bytes, int16u[1]):
+  | | |         04d0: ff ff                                           [..]
+  | | | 11) JPEGQuality = 65535
+  | | |     - Tag 0xb047 (2 bytes, int16u[1]):
+  | | |         04dc: ff ff                                           [..]
+  | | | 12) FlashLevel = -1
+  | | |     - Tag 0xb048 (2 bytes, int16s[1]):
+  | | |         04e8: ff ff                                           [..]
+  | | | 13) ReleaseMode = 65535
+  | | |     - Tag 0xb049 (2 bytes, int16u[1]):
+  | | |         04f4: ff ff                                           [..]
+  | | | 14) SequenceNumber = 65535
+  | | |     - Tag 0xb04a (2 bytes, int16u[1]):
+  | | |         0500: ff ff                                           [..]
+  | | | 15) Anti-Blur = 65535
+  | | |     - Tag 0xb04b (2 bytes, int16u[1]):
+  | | |         050c: ff ff                                           [..]
+  | | | 16) Sony_0xb04c = 1 (252645135/252645135)
+  | | |     - Tag 0xb04c (8 bytes, rational64u[1]):
+  | | |         05b4: 0f 0f 0f 0f 0f 0f 0f 0f                         [........]
+  | | | 17) Sony_0xb04d = 65535
+  | | |     - Tag 0xb04d (2 bytes, int16u[1]):
+  | | |         0524: ff ff                                           [..]
+  | | | 18) Sony_0xb04e = 65535
+  | | |     - Tag 0xb04e (2 bytes, int16u[1]):
+  | | |         0530: ff ff                                           [..]
+  | | | 19) ColorTemperature = 0
+  | | |     - Tag 0xb021 (4 bytes, int32u[1]):
+  | | |         053c: 00 00 00 00                                     [....]
+  | | | 20) ColorCompensationFilter = 0
+  | | |     - Tag 0xb022 (4 bytes, int32u[1] read as int32s[1]):
+  | | |         0548: 00 00 00 00                                     [....]
+  | | | 21) SceneMode = 0
+  | | |     - Tag 0xb023 (4 bytes, int32u[1]):
+  | | |         0554: 00 00 00 00                                     [....]
+  | | | 22) ZoneMatching = 0
+  | | |     - Tag 0xb024 (4 bytes, int32u[1]):
+  | | |         0560: 00 00 00 00                                     [....]
+  | | | 23) DynamicRangeOptimizer = 0
+  | | |     - Tag 0xb025 (4 bytes, int32u[1]):
+  | | |         056c: 00 00 00 00                                     [....]
+  | | | 24) ImageStabilization = 1
+  | | |     - Tag 0xb026 (4 bytes, int32u[1]):
+  | | |         0578: 01 00 00 00                                     [....]
+  | | | 25) LensType = 40
+  | | |     - Tag 0xb027 (4 bytes, int32u[1]):
+  | | |         0584: 28 00 00 00                                     [(...]
+  | | | 26) MinoltaMakerNote (SubDirectory) -->
+  | | |     - Tag 0xb028 (4 bytes, int32u[1]):
+  | | |         0590: bc 05 00 00                                     [....]
+  | | | + [MinoltaMakerNote directory with 23 entries]
+  | | | | 0)  MakerNoteVersion = MLT0
+  | | | |     - Tag 0x0000 (4 bytes, undef[4]):
+  | | | |         05c6: 4d 4c 54 30                                     [MLT0]
+  | | | | 1)  CameraInfoA100 (SubDirectory) -->
+  | | | |     - Tag 0x0010 (256 bytes, undef[256]):
+  | | | |         07da: 73 03 00 80 00 80 00 80 31 ff 00 80 00 80 00 80 [s.......1.......]
+  | | | |         07ea: 82 ff 00 80 40 01 00 82 00 80 06 00 00 00 4d 01 [....@.........M.]
+  | | | |         07fa: 00 00 00 03 00 bb 00 fb fe ff ff 10 10 00 80 00 [................]
+  | | | |         080a: 80 00 80 01 00 80 00 80 00 80 6c ff 00 80 00 80 [..........l.....]
+  | | | |         081a: 00 80 00 80 80 00 a9 01 00 00 00 00 1d 2e 9d e6 [................]
+  | | | |         [snip 176 bytes]
+  | | | | + [BinaryData directory, 256 bytes]
+  | | | | | AFSensorActive = 3
+  | | | | | - Tag 0x0001 (1 bytes, int8u[1]):
+  | | | | |     07db: 03                                              [.]
+  | | | | | AFStatusActiveSensor = -32768
+  | | | | | - Tag 0x0002 (2 bytes, int16s[1]):
+  | | | | |     07dc: 00 80                                           [..]
+  | | | | | AFStatusTop-right = -32768
+  | | | | | - Tag 0x0004 (2 bytes, int16s[1]):
+  | | | | |     07de: 00 80                                           [..]
+  | | | | | AFStatusBottom-right = -32768
+  | | | | | - Tag 0x0006 (2 bytes, int16s[1]):
+  | | | | |     07e0: 00 80                                           [..]
+  | | | | | AFStatusBottom = -207
+  | | | | | - Tag 0x0008 (2 bytes, int16s[1]):
+  | | | | |     07e2: 31 ff                                           [1.]
+  | | | | | AFStatusMiddleHorizontal = -32768
+  | | | | | - Tag 0x000a (2 bytes, int16s[1]):
+  | | | | |     07e4: 00 80                                           [..]
+  | | | | | AFStatusCenterVertical = -32768
+  | | | | | - Tag 0x000c (2 bytes, int16s[1]):
+  | | | | |     07e6: 00 80                                           [..]
+  | | | | | AFStatusTop = -32768
+  | | | | | - Tag 0x000e (2 bytes, int16s[1]):
+  | | | | |     07e8: 00 80                                           [..]
+  | | | | | AFStatusTop-left = -126
+  | | | | | - Tag 0x0010 (2 bytes, int16s[1]):
+  | | | | |     07ea: 82 ff                                           [..]
+  | | | | | AFStatusBottom-left = -32768
+  | | | | | - Tag 0x0012 (2 bytes, int16s[1]):
+  | | | | |     07ec: 00 80                                           [..]
+  | | | | | FocusLocked = 64
+  | | | | | - Tag 0x0014 (1 bytes, int8u[1]):
+  | | | | |     07ee: 40                                              [@]
+  | | | | | AFPoint = 1
+  | | | | | - Tag 0x0015 (1 bytes, int8u[1]):
+  | | | | |     07ef: 01                                              [.]
+  | | | | | AFMode = 0
+  | | | | | - Tag 0x0016 (1 bytes, int8u[1]):
+  | | | | |     07f0: 00                                              [.]
+  | | | | | AFStatusLeft = -32768
+  | | | | | - Tag 0x002d (2 bytes, int16s[1]):
+  | | | | |     0807: 00 80                                           [..]
+  | | | | | AFStatusCenterHorizontal = -32768
+  | | | | | - Tag 0x002f (2 bytes, int16s[1]):
+  | | | | |     0809: 00 80                                           [..]
+  | | | | | AFStatusRight = -32768
+  | | | | | - Tag 0x0031 (2 bytes, int16s[1]):
+  | | | | |     080b: 00 80                                           [..]
+  | | | | | AFAreaMode = 1
+  | | | | | - Tag 0x0033 (1 bytes, int8u[1]):
+  | | | | |     080d: 01                                              [.]
+  | | | | 2)  ISInfoA100 (SubDirectory) -->
+  | | | |     - Tag 0x0018 (4096 bytes, undef[4096]):
+  | | | |         08da: 27 84 02 70 d3 08 00 d3 12 00 10 80 00 d3 02 00 ['..p............]
+  | | | |         08ea: 10 80 00 d3 12 00 10 80 00 d3 02 00 10 80 00 d3 [................]
+  | | | |         08fa: 12 00 10 80 00 d3 02 00 10 80 00 d3 12 00 10 80 [................]
+  | | | |         090a: 00 d3 02 00 10 80 00 d3 04 00 36 08 00 10 80 00 [..........6.....]
+  | | | |         091a: 00 12 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | | | |         [snip 4016 bytes]
+  | | | | + [BinaryData directory, 4096 bytes]
+  | | | | | ImageStabilization = 10116
+  | | | | | - Tag 0x0000 (2 bytes, int16u[1]):
+  | | | | |     08da: 27 84                                           ['.]
+  | | | | 3)  WBInfoA100 (SubDirectory) -->
+  | | | |     - Tag 0x0020 (18928 bytes, undef[18928]):
+  | | | |         18da: ae ae ae a0 01 01 80 04 55 2a 55 2a 45 a2 05 00 [........U*U*E...]
+  | | | |         18ea: 00 55 08 10 01 00 00 54 55 28 14 13 d4 22 10 a0 [.U.....TU(..."..]
+  | | | |         18fa: 08 40 02 14 28 14 00 40 14 0a 00 00 00 00 00 ff [.@..(..@........]
+  | | | |         190a: 81 00 00 44 00 01 00 00 00 b1 00 01 00 01 00 00 [...D............]
+  | | | |         191a: ff f1 2a 41 0a 50 12 8a 15 0a 11 28 05 02 45 08 [..*A.P.....(..E.]
+  | | | |         [snip 18848 bytes]
+  | | | | + [BinaryData directory, 18928 bytes]
+  | | | | | DriveMode = 5
+  | | | | | - Tag 0x000e (1 bytes, int8u[1]):
+  | | | | |     18e8: 05                                              [.]
+  | | | | | Rotation = 0
+  | | | | | - Tag 0x0010 (1 bytes, int8u[1]):
+  | | | | |     18ea: 00                                              [.]
+  | | | | | ImageStabilizationSetting = 1
+  | | | | | - Tag 0x0014 (1 bytes, int8u[1]):
+  | | | | |     18ee: 01                                              [.]
+  | | | | | DynamicRangeOptimizerMode = 0
+  | | | | | - Tag 0x0015 (1 bytes, int8u[1]):
+  | | | | |     18ef: 00                                              [.]
+  | | | | | ExposureCompensationMode = 0
+  | | | | | - Tag 0x002a (1 bytes, int8u[1]):
+  | | | | |     1904: 00                                              [.]
+  | | | | | WBBracketShotNumber = 0
+  | | | | | - Tag 0x002b (1 bytes, int8u[1]):
+  | | | | |     1905: 00                                              [.]
+  | | | | | WhiteBalanceBracketing = 0
+  | | | | | - Tag 0x002c (1 bytes, int8u[1]):
+  | | | | |     1906: 00                                              [.]
+  | | | | | ExposureBracketShotNumber = 0
+  | | | | | - Tag 0x002d (1 bytes, int8u[1]):
+  | | | | |     1907: 00                                              [.]
+  | | | | | FlashFunction = 0
+  | | | | | - Tag 0x0031 (2 bytes, int16u[1]):
+  | | | | |     190b: 00 00                                           [..]
+  | | | | | ExposureMode = 1
+  | | | | | - Tag 0x0034 (2 bytes, int16u[1]):
+  | | | | |     190e: 00 01                                           [..]
+  | | | | | ColorMode = 0
+  | | | | | - Tag 0x0036 (2 bytes, int16u[1]):
+  | | | | |     1910: 00 00                                           [..]
+  | | | | | AverageLV = 177
+  | | | | | - Tag 0x0038 (2 bytes, int16u[1]):
+  | | | | |     1912: 00 b1                                           [..]
+  | | | | | FrameNumber = 0
+  | | | | | - Tag 0x003c (1 bytes, int8u[1]):
+  | | | | |     1916: 00                                              [.]
+  | | | | | WB_RGBLevels = 473 256 375
+  | | | | | - Tag 0x0096 (6 bytes, int16u[3]):
+  | | | | |     1970: 01 d9 01 00 01 77                               [.....w]
+  | | | | | WB_GBRGLevels = 256 375 473 256
+  | | | | | - Tag 0x00ae (8 bytes, int16u[4]):
+  | | | | |     1988: 01 00 01 77 01 d9 01 00                         [...w....]
+  | | | | | WB_RedLevelsTungsten = 269 276 284 288 298 306 314
+  | | | | | - Tag 0x00c0 (14 bytes, int16u[7]):
+  | | | | |     199a: 01 0d 01 14 01 1c 01 20 01 2a 01 32 01 3a       [....... .*.2.:]
+  | | | | | WB_BlueLevelsTungsten = 1028 986 944 910 870 834 798
+  | | | | | - Tag 0x00ce (14 bytes, int16u[7]):
+  | | | | |     19a8: 04 04 03 da 03 b0 03 8e 03 66 03 42 03 1e       [.........f.B..]
+  | | | | | WB_RedLevelsDaylight = 415 426 438 445 459 472 485
+  | | | | | - Tag 0x00dc (14 bytes, int16u[7]):
+  | | | | |     19b6: 01 9f 01 aa 01 b6 01 bd 01 cb 01 d8 01 e5       [..............]
+  | | | | | WB_BlueLevelsDaylight = 482 462 442 425 408 391 374
+  | | | | | - Tag 0x00ea (14 bytes, int16u[7]):
+  | | | | |     19c4: 01 e2 01 ce 01 ba 01 a9 01 98 01 87 01 76       [.............v]
+  | | | | | WB_RedLevelsCloudy = 438 450 462 473 485 498 512
+  | | | | | - Tag 0x00f8 (14 bytes, int16u[7]):
+  | | | | |     19d2: 01 b6 01 c2 01 ce 01 d9 01 e5 01 f2 02 00       [..............]
+  | | | | | WB_BlueLevelsCloudy = 428 410 393 375 362 347 332
+  | | | | | - Tag 0x0106 (14 bytes, int16u[7]):
+  | | | | |     19e0: 01 ac 01 9a 01 89 01 77 01 6a 01 5b 01 4c       [.......w.j.[.L]
+  | | | | | WB_RedLevelsFlash = 438 450 462 475 485 498 512
+  | | | | | - Tag 0x0114 (14 bytes, int16u[7]):
+  | | | | |     19ee: 01 b6 01 c2 01 ce 01 db 01 e5 01 f2 02 00       [..............]
+  | | | | | WB_BlueLevelsFlash = 457 438 419 402 386 370 354
+  | | | | | - Tag 0x0122 (14 bytes, int16u[7]):
+  | | | | |     19fc: 01 c9 01 b6 01 a3 01 92 01 82 01 72 01 62       [...........r.b]
+  | | | | | WB_RedLevelsFluorescent = 289 309 443 491 456 571 508
+  | | | | | - Tag 0x014c (14 bytes, int16u[7]):
+  | | | | |     1a26: 01 21 01 35 01 bb 01 eb 01 c8 02 3b 01 fc       [.!.5.......;..]
+  | | | | | WB_BlueLevelsFluorescent = 1034 821 710 533 460 449 405
+  | | | | | - Tag 0x015a (14 bytes, int16u[7]):
+  | | | | |     1a34: 04 0a 03 35 02 c6 02 15 01 cc 01 c1 01 95       [...5..........]
+  | | | | | WB_RedLevelsShade = 488 501 514 527 540 556 570
+  | | | | | - Tag 0x0168 (14 bytes, int16u[7]):
+  | | | | |     1a42: 01 e8 01 f5 02 02 02 0f 02 1c 02 2c 02 3a       [...........,.:]
+  | | | | | WB_BlueLevelsShade = 424 406 388 371 358 343 328
+  | | | | | - Tag 0x0176 (14 bytes, int16u[7]):
+  | | | | |     1a50: 01 a8 01 96 01 84 01 73 01 66 01 57 01 48       [.......s.f.W.H]
+  | | | | | WB_RedLevel6500K = 490
+  | | | | | - Tag 0x0188 (2 bytes, int16u[1]):
+  | | | | |     1a62: 01 ea                                           [..]
+  | | | | | WB_BlueLevel6500K = 386
+  | | | | | - Tag 0x018a (2 bytes, int16u[1]):
+  | | | | |     1a64: 01 82                                           [..]
+  | | | | | WB_RedLevelCustom = 445
+  | | | | | - Tag 0x018c (2 bytes, int16u[1]):
+  | | | | |     1a66: 01 bd                                           [..]
+  | | | | | WB_BlueLevelCustom = 425
+  | | | | | - Tag 0x018e (2 bytes, int16u[1]):
+  | | | | |     1a68: 01 a9                                           [..]
+  | | | | | WB_RedLevel3500K = 349
+  | | | | | - Tag 0x0198 (2 bytes, int16u[1]):
+  | | | | |     1a72: 01 5d                                           [.]]
+  | | | | | WB_BlueLevel3500K = 672
+  | | | | | - Tag 0x019a (2 bytes, int16u[1]):
+  | | | | |     1a74: 02 a0                                           [..]
+  | | | | | WB_RedLevelsKelvin = 260 270 281 292 300 309 318 327 334 343 349 356 364 37[snip]
+  | | | | | - Tag 0x01be (150 bytes, int16u[75]):
+  | | | | |     1a98: 01 04 01 0e 01 19 01 24 01 2c 01 35 01 3e 01 47 [.......$.,.5.>.G]
+  | | | | |     1aa8: 01 4e 01 57 01 5d 01 64 01 6c 01 72 01 7a 01 80 [.N.W.].d.l.r.z..]
+  | | | | |     1ab8: 01 84 01 8b 01 91 01 98 01 9c 01 a1 01 a5 01 ac [................]
+  | | | | |     1ac8: 01 af 01 b3 01 b8 01 bd 01 c2 01 c6 01 c9 01 cb [................]
+  | | | | |     1ad8: 01 d0 01 d6 01 d8 01 db 01 e0 01 e2 01 e5 01 e8 [................]
+  | | | | |     [snip 70 bytes]
+  | | | | | WB_BlueLevelsKelvin = 1088 1018 960 908 862 820 786 752 724 698 672 650 628[snip]
+  | | | | | - Tag 0x0254 (150 bytes, int16u[75]):
+  | | | | |     1b2e: 04 40 03 fa 03 c0 03 8c 03 5e 03 34 03 12 02 f0 [.@.......^.4....]
+  | | | | |     1b3e: 02 d4 02 ba 02 a0 02 8a 02 74 02 64 02 50 02 40 [.........t.d.P.@]
+  | | | | |     1b4e: 02 34 02 26 02 1a 02 0e 02 02 01 f8 01 f0 01 e5 [.4.&............]
+  | | | | |     1b5e: 01 dd 01 d6 01 ce 01 c4 01 bf 01 b8 01 b3 01 ac [................]
+  | | | | |     1b6e: 01 a5 01 a1 01 9c 01 98 01 93 01 8d 01 8b 01 87 [................]
+  | | | | |     [snip 70 bytes]
+  | | | | | WB_RBLevelsFlash = 475 402
+  | | | | | - Tag 0x0304 (4 bytes, int16u[2]):
+  | | | | |     1bde: 01 db 01 92                                     [....]
+  | | | | | WB_RBLevelsCoolWhiteF = 443 710
+  | | | | | - Tag 0x0308 (4 bytes, int16u[2]):
+  | | | | |     1be2: 01 bb 02 c6                                     [....]
+  | | | | | WB_RBLevelsTungsten = 288 910
+  | | | | | - Tag 0x03e8 (4 bytes, int16u[2]):
+  | | | | |     1cc2: 01 20 03 8e                                     [. ..]
+  | | | | | WB_RBLevelsDaylight = 445 425
+  | | | | | - Tag 0x03ec (4 bytes, int16u[2]):
+  | | | | |     1cc6: 01 bd 01 a9                                     [....]
+  | | | | | WB_RBLevelsCloudy = 473 375
+  | | | | | - Tag 0x03f0 (4 bytes, int16u[2]):
+  | | | | |     1cca: 01 d9 01 77                                     [...w]
+  | | | | | WB_RBLevelsFlash = 475 402
+  | | | | | - Tag 0x03f4 (4 bytes, int16u[2]):
+  | | | | |     1cce: 01 db 01 92                                     [....]
+  | | | | | WB_RedLevelsFluorescent = 289 309 443 491 456 571 508
+  | | | | | - Tag 0x03fc (14 bytes, int16u[7]):
+  | | | | |     1cd6: 01 21 01 35 01 bb 01 eb 01 c8 02 3b 01 fc       [.!.5.......;..]
+  | | | | | WB_BlueLevelsFluorescent = 1034 821 710 533 460 449 405
+  | | | | | - Tag 0x040a (14 bytes, int16u[7]):
+  | | | | |     1ce4: 04 0a 03 35 02 c6 02 15 01 cc 01 c1 01 95       [...5..........]
+  | | | | | WB_RBLevelsShade = 527 371
+  | | | | | - Tag 0x0418 (4 bytes, int16u[2]):
+  | | | | |     1cf2: 02 0f 01 73                                     [...s]
+  | | | | | WB_RBLevels6500K = 490 386
+  | | | | | - Tag 0x0420 (4 bytes, int16u[2]):
+  | | | | |     1cfa: 01 ea 01 82                                     [....]
+  | | | | | WB_RBLevelsCustom = 445 425
+  | | | | | - Tag 0x0424 (4 bytes, int16u[2]):
+  | | | | |     1cfe: 01 bd 01 a9                                     [....]
+  | | | | | WB_RBLevels3500K = 349 672
+  | | | | | - Tag 0x0430 (4 bytes, int16u[2]):
+  | | | | |     1d0a: 01 5d 02 a0                                     [.]..]
+  | | | | | WB_RBLevelsDaylight = 445 425
+  | | | | | - Tag 0x0528 (4 bytes, int16u[2]):
+  | | | | |     1e02: 01 bd 01 a9                                     [....]
+  | | | | | WB_RGBLevels = 473 256 375
+  | | | | | - Tag 0x0546 (6 bytes, int16u[3]):
+  | | | | |     1e20: 01 d9 01 00 01 77                               [.....w]
+  | | | | | AEMeteringSegments = 180 191 187 173 175 174 176 175 186 189 176 170 170 17[snip]
+  | | | | | - Tag 0x0628 (40 bytes, int8u[40]):
+  | | | | |     1f02: b4 bf bb ad af ae b0 af ba bd b0 aa aa b0 b1 b1 [................]
+  | | | | |     1f12: b8 b3 a8 ac b2 b2 b1 b5 b3 ae b2 ad bc b3 b0 b3 [................]
+  | | | | |     1f22: b0 af b0 ae a5 ae b3 b1                         [........]
+  | | | | | MeasuredLV = 175
+  | | | | | - Tag 0x0690 (1 bytes, int8u[1]):
+  | | | | |     1f6a: af                                              [.]
+  | | | | | BrightnessValue = 175
+  | | | | | - Tag 0x0691 (1 bytes, int8u[1]):
+  | | | | |     1f6b: af                                              [.]
+  | | | | | TiffMeteringImage = ...!...........|.+.X.............<.(._...3./.....[.....[snip]
+  | | | | | - Tag 0x104c (9600 bytes, undef[9600]):
+  | | | | |     2926: 01 de 02 21 02 97 02 e6 02 cc 02 a3 02 1a 01 7c [...!...........|]
+  | | | | |     2936: 01 2b 01 58 01 de 02 b2 02 e4 02 a9 02 91 03 02 [.+.X............]
+  | | | | |     2946: 03 3c 02 28 03 5f 04 8a 03 33 03 2f 02 e6 01 ef [.<.(._...3./....]
+  | | | | |     2956: 01 5b 01 94 01 c7 02 ab 04 49 04 a3 03 95 03 0a [.[.......I......]
+  | | | | |     2966: 03 24 03 1a 03 00 03 46 02 fe 02 e1 03 46 03 63 [.$.....F.....F.c]
+  | | | | |     [snip 9520 bytes]
+  | | | | | ExposureTime = 101
+  | | | | | - Tag 0x49b8 (1 bytes, int8u[1]):
+  | | | | |     6292: 65                                              [e]
+  | | | | | ISO = 48
+  | | | | | - Tag 0x49ba (1 bytes, int8u[1]):
+  | | | | |     6294: 30                                              [0]
+  | | | | | FocusDistance = 112
+  | | | | | - Tag 0x49bb (1 bytes, int8u[1]):
+  | | | | |     6295: 70                                              [p]
+  | | | | | LensType = 40
+  | | | | | - Tag 0x49bd (2 bytes, int16uRev[1]):
+  | | | | |     6297: 28 00                                           [(.]
+  | | | | | ExposureCompensation = 0
+  | | | | | - Tag 0x49c0 (1 bytes, int8s[1]):
+  | | | | |     629a: 00                                              [.]
+  | | | | | FlashExposureComp = 0
+  | | | | | - Tag 0x49c1 (1 bytes, int8s[1]):
+  | | | | |     629b: 00                                              [.]
+  | | | | | ImageStabilization = 1
+  | | | | | - Tag 0x49c2 (1 bytes, int8u[1]):
+  | | | | |     629c: 01                                              [.]
+  | | | | | BrightnessValue = 175
+  | | | | | - Tag 0x49c3 (1 bytes, int8u[1]):
+  | | | | |     629d: af                                              [.]
+  | | | | | MaxAperture = 49
+  | | | | | - Tag 0x49c5 (1 bytes, int8u[1]):
+  | | | | |     629f: 31                                              [1]
+  | | | | | FNumber = 64
+  | | | | | - Tag 0x49c7 (1 bytes, int8u[1]):
+  | | | | |     62a1: 40                                              [@]
+  | | | | | InternalSerialNumber = 601151908401
+  | | | | | - Tag 0x49dc (12 bytes, string[12]):
+  | | | | |     62b6: 36 30 31 31 35 31 39 30 38 34 30 31             [601151908401]
+  | | | | 4)  CompressedImageSize = 9059868
+  | | | |     - Tag 0x0040 (4 bytes, int32u[1]):
+  | | | |         05f6: 1c 3e 8a 00                                     [.>..]
+  | | | | 5)  PreviewImageStart = 25539
+  | | | |     - Tag 0x0088 (4 bytes, int32u[1]):
+  | | | |         0602: c3 63 00 00                                     [.c..]
+  | | | | 6)  PreviewImageLength = 30055
+  | | | |     - Tag 0x0089 (4 bytes, int32u[1]):
+  | | | |         060e: 67 75 00 00                                     [gu..]
+  | | | | 7)  SceneMode = 0
+  | | | |     - Tag 0x0100 (4 bytes, int32u[1]):
+  | | | |         061a: 00 00 00 00                                     [....]
+  | | | | 8)  ColorMode = 0
+  | | | |     - Tag 0x0101 (4 bytes, int32u[1]):
+  | | | |         0626: 00 00 00 00                                     [....]
+  | | | | 9)  MinoltaQuality = 0
+  | | | |     - Tag 0x0102 (4 bytes, int32u[1]):
+  | | | |         0632: 00 00 00 00                                     [....]
+  | | | | 10) FlashExposureComp = 0 (0/10)
+  | | | |     - Tag 0x0104 (8 bytes, rational64s[1]):
+  | | | |         62ca: 00 00 00 00 0a 00 00 00                         [........]
+  | | | | 11) Teleconverter = 0
+  | | | |     - Tag 0x0105 (4 bytes, int32u[1]):
+  | | | |         064a: 00 00 00 00                                     [....]
+  | | | | 12) Minolta_0x0106 = 0
+  | | | |     - Tag 0x0106 (4 bytes, int32u[1]):
+  | | | |         0656: 00 00 00 00                                     [....]
+  | | | | 13) RawAndJpgRecording = 0
+  | | | |     - Tag 0x0109 (4 bytes, int32u[1]):
+  | | | |         0662: 00 00 00 00                                     [....]
+  | | | | 14) ZoneMatching = 0
+  | | | |     - Tag 0x010a (4 bytes, int32u[1]):
+  | | | |         066e: 00 00 00 00                                     [....]
+  | | | | 15) ColorTemperature = 0
+  | | | |     - Tag 0x010b (4 bytes, int32u[1]):
+  | | | |         067a: 00 00 00 00                                     [....]
+  | | | | 16) LensType = 40
+  | | | |     - Tag 0x010c (4 bytes, int32u[1]):
+  | | | |         0686: 28 00 00 00                                     [(...]
+  | | | | 17) Minolta_0x010d = 0
+  | | | |     - Tag 0x010d (4 bytes, int32u[1]):
+  | | | |         0692: 00 00 00 00                                     [....]
+  | | | | 18) ColorCompensationFilter = 0
+  | | | |     - Tag 0x0111 (4 bytes, int32s[1]):
+  | | | |         069e: 00 00 00 00                                     [....]
+  | | | | 19) WhiteBalanceFineTune = 0
+  | | | |     - Tag 0x0112 (4 bytes, int32u[1] read as int32s[1]):
+  | | | |         06aa: 00 00 00 00                                     [....]
+  | | | | 20) ImageStabilization = 1
+  | | | |     - Tag 0x0113 (4 bytes, int32u[1]):
+  | | | |         06b6: 01 00 00 00                                     [....]
+  | | | | 21) CameraSettingsA100 (SubDirectory) -->
+  | | | |     - Tag 0x0114 (260 bytes, undef[260]):
+  | | | |         06d6: 00 01 01 2c 00 21 00 00 00 00 00 00 00 5d 00 40 [...,.!.......].@]
+  | | | |         06e6: 00 65 00 40 00 05 00 02 00 06 00 01 00 01 00 04 [.e.@............]
+  | | | |         06f6: 01 2c 00 21 00 00 00 30 00 00 00 00 00 00 00 00 [.,.!...0........]
+  | | | |         0706: 00 0a 00 0a 00 0a 00 0a 00 00 00 00 00 00 00 04 [................]
+  | | | |         0716: 07 03 07 02 00 08 80 01 00 02 00 00 00 00 00 00 [................]
+  | | | |         [snip 180 bytes]
+  | | | | + [BinaryData directory, 260 bytes]
+  | | | | | ExposureMode = 1
+  | | | | | - Tag 0x0000 (2 bytes, int16u[1]):
+  | | | | |     06d6: 00 01                                           [..]
+  | | | | | ExposureCompensationSetting = 300
+  | | | | | - Tag 0x0001 (2 bytes, int16u[1]):
+  | | | | |     06d8: 01 2c                                           [.,]
+  | | | | | HighSpeedSync = 0
+  | | | | | - Tag 0x0005 (2 bytes, int16u[1]):
+  | | | | |     06e0: 00 00                                           [..]
+  | | | | | ShutterSpeedSetting = 93
+  | | | | | - Tag 0x0006 (2 bytes, int16u[1]):
+  | | | | |     06e2: 00 5d                                           [.]]
+  | | | | | ApertureSetting = 64
+  | | | | | - Tag 0x0007 (2 bytes, int16u[1]):
+  | | | | |     06e4: 00 40                                           [.@]
+  | | | | | ExposureTime = 101
+  | | | | | - Tag 0x0008 (2 bytes, int16u[1]):
+  | | | | |     06e6: 00 65                                           [.e]
+  | | | | | FNumber = 64
+  | | | | | - Tag 0x0009 (2 bytes, int16u[1]):
+  | | | | |     06e8: 00 40                                           [.@]
+  | | | | | DriveMode2 = 5
+  | | | | | - Tag 0x000a (2 bytes, int16u[1]):
+  | | | | |     06ea: 00 05                                           [..]
+  | | | | | WhiteBalance = 2
+  | | | | | - Tag 0x000b (2 bytes, int16u[1]):
+  | | | | |     06ec: 00 02                                           [..]
+  | | | | | FocusMode = 6
+  | | | | | - Tag 0x000c (2 bytes, int16u[1]):
+  | | | | |     06ee: 00 06                                           [..]
+  | | | | | AFPointSelected = 1
+  | | | | | - Tag 0x000d (2 bytes, int16u[1]):
+  | | | | |     06f0: 00 01                                           [..]
+  | | | | | AFAreaMode = 1
+  | | | | | - Tag 0x000e (2 bytes, int16u[1]):
+  | | | | |     06f2: 00 01                                           [..]
+  | | | | | FlashMode = 4
+  | | | | | - Tag 0x000f (2 bytes, int16u[1]):
+  | | | | |     06f4: 00 04                                           [..]
+  | | | | | FlashExposureCompSet = 300
+  | | | | | - Tag 0x0010 (2 bytes, int16u[1]):
+  | | | | |     06f6: 01 2c                                           [.,]
+  | | | | | MeteringMode = 0
+  | | | | | - Tag 0x0012 (2 bytes, int16u[1]):
+  | | | | |     06fa: 00 00                                           [..]
+  | | | | | ISOSetting = 48
+  | | | | | - Tag 0x0013 (2 bytes, int16u[1]):
+  | | | | |     06fc: 00 30                                           [.0]
+  | | | | | ZoneMatchingMode = 0
+  | | | | | - Tag 0x0014 (2 bytes, int16u[1]):
+  | | | | |     06fe: 00 00                                           [..]
+  | | | | | DynamicRangeOptimizer = 0
+  | | | | | - Tag 0x0015 (2 bytes, int16u[1]):
+  | | | | |     0700: 00 00                                           [..]
+  | | | | | ColorMode = 0
+  | | | | | - Tag 0x0016 (2 bytes, int16u[1]):
+  | | | | |     0702: 00 00                                           [..]
+  | | | | | ColorSpace = 0
+  | | | | | - Tag 0x0017 (2 bytes, int16u[1]):
+  | | | | |     0704: 00 00                                           [..]
+  | | | | | Sharpness = 10
+  | | | | | - Tag 0x0018 (2 bytes, int16u[1]):
+  | | | | |     0706: 00 0a                                           [..]
+  | | | | | Contrast = 10
+  | | | | | - Tag 0x0019 (2 bytes, int16u[1]):
+  | | | | |     0708: 00 0a                                           [..]
+  | | | | | Saturation = 10
+  | | | | | - Tag 0x001a (2 bytes, int16u[1]):
+  | | | | |     070a: 00 0a                                           [..]
+  | | | | | FlashMetering = 0
+  | | | | | - Tag 0x001c (2 bytes, int16u[1]):
+  | | | | |     070e: 00 00                                           [..]
+  | | | | | PrioritySetupShutterRelease = 0
+  | | | | | - Tag 0x001d (2 bytes, int16u[1]):
+  | | | | |     0710: 00 00                                           [..]
+  | | | | | DriveMode = 0
+  | | | | | - Tag 0x001e (2 bytes, int16u[1]):
+  | | | | |     0712: 00 00                                           [..]
+  | | | | | SelfTimerTime = 4
+  | | | | | - Tag 0x001f (2 bytes, int16u[1]):
+  | | | | |     0714: 00 04                                           [..]
+  | | | | | ContinuousBracketing = 1795
+  | | | | | - Tag 0x0020 (2 bytes, int16u[1]):
+  | | | | |     0716: 07 03                                           [..]
+  | | | | | SingleFrameBracketing = 1794
+  | | | | | - Tag 0x0021 (2 bytes, int16u[1]):
+  | | | | |     0718: 07 02                                           [..]
+  | | | | | WhiteBalanceBracketing = 8
+  | | | | | - Tag 0x0022 (2 bytes, int16u[1]):
+  | | | | |     071a: 00 08                                           [..]
+  | | | | | WhiteBalanceSetting = 32769
+  | | | | | - Tag 0x0023 (2 bytes, int16u[1]):
+  | | | | |     071c: 80 01                                           [..]
+  | | | | | PresetWhiteBalance = 2
+  | | | | | - Tag 0x0024 (2 bytes, int16u[1]):
+  | | | | |     071e: 00 02                                           [..]
+  | | | | | ColorTemperatureSetting = 0
+  | | | | | - Tag 0x0025 (2 bytes, int16u[1]):
+  | | | | |     0720: 00 00                                           [..]
+  | | | | | CustomWBSetting = 0
+  | | | | | - Tag 0x0026 (2 bytes, int16u[1]):
+  | | | | |     0722: 00 00                                           [..]
+  | | | | | DynamicRangeOptimizerSetting = 0
+  | | | | | - Tag 0x0027 (2 bytes, int16u[1]):
+  | | | | |     0724: 00 00                                           [..]
+  | | | | | FreeMemoryCardImages = 64
+  | | | | | - Tag 0x0032 (2 bytes, int16u[1]):
+  | | | | |     073a: 00 40                                           [.@]
+  | | | | | CustomWBRedLevel = 0
+  | | | | | - Tag 0x0034 (2 bytes, int16u[1]):
+  | | | | |     073e: 00 00                                           [..]
+  | | | | | CustomWBGreenLevel = 0
+  | | | | | - Tag 0x0035 (2 bytes, int16u[1]):
+  | | | | |     0740: 00 00                                           [..]
+  | | | | | CustomWBBlueLevel = 0
+  | | | | | - Tag 0x0036 (2 bytes, int16u[1]):
+  | | | | |     0742: 00 00                                           [..]
+  | | | | | CustomWBError = 0
+  | | | | | - Tag 0x0037 (2 bytes, int16u[1]):
+  | | | | |     0744: 00 00                                           [..]
+  | | | | | WhiteBalanceFineTune = 0
+  | | | | | - Tag 0x0038 (2 bytes, int16s[1]):
+  | | | | |     0746: 00 00                                           [..]
+  | | | | | ColorTemperature = 65
+  | | | | | - Tag 0x0039 (2 bytes, int16u[1]):
+  | | | | |     0748: 00 41                                           [.A]
+  | | | | | ColorCompensationFilter = 0
+  | | | | | - Tag 0x003a (2 bytes, int16s[1]):
+  | | | | |     074a: 00 00                                           [..]
+  | | | | | SonyImageSize = 0
+  | | | | | - Tag 0x003b (2 bytes, int16u[1]):
+  | | | | |     074c: 00 00                                           [..]
+  | | | | | SonyQuality = 0
+  | | | | | - Tag 0x003c (2 bytes, int16u[1]):
+  | | | | |     074e: 00 00                                           [..]
+  | | | | | InstantPlaybackTime = 0
+  | | | | | - Tag 0x003d (2 bytes, int16u[1]):
+  | | | | |     0750: 00 00                                           [..]
+  | | | | | InstantPlaybackSetup = 0
+  | | | | | - Tag 0x003e (2 bytes, int16u[1]):
+  | | | | |     0752: 00 00                                           [..]
+  | | | | | NoiseReduction = 0
+  | | | | | - Tag 0x003f (2 bytes, int16u[1]):
+  | | | | |     0754: 00 00                                           [..]
+  | | | | | EyeStartAF = 1
+  | | | | | - Tag 0x0040 (2 bytes, int16u[1]):
+  | | | | |     0756: 00 01                                           [..]
+  | | | | | RedEyeReduction = 0
+  | | | | | - Tag 0x0041 (2 bytes, int16u[1]):
+  | | | | |     0758: 00 00                                           [..]
+  | | | | | FlashDefault = 1
+  | | | | | - Tag 0x0042 (2 bytes, int16u[1]):
+  | | | | |     075a: 00 01                                           [..]
+  | | | | | AutoBracketOrder = 0
+  | | | | | - Tag 0x0043 (2 bytes, int16u[1]):
+  | | | | |     075c: 00 00                                           [..]
+  | | | | | FocusHoldButton = 0
+  | | | | | - Tag 0x0044 (2 bytes, int16u[1]):
+  | | | | |     075e: 00 00                                           [..]
+  | | | | | AELButton = 0
+  | | | | | - Tag 0x0045 (2 bytes, int16u[1]):
+  | | | | |     0760: 00 00                                           [..]
+  | | | | | ControlDialSet = 0
+  | | | | | - Tag 0x0046 (2 bytes, int16u[1]):
+  | | | | |     0762: 00 00                                           [..]
+  | | | | | ExposureCompensationMode = 0
+  | | | | | - Tag 0x0047 (2 bytes, int16u[1]):
+  | | | | |     0764: 00 00                                           [..]
+  | | | | | AFAssist = 0
+  | | | | | - Tag 0x0048 (2 bytes, int16u[1]):
+  | | | | |     0766: 00 00                                           [..]
+  | | | | | CardShutterLock = 1
+  | | | | | - Tag 0x0049 (2 bytes, int16u[1]):
+  | | | | |     0768: 00 01                                           [..]
+  | | | | | LensShutterLock = 0
+  | | | | | - Tag 0x004a (2 bytes, int16u[1]):
+  | | | | |     076a: 00 00                                           [..]
+  | | | | | AFAreaIllumination = 0
+  | | | | | - Tag 0x004b (2 bytes, int16u[1]):
+  | | | | |     076c: 00 00                                           [..]
+  | | | | | MonitorDisplayOff = 0
+  | | | | | - Tag 0x004c (2 bytes, int16u[1]):
+  | | | | |     076e: 00 00                                           [..]
+  | | | | | RecordDisplay = 0
+  | | | | | - Tag 0x004d (2 bytes, int16u[1]):
+  | | | | |     0770: 00 00                                           [..]
+  | | | | | PlayDisplay = 0
+  | | | | | - Tag 0x004e (2 bytes, int16u[1]):
+  | | | | |     0772: 00 00                                           [..]
+  | | | | | ExposureIndicator = 128
+  | | | | | - Tag 0x0050 (2 bytes, int16u[1]):
+  | | | | |     0776: 00 80                                           [..]
+  | | | | | AELExposureIndicator = 0
+  | | | | | - Tag 0x0051 (2 bytes, int16u[1]):
+  | | | | |     0778: 00 00                                           [..]
+  | | | | | ExposureBracketingIndicatorLast = 0
+  | | | | | - Tag 0x0052 (2 bytes, int16u[1]):
+  | | | | |     077a: 00 00                                           [..]
+  | | | | | MeteringOffScaleIndicator = 0
+  | | | | | - Tag 0x0053 (2 bytes, int16u[1]):
+  | | | | |     077c: 00 00                                           [..]
+  | | | | | FlashExposureIndicator = 0
+  | | | | | - Tag 0x0054 (2 bytes, int16u[1]):
+  | | | | |     077e: 00 00                                           [..]
+  | | | | | FlashExposureIndicatorNext = 0
+  | | | | | - Tag 0x0055 (2 bytes, int16u[1]):
+  | | | | |     0780: 00 00                                           [..]
+  | | | | | FlashExposureIndicatorLast = 0
+  | | | | | - Tag 0x0056 (2 bytes, int16u[1]):
+  | | | | |     0782: 00 00                                           [..]
+  | | | | | ImageStabilization = 1
+  | | | | | - Tag 0x0057 (2 bytes, int16u[1]):
+  | | | | |     0784: 00 01                                           [..]
+  | | | | | FocusModeSwitch = 0
+  | | | | | - Tag 0x0058 (2 bytes, int16u[1]):
+  | | | | |     0786: 00 00                                           [..]
+  | | | | | FlashType = 0
+  | | | | | - Tag 0x0059 (2 bytes, int16u[1]):
+  | | | | |     0788: 00 00                                           [..]
+  | | | | | Rotation = 0
+  | | | | | - Tag 0x005a (2 bytes, int16u[1]):
+  | | | | |     078a: 00 00                                           [..]
+  | | | | | AELock = 0
+  | | | | | - Tag 0x005b (2 bytes, int16u[1]):
+  | | | | |     078c: 00 00                                           [..]
+  | | | | | ColorTemperature = 65
+  | | | | | - Tag 0x005e (2 bytes, int16u[1]):
+  | | | | |     0792: 00 41                                           [.A]
+  | | | | | ColorCompensationFilter = 0
+  | | | | | - Tag 0x005f (2 bytes, int16s[1]):
+  | | | | |     0794: 00 00                                           [..]
+  | | | | | BatteryState = 5
+  | | | | | - Tag 0x0060 (2 bytes, int16u[1]):
+  | | | | |     0796: 00 05                                           [..]
+  | | | | 22) WhiteBalance = 32
+  | | | |     - Tag 0x0115 (4 bytes, int32u[1]):
+  | | | |         06ce: 20 00 00 00                                     [ ...]
+  | | | 27) ColorMode = 0
+  | | |     - Tag 0xb029 (4 bytes, int32u[1]):
+  | | |         059c: 00 00 00 00                                     [....]
+  | | 18) UserComment = 
+  | |     - Tag 0x9286 (64 bytes, undef[64]):
+  | |         0402: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | |         0412: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | |         0422: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | |         0432: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | | 19) FlashpixVersion = 0100
+  | |     - Tag 0xa000 (4 bytes, undef[4]):
+  | |         02ca: 30 31 30 30                                     [0100]
+  | | 20) ColorSpace = 1
+  | |     - Tag 0xa001 (2 bytes, int16u[1]):
+  | |         02d6: 01 00                                           [..]
+  | | 21) ExifImageWidth = 3872
+  | |     - Tag 0xa002 (4 bytes, int32u[1]):
+  | |         02e2: 20 0f 00 00                                     [ ...]
+  | | 22) ExifImageHeight = 2592
+  | |     - Tag 0xa003 (4 bytes, int32u[1]):
+  | |         02ee: 20 0a 00 00                                     [ ...]
+  | | 23) InteropOffset (SubDirectory) -->
+  | |     - Tag 0xa005 (4 bytes, int32u[1]):
+  | |         02fa: d2 62 00 00                                     [.b..]
+  | | + [InteropIFD directory with 2 entries]
+  | | | 0)  InteropIndex = R98
+  | | |     - Tag 0x0001 (4 bytes, string[4]):
+  | | |         62dc: 52 39 38 00                                     [R98.]
+  | | | 1)  InteropVersion = 0100
+  | | |     - Tag 0x0002 (4 bytes, undef[4]):
+  | | |         62e8: 30 31 30 30                                     [0100]
+  | | 24) FileSource = 3
+  | |     - Tag 0xa300 (1 bytes, undef[1]):
+  | |         0306: 03                                              [.]
+  | | 25) SceneType = 1
+  | |     - Tag 0xa301 (1 bytes, undef[1]):
+  | |         0312: 01                                              [.]
+  | | 26) CustomRendered = 0
+  | |     - Tag 0xa401 (2 bytes, int16u[1]):
+  | |         031e: 00 00                                           [..]
+  | | 27) ExposureMode = 0
+  | |     - Tag 0xa402 (2 bytes, int16u[1]):
+  | |         032a: 00 00                                           [..]
+  | | 28) WhiteBalance = 1
+  | |     - Tag 0xa403 (2 bytes, int16u[1]):
+  | |         0336: 01 00                                           [..]
+  | | 29) DigitalZoomRatio = 0 (0/1)
+  | |     - Tag 0xa404 (8 bytes, rational64u[1]):
+  | |         03ea: 00 00 00 00 01 00 00 00                         [........]
+  | | 30) FocalLengthIn35mmFormat = 90
+  | |     - Tag 0xa405 (2 bytes, int16u[1]):
+  | |         034e: 5a 00                                           [Z.]
+  | | 31) SceneCaptureType = 0
+  | |     - Tag 0xa406 (2 bytes, int16u[1]):
+  | |         035a: 00 00                                           [..]
+  | | 32) GainControl = 0
+  | |     - Tag 0xa407 (2 bytes, int16u[1]):
+  | |         0366: 00 00                                           [..]
+  | | 33) Contrast = 0
+  | |     - Tag 0xa408 (2 bytes, int16u[1]):
+  | |         0372: 00 00                                           [..]
+  | | 34) Saturation = 0
+  | |     - Tag 0xa409 (2 bytes, int16u[1]):
+  | |         037e: 00 00                                           [..]
+  | | 35) Sharpness = 0
+  | |     - Tag 0xa40a (2 bytes, int16u[1]):
+  | |         038a: 00 00                                           [..]
+  | 17) PrintIM (SubDirectory) -->
+  |     - Tag 0xc4a5 (124 bytes, undef[124]):
+  |         0160: 50 72 69 6e 74 49 4d 00 30 33 30 30 00 00 06 00 [PrintIM.0300....]
+  |         0170: 01 00 16 00 16 00 02 00 00 00 00 01 03 00 34 00 [..............4.]
+  |         0180: 00 00 00 01 00 00 00 05 01 01 00 00 00 00 10 01 [................]
+  |         0190: 00 00 00 80 09 11 00 00 10 27 00 00 0b 0f 00 00 [.........'......]
+  |         01a0: 10 27 00 00 97 05 00 00 10 27 00 00 b0 08 00 00 [.'.......'......]
+  |         [snip 44 bytes]
+  | + [PrintIM directory with 6 entries]
+  | | PrintIMVersion = 0300
+  | | - Tag 'PrintIMVersion' (4 bytes):
+  | |     0008: 30 33 30 30                                     [0300]
+  | | 0)  PrintIM_0x0001 = 1441814
+  | |     - Tag 0x0001 (4 bytes):
+  | |         0012: 16 00 16 00                                     [....]
+  | | 1)  PrintIM_0x0002 = 16777216
+  | |     - Tag 0x0002 (4 bytes):
+  | |         0018: 00 00 00 01                                     [....]
+  | | 2)  PrintIM_0x0003 = 52
+  | |     - Tag 0x0003 (4 bytes):
+  | |         001e: 34 00 00 00                                     [4...]
+  | | 3)  PrintIM_0x0100 = 83886080
+  | |     - Tag 0x0100 (4 bytes):
+  | |         0024: 00 00 00 05                                     [....]
+  | | 4)  PrintIM_0x0101 = 0
+  | |     - Tag 0x0101 (4 bytes):
+  | |         002a: 00 00 00 00                                     [....]
+  | | 5)  PrintIM_0x0110 = 2147483648
+  | |     - Tag 0x0110 (4 bytes):
+  | |         0030: 00 00 00 80                                     [....]
+  | 18) SR2Private (SubDirectory) -->
+  |     - Tag 0xc634 (4 bytes, int8u[4] read as int32u[1]):
+  |         00ea: 02 e4 00 00                                     [....]
+  [MRW Data Offset: 0x98]
+MRW PRD segment (24 bytes):
+  | |     0000: 32 31 38 37 30 30 30 32 30 0a 28 0f 20 0a 20 0f [218700020.(. . .]
+  | |     0010: 10 0c 52 01 01 00 00 00                         [..R.....]
+  | | + [BinaryData directory, 24 bytes]
+  | | | FirmwareID = 21870002
+  | | | - Tag 0x0000 (8 bytes, string[8]):
+  | | |     0010: 32 31 38 37 30 30 30 32                         [21870002]
+  | | | SensorHeight = 2608
+  | | | - Tag 0x0008 (2 bytes, int16u[1]):
+  | | |     0018: 30 0a                                           [0.]
+  | | | SensorWidth = 3880
+  | | | - Tag 0x000a (2 bytes, int16u[1]):
+  | | |     001a: 28 0f                                           [(.]
+  | | | ImageHeight = 2592
+  | | | - Tag 0x000c (2 bytes, int16u[1]):
+  | | |     001c: 20 0a                                           [ .]
+  | | | ImageWidth = 3872
+  | | | - Tag 0x000e (2 bytes, int16u[1]):
+  | | |     001e: 20 0f                                           [ .]
+  | | | RawDepth = 16
+  | | | - Tag 0x0010 (1 bytes, int8u[1]):
+  | | |     0020: 10                                              [.]
+  | | | BitDepth = 12
+  | | | - Tag 0x0011 (1 bytes, int8u[1]):
+  | | |     0021: 0c                                              [.]
+  | | | StorageMethod = 82
+  | | | - Tag 0x0012 (1 bytes, int8u[1]):
+  | | |     0022: 52                                              [R]
+  | | | BayerPattern = 0
+  | | | - Tag 0x0017 (1 bytes, int8u[1]):
+  | | |     0027: 00                                              [.]
+MRW WBG segment (12 bytes):
+  | |     0000: 02 02 02 02 d9 01 00 01 00 01 77 01             [..........w.]
+  | | + [BinaryData directory, 12 bytes]
+  | | | WBScale = 2 2 2 2
+  | | | - Tag 0x0000 (4 bytes, int8u[4]):
+  | | |     0030: 02 02 02 02                                     [....]
+  | | | WB_RGGBLevels = 473 256 256 375
+  | | | - Tag 0x0004 (8 bytes, int16u[4]):
+  | | |     0034: d9 01 00 01 00 01 77 01                         [......w.]
+MRW RIF segment (84 bytes):
+  | |     0000: 01 00 00 00 82 00 30 00 20 01 8e 03 bd 01 a9 01 [......0. .......]
+  | |     0010: d9 01 77 01 bb 01 c6 02 db 01 92 01 f6 01 6c 01 [..w...........l.]
+  | |     0020: 0f 02 73 01 3b 02 c1 01 eb 01 15 02 35 01 35 03 [..s.;.......5.5.]
+  | |     0030: 4c 00 4b 00 1e 00 4b 00 d4 ff d6 ff 80 00 d6 ff [L.K...K.........]
+  | |     0040: 80 00 ca ff ec ff ca ff 00 00 00 00 00 00 00 00 [................]
+  | |     0050: 1c 3e 8a 00                                     [.>..]
+  | | + [BinaryData directory, 84 bytes]
+  | | | Saturation = 0
+  | | | - Tag 0x0001 (1 bytes, int8s[1]):
+  | | |     0045: 00                                              [.]
+  | | | Contrast = 0
+  | | | - Tag 0x0002 (1 bytes, int8s[1]):
+  | | |     0046: 00                                              [.]
+  | | | Sharpness = 0
+  | | | - Tag 0x0003 (1 bytes, int8s[1]):
+  | | |     0047: 00                                              [.]
+  | | | WBMode = 130
+  | | | - Tag 0x0004 (1 bytes, int8u[1]):
+  | | |     0048: 82                                              [.]
+  | | | ProgramMode = 0
+  | | | - Tag 0x0005 (1 bytes, int8u[1]):
+  | | |     0049: 00                                              [.]
+  | | | ISOSetting = 48
+  | | | - Tag 0x0006 (1 bytes, int8u[1]):
+  | | |     004a: 30                                              [0]
+  | | | ColorMode = 0
+  | | | - Tag 0x0007 (1 bytes, int8u[1]):
+  | | |     004b: 00                                              [.]
+  | | | WB_RBLevelsTungsten = 288 910
+  | | | - Tag 0x0008 (4 bytes, int16u[2]):
+  | | |     004c: 20 01 8e 03                                     [ ...]
+  | | | WB_RBLevelsDaylight = 445 425
+  | | | - Tag 0x000c (4 bytes, int16u[2]):
+  | | |     0050: bd 01 a9 01                                     [....]
+  | | | WB_RBLevelsCloudy = 473 375
+  | | | - Tag 0x0010 (4 bytes, int16u[2]):
+  | | |     0054: d9 01 77 01                                     [..w.]
+  | | | WB_RBLevelsCoolWhiteF = 443 710
+  | | | - Tag 0x0014 (4 bytes, int16u[2]):
+  | | |     0058: bb 01 c6 02                                     [....]
+  | | | WB_RBLevelsFlash = 475 402
+  | | | - Tag 0x0018 (4 bytes, int16u[2]):
+  | | |     005c: db 01 92 01                                     [....]
+  | | | WB_RBLevelsUnknown = 502 364
+  | | | - Tag 0x001c (4 bytes, int16u[2]):
+  | | |     0060: f6 01 6c 01                                     [..l.]
+  | | | WB_RBLevelsShade = 527 371
+  | | | - Tag 0x0020 (4 bytes, int16u[2]):
+  | | |     0064: 0f 02 73 01                                     [..s.]
+  | | | WB_RBLevelsDaylightF = 571 449
+  | | | - Tag 0x0024 (4 bytes, int16u[2]):
+  | | |     0068: 3b 02 c1 01                                     [;...]
+  | | | WB_RBLevelsDayWhiteF = 491 533
+  | | | - Tag 0x0028 (4 bytes, int16u[2]):
+  | | |     006c: eb 01 15 02                                     [....]
+  | | | WB_RBLevelsWhiteF = 309 821
+  | | | - Tag 0x002c (4 bytes, int16u[2]):
+  | | |     0070: 35 01 35 03                                     [5.5.]
+  | | | BWFilter = 255
+  | | | - Tag 0x0039 (1 bytes, int8u[1]):
+  | | |     007d: ff                                              [.]
+  | | | Hue = -1
+  | | | - Tag 0x003b (1 bytes, int8s[1]):
+  | | |     007f: ff                                              [.]
+  | | | ZoneMatching = 0
+  | | | - Tag 0x004a (1 bytes, int8u[1]):
+  | | |     008e: 00                                              [.]
+  | | | ColorTemperature = 0
+  | | | - Tag 0x004c (1 bytes, int8u[1]):
+  | | |     0090: 00                                              [.]
+  | | | ColorFilter = 0
+  | | | - Tag 0x004d (1 bytes, int8u[1]):
+  | | |     0091: 00                                              [.]
+  | | | RawDataLength = 9059868
+  | | | - Tag 0x0050 (4 bytes, int32u[1]):
+  | | |     0094: 1c 3e 8a 00                                     [.>..]
+  + [IFD1 directory with 11 entries]
+  | 0)  SubfileType = 1
+  |     - Tag 0x00fe (4 bytes, int32u[1]):
+  |         62fa: 01 00 00 00                                     [....]
+  | 1)  Compression = 6
+  |     - Tag 0x0103 (2 bytes, int16u[1]):
+  |         6306: 06 00                                           [..]
+  | 2)  Make = SONY           
+  |     - Tag 0x010f (16 bytes, string[16]):
+  |         637a: 53 4f 4e 59 20 20 20 20 20 20 20 20 20 20 20 00 [SONY           .]
+  | 3)  Model = DSLR-A100
+  |     - Tag 0x0110 (10 bytes, string[10]):
+  |         638a: 44 53 4c 52 2d 41 31 30 30 00                   [DSLR-A100.]
+  | 4)  Orientation = 1
+  |     - Tag 0x0112 (2 bytes, int16u[1]):
+  |         632a: 01 00                                           [..]
+  | 5)  XResolution = 72 (72/1)
+  |     - Tag 0x011a (8 bytes, rational64u[1]):
+  |         6394: 48 00 00 00 01 00 00 00                         [H.......]
+  | 6)  YResolution = 72 (72/1)
+  |     - Tag 0x011b (8 bytes, rational64u[1]):
+  |         639c: 48 00 00 00 01 00 00 00                         [H.......]
+  | 7)  ResolutionUnit = 2
+  |     - Tag 0x0128 (2 bytes, int16u[1]):
+  |         634e: 02 00                                           [..]
+  | 8)  ModifyDate = 2007:04:08 17:41:18
+  |     - Tag 0x0132 (20 bytes, string[20]):
+  |         63a4: 32 30 30 37 3a 30 34 3a 30 38 20 31 37 3a 34 31 [2007:04:08 17:41]
+  |         63b4: 3a 31 38 00                                     [:18.]
+  | 9)  ThumbnailOffset = 55596
+  |     - Tag 0x0201 (4 bytes, int32u[1]):
+  |         6366: 2c d9 00 00                                     [,...]
+  | 10) ThumbnailLength = 2774
+  |     - Tag 0x0202 (4 bytes, int32u[1]):
+  |         6372: d6 0a 00 00                                     [....]
