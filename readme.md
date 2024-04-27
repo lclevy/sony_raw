@@ -24,7 +24,7 @@ RAW versions and formats had additional features over time:
 
 - ARW 2.3 : 14 bits.  (2012)
 
-- ARW 4.0 : **lossless** compression (2021)
+- ARW 4.0 : **lossless** compression (2021). A1 also introduces YUV420 burst format, which is **lossy**.
 
 
 
@@ -52,7 +52,7 @@ Here is a more detailed view of evolution, and links to implementations:
 | A7R III     | nov2017      | ARW 2.3.3<br/>can create **ARQ**               | [sony_arq_load_raw](https://github.com/LibRaw/LibRaw/blob/2a9a4de21ea7f5d15314da8ee5f27feebf239655/src/decoders/decoders_libraw.cpp#L17)                                                                                                                          |
 | A7 III      | fev2018      | ARW 2.3.3                                      |                                                                                                                                                                                                                                                                   |
 | A9 II       | aug2020      | ARW 2.3.5                                      |                                                                                                                                                                                                                                                                   |
-| A1          | apr2021      | ARW 4.0. <br>First ILC with Lossless RAW       |                                                                                                                                                                                                                                                                   |
+| A1          | apr2021      | ARW 4.0. <br>First ILC with Lossless RAW<br>       | 30fps RAW seems YUV420 : https://github.com/dnglab/dnglab/pull/269/commits (jan2023)                                                                                                                                                                                                                                                                 |
 | A7 IV       | fev2022      | ARW 4.0                                        |                                                                                                                                                                                                                                                                   |
 
 You can extract format information with Exiftool with **-FileFormat** :
