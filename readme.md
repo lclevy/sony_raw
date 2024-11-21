@@ -1,6 +1,6 @@
 # Description of Sony RAW file formats (SRF, SR2, ARW and ARQ)
 
-Version 0.52 (30may2022)
+Version 0.53 (21nov2024)
 
 (this is work in progress)
 
@@ -44,16 +44,21 @@ Here is a more detailed view of evolution, and links to implementations:
 | RX100       | jun2012      | ARW 2.3, 12 bits                               | [1.451, 9.16, 5jul2012](https://github.com/ncruces/dcraw/commit/a3f1bdd18523ee19bff610d21de968cb1051a791)                                                                                                                                                         |
 | SLT-A99     | dec2012      | ARW 2.3, 14 bits<br/>**first 14bits sensor**   | [1.453, 9.17, 23dec2012](https://github.com/ncruces/dcraw/commit/65e6c8605de44cdb271ed0e196181f0c4eb34229)                                                                                                                                                        |
 | RX1         | feb2013      | ARW 2.3, 14 bits                               | [1.453, 9.17, 23dec2012](https://github.com/ncruces/dcraw/commit/65e6c8605de44cdb271ed0e196181f0c4eb34229)                                                                                                                                                        |
-| A7          | jan2014      | ARW 2.3, 12 bits only?                         |                                                                                                                                                                                                                                                                   |
-| A7R         | fev2014      | ARW 2.3.1                                      |                                                                                                                                                                                                                                                                   |
-| A7R II      | jun2015      | ARW 2.3.1, 14 bits<br/>**uncompressed 14bits** | uncompressed: [unpacked_load_raw()](https://github.com/LibRaw/LibRaw/blob/1dbed6b7e65ef2ebd0c3f82722a0b7f3990845f7/src/decoders/generic.cpp#L21)                                                                                                                  |
+| a7          | jan2014      | ARW 2.3, 12 bits only?                         |                                                                                                                                                                                                                                                                   |
+| a7R         | fev2014      | ARW 2.3.1                                      |                                                                                                                                                                                                                                                                   |
+| a7R II      | jun2015      | ARW 2.3.1, 14 bits<br/>**uncompressed 14bits** | uncompressed: [unpacked_load_raw()](https://github.com/LibRaw/LibRaw/blob/1dbed6b7e65ef2ebd0c3f82722a0b7f3990845f7/src/decoders/generic.cpp#L21)                                                                                                                  |
 | RX10 III    | jul2016      | ARW 2.3.2                                      |                                                                                                                                                                                                                                                                   |
-| A9          | apr2017      | ARW 2.3.3                                      |                                                                                                                                                                                                                                                                   |
-| A7R III     | nov2017      | ARW 2.3.3<br/>can create **ARQ**               | [sony_arq_load_raw](https://github.com/LibRaw/LibRaw/blob/2a9a4de21ea7f5d15314da8ee5f27feebf239655/src/decoders/decoders_libraw.cpp#L17)                                                                                                                          |
-| A7 III      | fev2018      | ARW 2.3.3                                      |                                                                                                                                                                                                                                                                   |
-| A9 II       | aug2020      | ARW 2.3.5                                      |                                                                                                                                                                                                                                                                   |
-| A1          | apr2021      | ARW 4.0. <br>First ILC with Lossless RAW<br>       | 30fps RAW seems YUV420 : https://github.com/dnglab/dnglab/pull/269/commits (jan2023)                                                                                                                                                                                                                                                                 |
-| A7 IV       | fev2022      | ARW 4.0                                        |                                                                                                                                                                                                                                                                   |
+| a9          | apr2017      | ARW 2.3.3                                      |                                                                                                                                                                                                                                                                   |
+| a7R III     | nov2017      | ARW 2.3.3<br/>can create **ARQ**               | [sony_arq_load_raw](https://github.com/LibRaw/LibRaw/blob/2a9a4de21ea7f5d15314da8ee5f27feebf239655/src/decoders/decoders_libraw.cpp#L17)                                                                                                                          |
+| a7 III      | fev2018      | ARW 2.3.3                                      |                                                                                                                                                                                                                                                                   |
+| a9 II       | aug2020      | ARW 2.3.5                                      |                                                                                                                                                                                                                                                                   |
+| a1          | apr2021      | ARW 4.0. <br>First ILC with Lossless RAW<br>       | 30fps RAW seems YUV420 : https://github.com/dnglab/dnglab/pull/269/commits (jan2023)                                                                                                                                                                                                                                                                 |
+| a7 IV       | fev2022      | ARW 4.0                                        |         
+| a7R V       | jan2023      | ARW 4.0                                        |  
+| a6700      | jul2023      | ARW 4.0.1                                        |
+| a9 III      | nov2023      | ARW 5.0                                        | 
+| a1 II       | nov2024      | ARW 5.0.1                                        | exiftool RAW File Type is Lossless Compressed RAW
+
 
 You can extract format information with Exiftool with **-FileFormat** :
 
@@ -66,6 +71,11 @@ Sony Model ID : DSLR-A100
 File Format : ARW 4.0
 Sony Model ID : ILCE-1
 RAW File Type : Uncompressed RAW
+
+> exiftool -FileFormat -SonyModelID -RAWFileType DSC00987_a1_ii.ARW
+File Format                     : ARW 5.0.1
+Sony Model ID                   : Unknown (400)
+RAW File Type                   : Lossless Compressed RAW
 ```
 
 ## Compression
@@ -73,17 +83,11 @@ RAW File Type : Uncompressed RAW
 Based on dcraw and dnglab code source, there are 4 different kind of compression:
 
 - SRF : 16bits aligned, 12 bits data, big endian. Some data must be decrypted first. See *sony_load_raw()* in libraw
-
 - ARW1 : 12 bits (starting with A100). See *sony_arw_load_raw()*
-
 - ARW2 (first with A700, A850 and A900)
-  
-  - either uncompressed 12bits. Uncompressed 14 bits since A7R II
-  
+  - either uncompressed 12bits. Uncompressed 14 bits since A7R II  
   - or cRAW for "compressed Raw". This is lossy : "11 bit 'base' values, 7-bit 'deltas', 11 to 14 bit tone curve" say Rawdigger
-
 - LossLess Jpeg92 (starting with Alpha 1), in 2021
-  
   
 
 "Compressed" is used by Sony, where this is "lossy". 
@@ -209,7 +213,10 @@ Bits Per Sample                 : 14
 Pixel Shift Info                : Group 12094102, Composed 4-shot (0x3c3)
 ```
 
-## 
+## Samples
+
+- A7RM5 M-Size RAW : https://raw.pixls.us/getfile.php/6237/nice/Sony%20-%20ILCE-7RM5%20-%2014bit%20(4:3).ARW
+
 
 ## References
 
