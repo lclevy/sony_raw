@@ -1,6 +1,6 @@
 # Description of Sony RAW file formats (SRF, SR2, ARW and ARQ)
 
-Version 0.53 (21nov2024)
+Version 0.55 (24may2026)
 
 (this is work in progress)
 
@@ -58,6 +58,7 @@ Here is a more detailed view of evolution, and links to implementations:
 | a6700      | jul2023      | ARW 4.0.1                                        |
 | a9 III      | nov2023      | ARW 5.0                                        | 
 | a1 II       | nov2024      | ARW 5.0.1                                        | exiftool RAW File Type is Lossless Compressed RAW
+| a7 V | feb2026 | ARW 6.0 | new "lightweight" raw
 
 
 You can extract format information with Exiftool with **-FileFormat** :
